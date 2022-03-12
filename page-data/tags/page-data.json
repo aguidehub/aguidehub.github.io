@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-tags-js",
+    "path": "/tags/",
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"GoLang","totalCount":1}]}},"pageContext":{}},
+    "staticQueryHashes": ["2555585279","2714594843","3159585216"]}

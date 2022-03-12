@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-about-template-js",
+    "path": "/about/",
+    "result": {"data":{"markdownRemark":{"html":"<h1>Hey there, what’s up?</h1>\n<p>aGuideHub is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus creating value for budding developers out there.</p>\n<p>Here you will find blogs on the latest tech, tutorials on programming languages, explanations to data structure and algorithm concepts and questions, and much more… So stay tuned!!</p>","frontmatter":{"title":"About Mee","profile_image":"..\\..\\static\\media\\profile-image.jpg"}}},"pageContext":{"slug":"/about/"}},
+    "staticQueryHashes": ["2555585279","2714594843","3159585216"]}

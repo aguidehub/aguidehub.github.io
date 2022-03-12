@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-index-template-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"aGuideHub"}},"allMarkdownRemark":{"nodes":[{"fields":{"slug":"/blog/how-to-install-golang-in-windows/"},"excerpt":"Hi Friends 👋, Welcome To Infinitbility! ❤️ Today, we are going to install and run golang in windows, here I’m not going to tell you what Go…","timeToRead":3,"frontmatter":{"date":"March 12, 2022","description":"Go compiler installation and run go program with step by step tutorial - aGuideHub","title":"How to install golang in windows?","tags":["GoLang"]}}]},"markdownRemark":{"html":"<h1>aGuideHub</h1>\n<p>A guidehub guide you to complete your task.</p>","frontmatter":{"title":"Home"}}},"pageContext":{"slug":"/"}},
+    "staticQueryHashes": ["2555585279","2714594843","3159585216"]}

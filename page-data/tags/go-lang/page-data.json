@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-template-js",
+    "path": "/tags/go-lang/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"nodes":[{"fields":{"slug":"/blog/how-to-install-golang-in-windows/"},"frontmatter":{"date":"March 12, 2022","description":"Go compiler installation and run go program with step by step tutorial - aGuideHub","tags":["GoLang"],"title":"How to install golang in windows?"},"timeToRead":3,"excerpt":"Hi Friends 👋, Welcome To Infinitbility! ❤️ Today, we are going to install and run golang in windows, here I’m not going to tell you what Go…"}]}},"pageContext":{"tag":"GoLang"}},
+    "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
