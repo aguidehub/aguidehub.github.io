@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[aGuideHub]]></title><description><![CDATA[A guidehub guide you to complete your task.]]></description><link>https://aguidehub.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 26 Mar 2022 16:04:06 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hey there, what’s up? aGuideHub is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus…]]></description><link>https://aguidehub.com/about/</link><guid isPermaLink="false">https://aguidehub.com/about/</guid><content:encoded>&lt;h1&gt;Hey there, what’s up?&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[aGuideHub]]></title><description><![CDATA[A guidehub guide you to complete your task.]]></description><link>https://aguidehub.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 Apr 2022 17:42:16 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hey there, what’s up? aGuideHub is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus…]]></description><link>https://aguidehub.com/about/</link><guid isPermaLink="false">https://aguidehub.com/about/</guid><content:encoded>&lt;h1&gt;Hey there, what’s up?&lt;/h1&gt;
 &lt;p&gt;aGuideHub is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus creating value for budding developers out there.&lt;/p&gt;
 &lt;p&gt;Here you will find blogs on the latest tech, tutorials on programming languages, explanations to data structure and algorithm concepts and questions, and much more… So stay tuned!!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.]]></description><link>https://aguidehub.com/contact/</link><guid isPermaLink="false">https://aguidehub.com/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
 &lt;p&gt;If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Disclaimer]]></title><description><![CDATA[Welcome to aGuideHub! All the information on this website - https://aguidehub.com/ - is published in good faith and for general information…]]></description><link>https://aguidehub.com/disclaimer/</link><guid isPermaLink="false">https://aguidehub.com/disclaimer/</guid><content:encoded>&lt;p&gt;Welcome to aGuideHub!&lt;/p&gt;
@@ -134,7 +134,2281 @@
 &lt;li&gt;limit any of our or your liabilities in any way that is not permitted under applicable law; or&lt;/li&gt;
 &lt;li&gt;exclude any of our or your liabilities that may not be excluded under applicable law. The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add background color to text in photoshop?]]></title><description><![CDATA[Hello 👋, Welcome To aGuideHub! ❤️ This article will guide you to adding background colors to text in photoshop with example. To create a…]]></description><link>https://aguidehub.com/blog/how-to-add-background-color-to-text-in-photoshop/</link><guid isPermaLink="false">https://aguidehub.com/blog/how-to-add-background-color-to-text-in-photoshop/</guid><pubDate>Sat, 26 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello 👋,&lt;/p&gt;
+&lt;p&gt;As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add catch light to eyes in photoshop?]]></title><description><![CDATA[Hello 👋, Welcome To aGuideHub! ❤️ Table of contents Zoom in on the eyes Select the lasso tool Make a selection around the eyes Add a hue…]]></description><link>https://aguidehub.com/blog/how-to-add-catch-light-to-eyes-in-photoshop/</link><guid isPermaLink="false">https://aguidehub.com/blog/how-to-add-catch-light-to-eyes-in-photoshop/</guid><pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aGuideHub! ❤️&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zoom in on the eyes&lt;/li&gt;
+&lt;li&gt;Select the lasso tool&lt;/li&gt;
+&lt;li&gt;Make a selection around the eyes&lt;/li&gt;
+&lt;li&gt;Add a hue/saturation adjustment layer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 367px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c2d0be7b683226f30171303696791295/fc0c2/real-image.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 136.70886075949366%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQFBv/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAGlaS8HzoCEmnA4Uzx4j//EAB0QAAICAgMBAAAAAAAAAAAAAAEDAAIEEhETITH/2gAIAQEAAQUCxkBsdTqh+4+uzl0ZTW0DOKsbboJlKjnJgHn/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPwFKMKP/xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAgEBPwFj/8QAHRAAAgEEAwAAAAAAAAAAAAAAAAEQAhEhURIxYf/aAAgBAQAGPwJ8hLtRnQ9x6JvF4pVimP/EABsQAAMAAwEBAAAAAAAAAAAAAAABESExQVFh/9oACAEBAAE/IXas1NQTk06xFR8x5IcGuWW4SJhdMgZQ0jLgdcSSjRR4xTWn/9oADAMBAAIAAwAAABAc+f8A/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARYf/aAAgBAwEBPxDAs5AjbTf/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhYf/aAAgBAgEBPxB6pejdcKj/xAAfEAEBAQACAgIDAAAAAAAAAAABEQAxYSFRQaGx8PH/2gAIAQEAAT8QbTyUnOH8PQ5Dp7xwsxItUwZU/uNvtNse8OY0FBvO8xM73H7xns3yBA9521R4tc/EwifMzWJGPrNIrD8b/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, real-image&quot;
+        title=&quot;Photoshop, real-image&quot;
+        src=&quot;/static/c2d0be7b683226f30171303696791295/fc0c2/real-image.jpg&quot;
+        srcset=&quot;/static/c2d0be7b683226f30171303696791295/ff44c/real-image.jpg 158w,
+/static/c2d0be7b683226f30171303696791295/a6688/real-image.jpg 315w,
+/static/c2d0be7b683226f30171303696791295/fc0c2/real-image.jpg 367w&quot;
+        sizes=&quot;(max-width: 367px) 100vw, 367px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 1: Zoom in on the eyes&lt;/h2&gt;
+&lt;p&gt;Let’s zoom in on the eyes to make it easier to see what we’re doing.
+Select the Zoom Tool from the Toolbar.
+To center the eyes on your screen after you’ve zoomed in, press the H key on your keyboard to switch to Photoshop’s Hand Tool, and then click and drag the image into position:
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2127b54c31f7cc0e7d4346102b29ca50/eea4a/zoom.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHhWKYmhbUn/8QAHBAAAQQDAQAAAAAAAAAAAAAAAgABAxETIjIz/9oACAEBAAEFAg9ZwbHTodE0xWXX/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BJ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAICAgMAAAAAAAAAAAAAAAABETECQQMSIf/aAAgBAQAGPwJbU0Thx+lnZWaGf//EABoQAQADAAMAAAAAAAAAAAAAAAEAESExUWH/2gAIAQEAAT8hato67R2TywjbhCYKtKZdQfPZ/9oADAMBAAIAAwAAABBMH//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQMBAT8QTKQ//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxBe2l//xAAaEAEBAQEBAQEAAAAAAAAAAAABEQAhMUHR/9oACAEBAAE/EG9GgdA4Oo+uST0TMpB0K4oigWSjotEV+P7gZEDgeG//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, zoom&quot;
+        title=&quot;Photoshop, zoom&quot;
+        src=&quot;/static/2127b54c31f7cc0e7d4346102b29ca50/828fb/zoom.jpg&quot;
+        srcset=&quot;/static/2127b54c31f7cc0e7d4346102b29ca50/ff44c/zoom.jpg 158w,
+/static/2127b54c31f7cc0e7d4346102b29ca50/a6688/zoom.jpg 315w,
+/static/2127b54c31f7cc0e7d4346102b29ca50/828fb/zoom.jpg 630w,
+/static/2127b54c31f7cc0e7d4346102b29ca50/0ede0/zoom.jpg 945w,
+/static/2127b54c31f7cc0e7d4346102b29ca50/3ac88/zoom.jpg 1260w,
+/static/2127b54c31f7cc0e7d4346102b29ca50/eea4a/zoom.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 2: Select the lasso tool&lt;/h2&gt;
+&lt;p&gt;To change the eye color without affecting the rest of the image, we first need draw a selection around the eyes. Select the Lasso Tool from the Toolbar&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 233px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2e24c56e9875d440c044cbff778fcc7d/397a5/lasso-tool.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 201.8987341772152%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAoABQDASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAQCAwEF/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//aAAwDAQACEAMQAAABjazPqUHeG6SsMk+lzMdIhvH/xAAdEAABAwUBAAAAAAAAAAAAAAAAAQIRAxASIjIx/9oACAEBAAEFApMkJISMaQvtTiz+XJZy6ObrB//EABYRAAMAAAAAAAAAAAAAAAAAABARIP/aAAgBAwEBPwGEP//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BX//EAB4QAAIABgMAAAAAAAAAAAAAAAABEBESICEiMkGR/9oACAEBAAY/AjkvTDRsdDkO6mP/xAAfEAABAwQDAQAAAAAAAAAAAAARAAEQITFBYVFxsfH/2gAIAQEAAT8h3pt4UPC7VgA2n+lC2JgLxQUDvqbIEYpmqbZRIP/aAAwDAQACAAMAAAAQYDLD/wDP/8QAGREAAgMBAAAAAAAAAAAAAAAAAREAECFR/9oACAEDAQE/EEO0soAMin//xAAXEQADAQAAAAAAAAAAAAAAAAABEBEA/9oACAECAQE/ENWTV//EAB0QAQADAQEAAwEAAAAAAAAAAAEAESFBMWFxodH/2gAIAQEAAT8QVVrm1AjxwbLEU/eDBUidL5JuT+37CEQLhZKtVX9IAOhFr7GCGtGnz4i7O6TZbUQ8iL0r2AbW1FW6FPWf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, lasso-tool&quot;
+        title=&quot;Photoshop, lasso-tool&quot;
+        src=&quot;/static/2e24c56e9875d440c044cbff778fcc7d/397a5/lasso-tool.jpg&quot;
+        srcset=&quot;/static/2e24c56e9875d440c044cbff778fcc7d/ff44c/lasso-tool.jpg 158w,
+/static/2e24c56e9875d440c044cbff778fcc7d/397a5/lasso-tool.jpg 233w&quot;
+        sizes=&quot;(max-width: 233px) 100vw, 233px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 3: Make a selection around the eyes&lt;/h2&gt;
+&lt;p&gt;Draw a selection around one of the eyes.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/77832030c12eefa7954c96ad548b9690/ac614/select-lasso-tool.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.86075949367089%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCBAb/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABgzpNC88Oin//xAAbEAACAgMBAAAAAAAAAAAAAAABAgAEAxESMv/aAAgBAQABBQKuU0Vxcv6rIC2hDVxT/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHRAAAgIBBQAAAAAAAAAAAAAAAAECESESEyIxkf/aAAgBAQAGPwKW4ryalBM44RIo6fp//8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERIUExcf/aAAgBAQABPyFaBHYvIjbv4B1NcQpYylF9B//aAAwDAQACAAMAAAAQMw//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAEDAQE/EIlpWf/EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAgBAgEBPxCsf//EAB4QAQADAAAHAAAAAAAAAAAAAAEAESExYXGBkaGx/9oACAEBAAE/ECGwAULXLdnpZh5mejcC0HSXb0p7jfwh3XdWRjVmnU//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, select-lasso-tool&quot;
+        title=&quot;Photoshop, select-lasso-tool&quot;
+        src=&quot;/static/77832030c12eefa7954c96ad548b9690/828fb/select-lasso-tool.jpg&quot;
+        srcset=&quot;/static/77832030c12eefa7954c96ad548b9690/ff44c/select-lasso-tool.jpg 158w,
+/static/77832030c12eefa7954c96ad548b9690/a6688/select-lasso-tool.jpg 315w,
+/static/77832030c12eefa7954c96ad548b9690/828fb/select-lasso-tool.jpg 630w,
+/static/77832030c12eefa7954c96ad548b9690/0ede0/select-lasso-tool.jpg 945w,
+/static/77832030c12eefa7954c96ad548b9690/3ac88/select-lasso-tool.jpg 1260w,
+/static/77832030c12eefa7954c96ad548b9690/ac614/select-lasso-tool.jpg 1272w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;With the first eye selected, press and hold your Shift key. A small plus sign ( + ) appears in the lower right of your Lasso Tool cursor. Holding the Shift key tells Photoshop to add the selection you’re about to draw to the selection you’ve already drawn. Draw a selection around the second eye. Both eyes should now be selected:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8c2b69a383e742cbbf2c7c16a95ac0ee/b1591/two-eyes-select.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 53.79746835443038%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwb/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAFyFjgePHBH/8QAHBAAAQQDAQAAAAAAAAAAAAAAAQIDBBIAEyMx/9oACAEBAAEFAo96SGnFgqxg8B5LA3f/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAACEAARITH/2gAIAQEABj8CG+TEL//EABgQAQEBAQEAAAAAAAAAAAAAAAERACHw/9oACAEBAAE/IVZFhlahnS5RmSl9c+cRwOm//9oADAMBAAIAAwAAABC8H//EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAgBAwEBPxByRG//xAAWEQEBAQAAAAAAAAAAAAAAAAABACH/2gAIAQIBAT8QNhy//8QAHBABAAMAAwEBAAAAAAAAAAAAAQARMSFBcWHh/9oACAEBAAE/EK7Uqnc38gqpVcnwevI/Q8cU9fJ20FDy0bbSOYqVo1tn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, two-eyes-select&quot;
+        title=&quot;Photoshop, two-eyes-select&quot;
+        src=&quot;/static/8c2b69a383e742cbbf2c7c16a95ac0ee/828fb/two-eyes-select.jpg&quot;
+        srcset=&quot;/static/8c2b69a383e742cbbf2c7c16a95ac0ee/ff44c/two-eyes-select.jpg 158w,
+/static/8c2b69a383e742cbbf2c7c16a95ac0ee/a6688/two-eyes-select.jpg 315w,
+/static/8c2b69a383e742cbbf2c7c16a95ac0ee/828fb/two-eyes-select.jpg 630w,
+/static/8c2b69a383e742cbbf2c7c16a95ac0ee/b1591/two-eyes-select.jpg 790w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 4: Add a hue/saturation adjustment layer&lt;/h2&gt;
+&lt;p&gt;To change the eye color, we’ll use a Hue/Saturation adjustment layer. In the Layers panel, click the New Fill or Adjustment Layer icon.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 228px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3fc5e47b6251eecfb0fb4e6ef8a29ee5/74752/color-layer.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 155.69620253164555%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAfABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAEDBAL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHk86U51BaZKP/EABoQAAIDAQEAAAAAAAAAAAAAAAABEBIxAhH/2gAIAQEAAQUCqiqGhYdbDjwZ/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BIf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABcQAQADAAAAAAAAAAAAAAAAABABIDH/2gAIAQEABj8CZvp//8QAGxABAAMBAAMAAAAAAAAAAAAAAQARITEQQVH/2gAIAQEAAT8hXD1KoQzW2lUV2JHVfPUA+xEDez//2gAMAwEAAgADAAAAEKsNfP/EABcRAQEBAQAAAAAAAAAAAAAAAAEQESH/2gAIAQMBAT8QeQSbP//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxACqr//xAAfEAEAAgEFAAMAAAAAAAAAAAABABExIUFRcYEQodH/2gAIAQEAAT8QcgtWya/cbjbXZBFYrkgEJE4gtOvJ+wcXfUag6BDHzoqyeMBgvjC2sT//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, color-layer&quot;
+        title=&quot;Photoshop, color-layer&quot;
+        src=&quot;/static/3fc5e47b6251eecfb0fb4e6ef8a29ee5/74752/color-layer.jpg&quot;
+        srcset=&quot;/static/3fc5e47b6251eecfb0fb4e6ef8a29ee5/ff44c/color-layer.jpg 158w,
+/static/3fc5e47b6251eecfb0fb4e6ef8a29ee5/74752/color-layer.jpg 228w&quot;
+        sizes=&quot;(max-width: 228px) 100vw, 228px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Choose Hue/Saturation from the list.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/de878f04cad218f689cf423079fa49d2/eea4a/hue-Saturation.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABQBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAUPVYKhmYR//xAAbEAEAAgIDAAAAAAAAAAAAAAACAwQBEQATIv/aAAgBAQABBQKtrMs4JdgdTqZ036iUik5//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHhAAAgEDBQAAAAAAAAAAAAAAAAECERJBEyExMoH/2gAIAQEABj8Cep1wJRyUi3xkXpuXTdWf/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARIUFR/9oACAEBAAE/IafqkF6hhgDV6hwZpBFpy42YDyf/2gAMAwEAAgADAAAAEC8P/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAh/9oACAEDAQE/EAyf/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAh/9oACAECAQE/EF2f/8QAHhABAAIBBAMAAAAAAAAAAAAAAQARITFBYYGxwdH/2gAIAQEAAT8QLAsqK1d1tHmtuYeGIUsZs2r8gEECyd+oCk6PCZPE0TIuhjqf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, hue-Saturation&quot;
+        title=&quot;Photoshop, hue-Saturation&quot;
+        src=&quot;/static/de878f04cad218f689cf423079fa49d2/828fb/hue-Saturation.jpg&quot;
+        srcset=&quot;/static/de878f04cad218f689cf423079fa49d2/ff44c/hue-Saturation.jpg 158w,
+/static/de878f04cad218f689cf423079fa49d2/a6688/hue-Saturation.jpg 315w,
+/static/de878f04cad218f689cf423079fa49d2/828fb/hue-Saturation.jpg 630w,
+/static/de878f04cad218f689cf423079fa49d2/0ede0/hue-Saturation.jpg 945w,
+/static/de878f04cad218f689cf423079fa49d2/3ac88/hue-Saturation.jpg 1260w,
+/static/de878f04cad218f689cf423079fa49d2/eea4a/hue-Saturation.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 5: Select the “Colorize” option&lt;/h2&gt;
+&lt;p&gt;The controls and options for the Hue/Saturation adjustment layer appear in Photoshop’s Properties panel. Turn on the Colorize option by clicking inside its checkbox.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 232px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/552e7bbedfcf2c0aa78fcb25869b7f74/d1950/properties.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 165.82278481012656%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAhABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMCAQT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAfJzWSQLHZYNknUNCa//xAAbEAACAgMBAAAAAAAAAAAAAAAAARARAhIxIf/aAAgBAQABBQLWzQaqculGXVDXs//EABYRAAMAAAAAAAAAAAAAAAAAAAEQIP/aAAgBAwEBPwGAv//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BX//EABUQAQEAAAAAAAAAAAAAAAAAADAx/9oACAEBAAY/Ao//xAAdEAADAAICAwAAAAAAAAAAAAAAARExQSFREMHh/9oACAEBAAE/IUieiGmqKaEi+Dc6GFuh8BBguNFiwimB0LHj/9oADAMBAAIAAwAAABCzDI//AN//xAAXEQADAQAAAAAAAAAAAAAAAAAAEBEB/9oACAEDAQE/EFkhG//EABcRAQEBAQAAAAAAAAAAAAAAAAEQIWH/2gAIAQIBAT8QNjyM/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBUWFxgaH/2gAIAQEAAT8QDl7edn7B6N8gS6hEOpYmgxWYfT6dSyzWTiXI7OVvcRtaHdXNC7x1UF0WTh6iandt3GRw8E4jf6nBP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, properties&quot;
+        title=&quot;Photoshop, properties&quot;
+        src=&quot;/static/552e7bbedfcf2c0aa78fcb25869b7f74/d1950/properties.jpg&quot;
+        srcset=&quot;/static/552e7bbedfcf2c0aa78fcb25869b7f74/ff44c/properties.jpg 158w,
+/static/552e7bbedfcf2c0aa78fcb25869b7f74/d1950/properties.jpg 232w&quot;
+        sizes=&quot;(max-width: 232px) 100vw, 232px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;As soon as you select Colorize, the person’s eyes will turn red. Red is probably not the color you’re going for, so we’ll learn how to change it next.&lt;/p&gt;
+&lt;h2&gt;Step 6: New eye color With the hue slider&lt;/h2&gt;
+&lt;p&gt;To choose a different color for the eyes, drag the Hue slider&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c8607d8f982cbd10d072441766be9cc1/eea4a/hue-selecter.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAc6uN4qFif/EABsQAAIDAAMAAAAAAAAAAAAAAAECAAMRBBMy/9oACAEBAAEFAjs5FXWmGHyzsaZ//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BJ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAIDAQEAAAAAAAAAAAAAAAECABARITL/2gAIAQEABj8C4YpXcnqlBNf/xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhMUFR/9oACAEBAAE/IVi9XEQVbrbukPQkw3mj3krK/p//2gAMAwEAAgADAAAAEPAP/8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEh/9oACAEDAQE/EEo//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QZ//EAB0QAQACAwADAQAAAAAAAAAAAAEAESExQVFhcaH/2gAIAQEAAT8Qa08BxvzAd9dOhcxyLK/RIxtKgMbjUWv6NHwl21P/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Hue-selecter&quot;
+        title=&quot;Photoshop, Hue-selecter&quot;
+        src=&quot;/static/c8607d8f982cbd10d072441766be9cc1/828fb/hue-selecter.jpg&quot;
+        srcset=&quot;/static/c8607d8f982cbd10d072441766be9cc1/ff44c/hue-selecter.jpg 158w,
+/static/c8607d8f982cbd10d072441766be9cc1/a6688/hue-selecter.jpg 315w,
+/static/c8607d8f982cbd10d072441766be9cc1/828fb/hue-selecter.jpg 630w,
+/static/c8607d8f982cbd10d072441766be9cc1/0ede0/hue-selecter.jpg 945w,
+/static/c8607d8f982cbd10d072441766be9cc1/3ac88/hue-selecter.jpg 1260w,
+/static/c8607d8f982cbd10d072441766be9cc1/eea4a/hue-selecter.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 7: The Saturation of the new color&lt;/h2&gt;
+&lt;p&gt;Once you’ve chosen a new eye color with the Hue slider, drag the Saturation slider to the left to lower the intensity until the color looks more natural. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/72bc5c1252539a49a09d3333c6f08fa2/eea4a/saturation.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.86075949367089%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAc6vPrFQoT//xAAaEAACAwEBAAAAAAAAAAAAAAABEQACAwQT/9oACAEBAAEFAi50ZedEYyr6WPO5/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BJ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAEDBQEAAAAAAAAAAAAAAAEAAhAREiEyQVH/2gAIAQEABj8CwU0i6nq2hgJ6Y//EABoQAAMAAwEAAAAAAAAAAAAAAAABESExUUH/2gAIAQEAAT8hx3a4jZs2z9Ihqjhg4MK6f//aAAwDAQACAAMAAAAQs8//xAAWEQADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQMBAT8QCr//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxBn/8QAHRABAQACAQUAAAAAAAAAAAAAAREAQSExUXGBkf/aAAgBAQABPxA20QPPfIRUYSi1xrHhC+pgkPCoTLiAJNEh6uX64//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Saturation&quot;
+        title=&quot;Photoshop, Saturation&quot;
+        src=&quot;/static/72bc5c1252539a49a09d3333c6f08fa2/828fb/saturation.jpg&quot;
+        srcset=&quot;/static/72bc5c1252539a49a09d3333c6f08fa2/ff44c/saturation.jpg 158w,
+/static/72bc5c1252539a49a09d3333c6f08fa2/a6688/saturation.jpg 315w,
+/static/72bc5c1252539a49a09d3333c6f08fa2/828fb/saturation.jpg 630w,
+/static/72bc5c1252539a49a09d3333c6f08fa2/0ede0/saturation.jpg 945w,
+/static/72bc5c1252539a49a09d3333c6f08fa2/3ac88/saturation.jpg 1260w,
+/static/72bc5c1252539a49a09d3333c6f08fa2/eea4a/saturation.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;When you follow the above steps then it will create catch light to eyes it will show in photoshop.&lt;/p&gt;
+&lt;p&gt;Thanks for reading…&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add canvas in photoshop?]]></title><description><![CDATA[Hello 👋, Welcome To aGuideHub! ❤️ Table of contents Convert the Background layer into a normal layer Select the crop tool Drag the handles…]]></description><link>https://aguidehub.com/blog/how-to-add-canvas-in-photoshop/</link><guid isPermaLink="false">https://aguidehub.com/blog/how-to-add-canvas-in-photoshop/</guid><pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aGuideHub! ❤️&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Convert the Background layer into a normal layer&lt;/li&gt;
+&lt;li&gt;Select the crop tool&lt;/li&gt;
+&lt;li&gt;Drag the handles to resize the crop border&lt;/li&gt;
+&lt;li&gt;Apply the crop&lt;/li&gt;
+&lt;li&gt;Add a Solid Color fill layer&lt;/li&gt;
+&lt;li&gt;Drag the fill layer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s learn how to add extra space around the image.&lt;/p&gt;
+&lt;h2&gt;Step 1: Convert the background layer into a normal layer&lt;/h2&gt;
+&lt;p&gt;With our newly opened image in Photoshop, if we look in the Layers panel, we find the image sitting on the Background layer, currently the only layer in our document.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 230px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d804fefaf1a48f5e28694744eddad88e/e83b4/double-click.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 112.0253164556962%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAWABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHjrOhiCZCgP//EABsQAAICAwEAAAAAAAAAAAAAAAABEBECEiEx/9oACAEBAAEFAqVaoajhl7DP/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFRABAQAAAAAAAAAAAAAAAAAAIDH/2gAIAQEABj8CFP8A/8QAHBABAAICAwEAAAAAAAAAAAAAAQARIUEQMVGh/9oACAEBAAE/IbhrgCK1h+TrD0cQDEo9YC5//9oADAMBAAIAAwAAABBACDz/xAAWEQADAAAAAAAAAAAAAAAAAAABICH/2gAIAQMBAT8QMT//xAAWEQADAAAAAAAAAAAAAAAAAAABICH/2gAIAQIBAT8QFT//xAAcEAEAAwACAwAAAAAAAAAAAAABABEhQZExgcH/2gAIAQEAAT8QXNCrhNiXL2QSV4qUueFYdnsVpKa3AyMLL1MfhOcep//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, double-click&quot;
+        title=&quot;Photoshop, double-click&quot;
+        src=&quot;/static/d804fefaf1a48f5e28694744eddad88e/e83b4/double-click.jpg&quot;
+        srcset=&quot;/static/d804fefaf1a48f5e28694744eddad88e/ff44c/double-click.jpg 158w,
+/static/d804fefaf1a48f5e28694744eddad88e/e83b4/double-click.jpg 230w&quot;
+        sizes=&quot;(max-width: 230px) 100vw, 230px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;we should do is convert the Background layer into a normal layer. The reason is that we want the extra space to appear on its own separate layer below the image, but Photoshop doesn’t allow us to place layers below a Background layer.
+To do that, in Photoshop Cs6, all we need to do is click on the small lock icon to the right of Background layer’s name:
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 230px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/56a4dee40049a207ce9a4047b5c79a3e/e83b4/lock-icon.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 165.82278481012656%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAhABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHjrOhgCUjNIuCoP//EABsQAAMAAgMAAAAAAAAAAAAAAAABEAISESEx/9oACAEBAAEFAtUajU6MvY5wOs//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AV//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AV//xAAWEAADAAAAAAAAAAAAAAAAAAAgMDH/2gAIAQEABj8CCr//xAAcEAACAgMBAQAAAAAAAAAAAAAAARExECFRQaH/2gAIAQEAAT8hbEtQQEJjbjT+FA/is2EnwlwRzQsWP//aAAwDAQACAAMAAAAQQMUwAA//xAAXEQADAQAAAAAAAAAAAAAAAAAAASAh/9oACAEDAQE/EB5P/8QAFhEAAwAAAAAAAAAAAAAAAAAAASAh/9oACAECAQE/EBW//8QAHBAAAwADAQEBAAAAAAAAAAAAAAERITFBcRCR/9oACAEBAAE/EGUqTjWRr6/1CxNQ0msKbDXJZlEJaosC0vu3EmdMdueC244EavD/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, lock-icon&quot;
+        title=&quot;Photoshop, lock-icon&quot;
+        src=&quot;/static/56a4dee40049a207ce9a4047b5c79a3e/e83b4/lock-icon.jpg&quot;
+        srcset=&quot;/static/56a4dee40049a207ce9a4047b5c79a3e/ff44c/lock-icon.jpg 158w,
+/static/56a4dee40049a207ce9a4047b5c79a3e/e83b4/lock-icon.jpg 230w&quot;
+        sizes=&quot;(max-width: 230px) 100vw, 230px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Press and hold the &lt;strong&gt;&lt;em&gt;Alt key&lt;/em&gt;&lt;/strong&gt; on your keyboard and &lt;strong&gt;&lt;em&gt;double-click&lt;/em&gt;&lt;/strong&gt; on the name &lt;strong&gt;&lt;em&gt;Background&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 232px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/93f5138935cff066f3dc259b898e7291/d1950/background.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 112.65822784810126%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAXABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAEDAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB8Uui4qRQ5B//xAAaEAACAgMAAAAAAAAAAAAAAAAAEQESAhAh/9oACAEBAAEFAqwUK6RlyRCP/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQMBAT8BI//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABYQAAMAAAAAAAAAAAAAAAAAABAgMf/aAAgBAQAGPwJ6P//EABoQAAMAAwEAAAAAAAAAAAAAAAABERAhMWH/2gAIAQEAAT8hslFCBoNuanCJ1DaEJe4Ht0//2gAMAwEAAgADAAAAEAAIAP/EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAEDAQE/EBMf/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQIBAT8QY//EAB4QAQACAgEFAAAAAAAAAAAAAAEAESExUUFhcYGR/9oACAEBAAE/EFmiri7iHVrxAVi+9QQ30qxyzYzJompEDcFDA9SlafGcRP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, background&quot;
+        title=&quot;Photoshop, background&quot;
+        src=&quot;/static/93f5138935cff066f3dc259b898e7291/d1950/background.jpg&quot;
+        srcset=&quot;/static/93f5138935cff066f3dc259b898e7291/ff44c/background.jpg 158w,
+/static/93f5138935cff066f3dc259b898e7291/d1950/background.jpg 232w&quot;
+        sizes=&quot;(max-width: 232px) 100vw, 232px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;&lt;em&gt;Background&lt;/em&gt;&lt;/strong&gt; layer is instantly converted to a &lt;strong&gt;&lt;em&gt;normal layer&lt;/em&gt;&lt;/strong&gt; and renamed &lt;strong&gt;&lt;em&gt;Layer 0&lt;/em&gt;&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 230px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5b84bddd8bf39a2a3ac3ed1c34bd16a0/e83b4/layer0.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 112.0253164556962%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAWABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHyTtnAFaEA/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAEREgIQITH/2gAIAQEAAQUCqoqhok4Ze6Z//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFxAAAwEAAAAAAAAAAAAAAAAAABAxIP/aAAgBAQAGPwJ0uf/EABwQAQABBAMAAAAAAAAAAAAAAAEAESFBURCB8P/aAAgBAQABPyFUY7j6YQxVLcB4MA3KG2C8/9oADAMBAAIAAwAAABDHyAD/xAAWEQADAAAAAAAAAAAAAAAAAAARICH/2gAIAQMBAT8QET//xAAWEQADAAAAAAAAAAAAAAAAAAABICH/2gAIAQIBAT8QFT//xAAeEAEAAgEEAwAAAAAAAAAAAAABABEhMUFRYYGRwf/aAAgBAQABPxBRAVbCAtto6QRWlcyjCNNh9xezGcxcbAMRlWjxMPwhb3Tif//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, layer0&quot;
+        title=&quot;Photoshop, layer0&quot;
+        src=&quot;/static/5b84bddd8bf39a2a3ac3ed1c34bd16a0/e83b4/layer0.jpg&quot;
+        srcset=&quot;/static/5b84bddd8bf39a2a3ac3ed1c34bd16a0/ff44c/layer0.jpg 158w,
+/static/5b84bddd8bf39a2a3ac3ed1c34bd16a0/e83b4/layer0.jpg 230w&quot;
+        sizes=&quot;(max-width: 230px) 100vw, 230px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 2: Select the crop tool&lt;/h2&gt;
+&lt;p&gt;Select the &lt;strong&gt;&lt;em&gt;Crop Tool&lt;/em&gt;&lt;/strong&gt; from the Toolbar along the left of the screen. You can also select the Crop Tool by pressing the letter &lt;strong&gt;&lt;em&gt;C&lt;/em&gt;&lt;/strong&gt; on your keyboard.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ec088b2b008c6f69f604acba72c79d02/eea4a/crop-tool.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.86075949367089%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAc5NLRJR/8QAGBABAAMBAAAAAAAAAAAAAAAAAQIQESH/2gAIAQEAAQUC6siQ1tf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAABBQEAAAAAAAAAAAAAAAAAAREgITEy/9oACAEBAAY/AqNdDqH/xAAcEAADAAEFAAAAAAAAAAAAAAAAARExECFBYYH/2gAIAQEAAT8hx3frNgdxMbmGLGy5ONP/2gAMAwEAAgADAAAAEDsP/8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEh/9oACAEDAQE/EIh//8QAFxEAAwEAAAAAAAAAAAAAAAAAARARIf/aAAgBAgEBPxA24v/EABsQAQADAQADAAAAAAAAAAAAAAEAETEhUXGR/9oACAEBAAE/EFxPtB8i8AC3kfUZgkrzLqA6uyisNGQn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, crop-tool&quot;
+        title=&quot;Photoshop, crop-tool&quot;
+        src=&quot;/static/ec088b2b008c6f69f604acba72c79d02/828fb/crop-tool.jpg&quot;
+        srcset=&quot;/static/ec088b2b008c6f69f604acba72c79d02/ff44c/crop-tool.jpg 158w,
+/static/ec088b2b008c6f69f604acba72c79d02/a6688/crop-tool.jpg 315w,
+/static/ec088b2b008c6f69f604acba72c79d02/828fb/crop-tool.jpg 630w,
+/static/ec088b2b008c6f69f604acba72c79d02/0ede0/crop-tool.jpg 945w,
+/static/ec088b2b008c6f69f604acba72c79d02/3ac88/crop-tool.jpg 1260w,
+/static/ec088b2b008c6f69f604acba72c79d02/eea4a/crop-tool.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 3: Drag the handles to resize the crop border&lt;/h2&gt;
+&lt;p&gt;To add extra space around the image, all we need to do is click on the handles and drag them outward. Photoshop will then expand the size of the canvas to match the new size of the crop border.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1460cd457997dceb27b5e841599ae57a/eea4a/apply-convas-size.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABzqwSYKKf/8QAGBABAAMBAAAAAAAAAAAAAAAAAQIQERL/2gAIAQEAAQUCNkvRe1//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAADAQAAAAAAAAAAAAAAAAAAIDEy/9oACAEBAAY/AqU0n//EAB0QAQACAQUBAAAAAAAAAAAAAAEAETEQIUFhcZH/2gAIAQEAAT8hPFl5WBG9nsKrL7Fq+4pK0//aAAwDAQACAAMAAAAQzw//xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8QiH//xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQIBAT8QrH//xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhQVFx/9oACAEBAAE/EGjK4cEXvwflFkfRdKtzUKMLW1FAkzhD/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, apply-convas-size&quot;
+        title=&quot;Photoshop, apply-convas-size&quot;
+        src=&quot;/static/1460cd457997dceb27b5e841599ae57a/828fb/apply-convas-size.jpg&quot;
+        srcset=&quot;/static/1460cd457997dceb27b5e841599ae57a/ff44c/apply-convas-size.jpg 158w,
+/static/1460cd457997dceb27b5e841599ae57a/a6688/apply-convas-size.jpg 315w,
+/static/1460cd457997dceb27b5e841599ae57a/828fb/apply-convas-size.jpg 630w,
+/static/1460cd457997dceb27b5e841599ae57a/0ede0/apply-convas-size.jpg 945w,
+/static/1460cd457997dceb27b5e841599ae57a/3ac88/apply-convas-size.jpg 1260w,
+/static/1460cd457997dceb27b5e841599ae57a/eea4a/apply-convas-size.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;With the &lt;strong&gt;&lt;em&gt;Crop Tool&lt;/em&gt;&lt;/strong&gt; selected, Photoshop places a default crop border around the image, along with handles on the top, bottom, left and right of the border, and one in each corner. We’ll use these handles to resize the crop border and add our &lt;strong&gt;&lt;em&gt;extra canvas space&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9114e1a846565df0eb5a996df558c7ef/eea4a/around-convas.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.86075949367089%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGV5CVzAo//xAAZEAEAAwEBAAAAAAAAAAAAAAABAAIRExL/2gAIAQEAAQUCpvMXrPThZqz/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAEAAgEFAAAAAAAAAAAAAAABABFBAhASMmH/2gAIAQEABj8CWhbzA46EudontwTG3//EABsQAQEBAAIDAAAAAAAAAAAAAAERACExQXHh/9oACAEBAAE/IVDKJ6RzFugUPuZe+C4scTQ8jdt3/9oADAMBAAIAAwAAABALz//EABYRAQEBAAAAAAAAAAAAAAAAABEBEP/aAAgBAwEBPxCBn//EABcRAAMBAAAAAAAAAAAAAAAAAAEQESH/2gAIAQIBAT8QNuL/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMUFRwf/aAAgBAQABPxCoiL6rhp5CKNENxS6YAVBrl8gJNZZtgn2aCkWF7dxbF1bn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, around-convas&quot;
+        title=&quot;Photoshop, around-convas&quot;
+        src=&quot;/static/9114e1a846565df0eb5a996df558c7ef/828fb/around-convas.jpg&quot;
+        srcset=&quot;/static/9114e1a846565df0eb5a996df558c7ef/ff44c/around-convas.jpg 158w,
+/static/9114e1a846565df0eb5a996df558c7ef/a6688/around-convas.jpg 315w,
+/static/9114e1a846565df0eb5a996df558c7ef/828fb/around-convas.jpg 630w,
+/static/9114e1a846565df0eb5a996df558c7ef/0ede0/around-convas.jpg 945w,
+/static/9114e1a846565df0eb5a996df558c7ef/3ac88/around-convas.jpg 1260w,
+/static/9114e1a846565df0eb5a996df558c7ef/eea4a/around-convas.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Click the Cancel button at the top of the menu and resize your image.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f241bfc74b99a44f6e3494a4f2258453/eea4a/cancel-butten.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHK7UlhIlP/xAAbEAACAgMBAAAAAAAAAAAAAAABAgASAxETIf/aAAgBAQABBQJN0Unr5MSigCqZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHhAAAQQBBQAAAAAAAAAAAAAAAQACERJBECExMlH/2gAIAQEABj8CcYBNspoqwifF2Tp3ypDeNP/EABkQAQADAQEAAAAAAAAAAAAAAAEAESFxMf/aAAgBAQABPyFUggOdiLKgUjpEEKKahgFqzWPrP//aAAwDAQACAAMAAAAQfM//xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8QiH//xAAXEQADAQAAAAAAAAAAAAAAAAABEBEh/9oACAECAQE/EDbi/8QAGxABAQADAQEBAAAAAAAAAAAAAREAITFRQYH/2gAIAQEAAT8QkshRYjQ/QxcdWAFLN4gWHvl5gQYIkjE+T3B19gSNvubN6rn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, cancel-butten&quot;
+        title=&quot;Photoshop, cancel-butten&quot;
+        src=&quot;/static/f241bfc74b99a44f6e3494a4f2258453/828fb/cancel-butten.jpg&quot;
+        srcset=&quot;/static/f241bfc74b99a44f6e3494a4f2258453/ff44c/cancel-butten.jpg 158w,
+/static/f241bfc74b99a44f6e3494a4f2258453/a6688/cancel-butten.jpg 315w,
+/static/f241bfc74b99a44f6e3494a4f2258453/828fb/cancel-butten.jpg 630w,
+/static/f241bfc74b99a44f6e3494a4f2258453/0ede0/cancel-butten.jpg 945w,
+/static/f241bfc74b99a44f6e3494a4f2258453/3ac88/cancel-butten.jpg 1260w,
+/static/f241bfc74b99a44f6e3494a4f2258453/eea4a/cancel-butten.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 4: Apply the crop&lt;/h2&gt;
+&lt;p&gt;To apply the crop, click the checkmark in the Options Bar, or press Enter on your keyboard.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b2b0086a08cb3e41e80db26606c46ae3/eea4a/checkmark.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHK7UlhIlP/xAAbEAACAgMBAAAAAAAAAAAAAAABAgATAxESIf/aAAgBAQABBQJN1gm3yYlHAVVM/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHhAAAgIBBQEAAAAAAAAAAAAAAQIAEUEQEiExMlH/2gAIAQEABj8CY0Cd2YopCL+T1GvnMsL1p//EABkQAQADAQEAAAAAAAAAAAAAAAEAESFxMf/aAAgBAQABPyFUAgOdjLOgUjpEEKKahAFqzWPrP//aAAwDAQACAAMAAAAQfM//xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8QiH//xAAXEQADAQAAAAAAAAAAAAAAAAABEBEh/9oACAECAQE/EDbi/8QAGxABAAMAAwEAAAAAAAAAAAAAAQARITFBUYH/2gAIAQEAAT8QqGQoukYPoR8c7ACl1sQLR65fEwiiJKaTqvYGvoEpu/ZpvVZ//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, checkmark&quot;
+        title=&quot;Photoshop, checkmark&quot;
+        src=&quot;/static/b2b0086a08cb3e41e80db26606c46ae3/828fb/checkmark.jpg&quot;
+        srcset=&quot;/static/b2b0086a08cb3e41e80db26606c46ae3/ff44c/checkmark.jpg 158w,
+/static/b2b0086a08cb3e41e80db26606c46ae3/a6688/checkmark.jpg 315w,
+/static/b2b0086a08cb3e41e80db26606c46ae3/828fb/checkmark.jpg 630w,
+/static/b2b0086a08cb3e41e80db26606c46ae3/0ede0/checkmark.jpg 945w,
+/static/b2b0086a08cb3e41e80db26606c46ae3/3ac88/checkmark.jpg 1260w,
+/static/b2b0086a08cb3e41e80db26606c46ae3/eea4a/checkmark.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Photoshop &lt;strong&gt;&lt;em&gt;crops&lt;/em&gt;&lt;/strong&gt; the image, although in this case, we’ve actually done the opposite; we’ve added space with the &lt;strong&gt;&lt;em&gt;Crop Tool&lt;/em&gt;&lt;/strong&gt; rather than deleted it.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c57ab7f8792654ccc84a2bae2a347b5d/2f5f2/image-spase.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 80.37974683544303%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABU9WEPSGUf//EABkQAQEBAAMAAAAAAAAAAAAAAAMBAhESE//aAAgBAQABBQJkaOivnQ26JzTSeK8FOp//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIxERIyQZH/2gAIAQEABj8Cai3joxu/CLnY3GjiJSs//8QAGhABAAMBAQEAAAAAAAAAAAAAAQARIVGBsf/aAAgBAQABPyEl7NM5FxSmnEfq92+wLbRmkKY6HpGzmvs//9oADAMBAAIAAwAAABCsL//EABYRAQEBAAAAAAAAAAAAAAAAABEBEP/aAAgBAwEBPxAhn//EABcRAQEBAQAAAAAAAAAAAAAAAAEAITH/2gAIAQIBAT8QV2OX/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFRQXH/2gAIAQEAAT8QaMEAU0vZ9i0J6MHPJdAtAzS5FOgCKNA7fsMoUWuQxXvZTUWQpi1P/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, image-spase&quot;
+        title=&quot;Photoshop, image-spase&quot;
+        src=&quot;/static/c57ab7f8792654ccc84a2bae2a347b5d/828fb/image-spase.jpg&quot;
+        srcset=&quot;/static/c57ab7f8792654ccc84a2bae2a347b5d/ff44c/image-spase.jpg 158w,
+/static/c57ab7f8792654ccc84a2bae2a347b5d/a6688/image-spase.jpg 315w,
+/static/c57ab7f8792654ccc84a2bae2a347b5d/828fb/image-spase.jpg 630w,
+/static/c57ab7f8792654ccc84a2bae2a347b5d/2f5f2/image-spase.jpg 797w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 5: Add a Solid Color fill layer&lt;/h2&gt;
+&lt;p&gt;Click on the &lt;strong&gt;&lt;em&gt;New Fill or Adjustment Layer icon&lt;/em&gt;&lt;/strong&gt; at the bottom of the Layers panel.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 233px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3dfba55bec0b11e00fdd8f73ad6202c8/397a5/new-fill-layer.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 109.49367088607596%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAWABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB5K6wc4LyS5Cz/8QAGRABAQADAQAAAAAAAAAAAAAAAAECEiEx/9oACAEBAAEFAtY1jJHGfriv/8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQMBAT8BIf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABgQAAIDAAAAAAAAAAAAAAAAAAAxARAg/9oACAEBAAY/ArhDz//EABwQAQEAAgIDAAAAAAAAAAAAAAEAESExgUFh8P/aAAgBAQABPyFUPHc/TAGYm3LeWYVMe7tc7//aAAwDAQACAAMAAAAQ0Mj8/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAh/9oACAEDAQE/EHIGmf/EABcRAQADAAAAAAAAAAAAAAAAABABIUH/2gAIAQIBAT8QizT/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMUFxgeH/2gAIAQEAAT8QcgFXAgM3jpBIaqWV1DRj7Fxt7LMGwKIMbfBE4N+iE1XU/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, new-fill-layer&quot;
+        title=&quot;Photoshop, new-fill-layer&quot;
+        src=&quot;/static/3dfba55bec0b11e00fdd8f73ad6202c8/397a5/new-fill-layer.jpg&quot;
+        srcset=&quot;/static/3dfba55bec0b11e00fdd8f73ad6202c8/ff44c/new-fill-layer.jpg 158w,
+/static/3dfba55bec0b11e00fdd8f73ad6202c8/397a5/new-fill-layer.jpg 233w&quot;
+        sizes=&quot;(max-width: 233px) 100vw, 233px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Then choose &lt;strong&gt;&lt;em&gt;Solid Color&lt;/em&gt;&lt;/strong&gt; from the top of the list that appears.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7300201d155895d0214915afaebbbbe1/eea4a/solid-color.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIDBAUG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAazNJLTOZKf/xAAaEAACAgMAAAAAAAAAAAAAAAABAgMTABIy/9oACAEBAAEFAl4BNkcSaRKKwqqc/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHhABAAEDBQEAAAAAAAAAAAAAAQACESIQEiExQXH/2gAIAQEABj8CqSzl7A20J8hiRHmXKetP/8QAGBABAQEBAQAAAAAAAAAAAAAAAREAIWH/2gAIAQEAAT8hbIYAeO516pUxN0ZpUij3EAVU65WvXf/aAAwDAQACAAMAAAAQHA//xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8QiH//xAAXEQADAQAAAAAAAAAAAAAAAAABEBEh/9oACAECAQE/EDbi/8QAHBABAQACAwEBAAAAAAAAAAAAAREAITFBUWGB/9oACAEBAAE/ELe8RoI0P0Mawq5EpZvGN4aznWKqSFPMTqe4GvsCbt9z6ye3P//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop,solid-color&quot;
+        title=&quot;Photoshop,solid-color&quot;
+        src=&quot;/static/7300201d155895d0214915afaebbbbe1/828fb/solid-color.jpg&quot;
+        srcset=&quot;/static/7300201d155895d0214915afaebbbbe1/ff44c/solid-color.jpg 158w,
+/static/7300201d155895d0214915afaebbbbe1/a6688/solid-color.jpg 315w,
+/static/7300201d155895d0214915afaebbbbe1/828fb/solid-color.jpg 630w,
+/static/7300201d155895d0214915afaebbbbe1/0ede0/solid-color.jpg 945w,
+/static/7300201d155895d0214915afaebbbbe1/3ac88/solid-color.jpg 1260w,
+/static/7300201d155895d0214915afaebbbbe1/eea4a/solid-color.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Photoshop will &lt;strong&gt;&lt;em&gt;pop open&lt;/em&gt;&lt;/strong&gt; the Color Picker where we can choose a color for the border. The default color is black, but choose white for now.
+Click &lt;strong&gt;&lt;em&gt;OK&lt;/em&gt;&lt;/strong&gt; to close out of the &lt;strong&gt;&lt;em&gt;Color Picker&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2e93229f5aaf0f5c251439ba9c4d1a29/d4e6b/color-picker.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAWUpG0iCw//EABsQAAMAAgMAAAAAAAAAAAAAAAABAgMEERMi/9oACAEBAAEFAteYFhxMcs1/J30cn//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAIDAQEAAAAAAAAAAAAAAAABAhExEDP/2gAIAQEABj8CqdSbw80aOVKzFz//xAAaEAEBAQEAAwAAAAAAAAAAAAABABExIaHR/9oACAEBAAE/IRr0UZwhN9MF+pgBj4Fs5Xrf/9oADAMBAAIAAwAAABCUD//EABcRAAMBAAAAAAAAAAAAAAAAAAEQEUH/2gAIAQMBAT8QMxf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEAAwEAAwEAAAAAAAAAAAABABEhQWFxkdH/2gAIAQEAAT8QamlMnLR+kG0L4w3MiqeFwdkgTYJplQyFHp/Y1l68n//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop,color-picker&quot;
+        title=&quot;Photoshop,color-picker&quot;
+        src=&quot;/static/2e93229f5aaf0f5c251439ba9c4d1a29/828fb/color-picker.jpg&quot;
+        srcset=&quot;/static/2e93229f5aaf0f5c251439ba9c4d1a29/ff44c/color-picker.jpg 158w,
+/static/2e93229f5aaf0f5c251439ba9c4d1a29/a6688/color-picker.jpg 315w,
+/static/2e93229f5aaf0f5c251439ba9c4d1a29/828fb/color-picker.jpg 630w,
+/static/2e93229f5aaf0f5c251439ba9c4d1a29/0ede0/color-picker.jpg 945w,
+/static/2e93229f5aaf0f5c251439ba9c4d1a29/3ac88/color-picker.jpg 1260w,
+/static/2e93229f5aaf0f5c251439ba9c4d1a29/d4e6b/color-picker.jpg 1278w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We need to move the &lt;strong&gt;&lt;em&gt;fill layer&lt;/em&gt;&lt;/strong&gt; below the image in the &lt;strong&gt;&lt;em&gt;Layers panel&lt;/em&gt;&lt;/strong&gt; so that it appears behind the image in the document. To do that, simply click on the fill layer and drag it down below &lt;strong&gt;&lt;em&gt;Layer 0&lt;/em&gt;&lt;/strong&gt;. When you see a horizontal highlight bar appear below &lt;strong&gt;&lt;em&gt;Layer 0&lt;/em&gt;&lt;/strong&gt;, release your mouse button.&lt;/p&gt;
+&lt;p&gt;Photoshop drops the fill layer into place below the image.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cc99ec23f7eed0969a2b75a081aaeca6/eea4a/Dragging-Solid-Color.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.22784810126582%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAWUplUzAsP/EABsQAAICAwEAAAAAAAAAAAAAAAECAAMEERIU/9oACAEBAAEFAsNFsHnqjBgcA6Xswsd//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHBAAAQMFAAAAAAAAAAAAAAAAAAECERASMTJx/9oACAEBAAY/An3JMKaIZH9r/8QAHBAAAgICAwAAAAAAAAAAAAAAABEBQRAxUWFx/9oACAEBAAE/IVxajwVKRRKtwOiBz6f/2gAMAwEAAgADAAAAEPPf/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAIAQMBAT8QR//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB4QAQEAAgAHAAAAAAAAAAAAAAERADEhQXGRodHw/9oACAEBAAE/EEOajWics+V94tKRUV1WZEA3Z0yjPA4ji6Qd8//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop,Dragging-Solid-Color&quot;
+        title=&quot;Photoshop,Dragging-Solid-Color&quot;
+        src=&quot;/static/cc99ec23f7eed0969a2b75a081aaeca6/828fb/Dragging-Solid-Color.jpg&quot;
+        srcset=&quot;/static/cc99ec23f7eed0969a2b75a081aaeca6/ff44c/Dragging-Solid-Color.jpg 158w,
+/static/cc99ec23f7eed0969a2b75a081aaeca6/a6688/Dragging-Solid-Color.jpg 315w,
+/static/cc99ec23f7eed0969a2b75a081aaeca6/828fb/Dragging-Solid-Color.jpg 630w,
+/static/cc99ec23f7eed0969a2b75a081aaeca6/0ede0/Dragging-Solid-Color.jpg 945w,
+/static/cc99ec23f7eed0969a2b75a081aaeca6/3ac88/Dragging-Solid-Color.jpg 1260w,
+/static/cc99ec23f7eed0969a2b75a081aaeca6/eea4a/Dragging-Solid-Color.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 6: Drag the fill layer&lt;/h2&gt;
+&lt;p&gt;If we look in the Layers panel, we can see our &lt;strong&gt;&lt;em&gt;Solid Color fill layer&lt;/em&gt;&lt;/strong&gt;, named &lt;strong&gt;&lt;em&gt;Color Fill 1&lt;/em&gt;&lt;/strong&gt;. And, we see that the reason it’s blocking our image from view is because it’s currently sitting above the image on &lt;strong&gt;&lt;em&gt;Layer 0&lt;/em&gt;&lt;/strong&gt;. Any layers above other layers in the Layers panel appear in front of those layers in the document&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1b212babac82bf63952952292bbbc33c/eea4a/Layers-panel.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.86075949367089%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABnZ7peMZlH//EABoQAQEAAgMAAAAAAAAAAAAAAAIBAwQREzP/2gAIAQEAAQUCHmbe2lS6ojxnXBtV5//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAICAgMBAAAAAAAAAAAAAAECABESIQMQMVH/2gAIAQEABj8CY0GOVbirhx1c9jBvsBF66//EABsQAQADAAMBAAAAAAAAAAAAAAEAESFBcaHh/9oACAEBAAE/IU1TD01FIZgUPsaaq8gbZV8gcaWbLTeZ/9oADAMBAAIAAwAAABBoD//EABYRAQEBAAAAAAAAAAAAAAAAABEBEP/aAAgBAwEBPxAhn//EABcRAAMBAAAAAAAAAAAAAAAAAAEQESH/2gAIAQIBAT8QNuL/xAAbEAEBAAIDAQAAAAAAAAAAAAABEQAxIUGxwf/aAAgBAQABPxAIKBsCTxydhisFD6UscAYFNnVxkiQxjaPuUlCo0tuNv2e5/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Layers, panel&quot;
+        title=&quot;Photoshop, Layers, panel&quot;
+        src=&quot;/static/1b212babac82bf63952952292bbbc33c/828fb/Layers-panel.jpg&quot;
+        srcset=&quot;/static/1b212babac82bf63952952292bbbc33c/ff44c/Layers-panel.jpg 158w,
+/static/1b212babac82bf63952952292bbbc33c/a6688/Layers-panel.jpg 315w,
+/static/1b212babac82bf63952952292bbbc33c/828fb/Layers-panel.jpg 630w,
+/static/1b212babac82bf63952952292bbbc33c/0ede0/Layers-panel.jpg 945w,
+/static/1b212babac82bf63952952292bbbc33c/3ac88/Layers-panel.jpg 1260w,
+/static/1b212babac82bf63952952292bbbc33c/eea4a/Layers-panel.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Changing the color of the border&lt;/h2&gt;
+&lt;p&gt;To change the color, double-click on the fill layer’s color swatch in the Layers panel.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e93ef0940a01f8e84c09c1d9fb854d0e/eea4a/change-color.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/2gAMAwEAAhADEAAAAT5vKKms5y//xAAZEAADAQEBAAAAAAAAAAAAAAABAgMAERL/2gAIAQEAAQUCEqHMrLTyw0h41D2nd//EABgRAAIDAAAAAAAAAAAAAAAAAAECEBEh/9oACAEDAQE/AU00I//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/AWf/xAAbEAACAgMBAAAAAAAAAAAAAAAAAREhAhAxQf/aAAgBAQAGPwKovlkODos/YG9f/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARMSFBUf/aAAgBAQABPyHCJ6CMmGhsfQnEq+DkvYLuX+z/2gAMAwEAAgADAAAAEM/P/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERQf/aAAgBAwEBPxClYDP/xAAXEQADAQAAAAAAAAAAAAAAAAABEBEh/9oACAECAQE/EMir/8QAHBABAQADAAMBAAAAAAAAAAAAAREAITFBYXGR/9oACAEBAAE/EBN0FCWeC/MlJoDD5z9xiIDs7zAs8StAzgY1lK1Zw94q7x//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop,change-color&quot;
+        title=&quot;Photoshop,change-color&quot;
+        src=&quot;/static/e93ef0940a01f8e84c09c1d9fb854d0e/828fb/change-color.jpg&quot;
+        srcset=&quot;/static/e93ef0940a01f8e84c09c1d9fb854d0e/ff44c/change-color.jpg 158w,
+/static/e93ef0940a01f8e84c09c1d9fb854d0e/a6688/change-color.jpg 315w,
+/static/e93ef0940a01f8e84c09c1d9fb854d0e/828fb/change-color.jpg 630w,
+/static/e93ef0940a01f8e84c09c1d9fb854d0e/0ede0/change-color.jpg 945w,
+/static/e93ef0940a01f8e84c09c1d9fb854d0e/3ac88/change-color.jpg 1260w,
+/static/e93ef0940a01f8e84c09c1d9fb854d0e/eea4a/change-color.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;And now, the image appears in front of the red Solid Color fill layer in the document, creating our photo border effect. And change the border color as you like.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/fbf7c60dd33d9948b6cdc417a01b0bf9/3e205/for-example.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 80.37974683544303%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//aAAwDAQACEAMQAAABxJZMk0GIZ//EABsQAAICAwEAAAAAAAAAAAAAAAESAhEDEyIx/9oACAEBAAEFAi75NkTC1LX1UfP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIREjL/2gAIAQMBAT8BnvTIcqz/xAAVEQEBAAAAAAAAAAAAAAAAAAAQIf/aAAgBAgEBPwGH/8QAFxAAAwEAAAAAAAAAAAAAAAAAABEhEP/aAAgBAQAGPwKMRSb/AP/EABkQAQADAQEAAAAAAAAAAAAAAAEAESExUf/aAAgBAQABPyHcZPJZ2VHciXrNkBSPRljU/9oADAMBAAIAAwAAABDTP//EABgRAAMBAQAAAAAAAAAAAAAAAAABEVEh/9oACAEDAQE/EE5G5XpeyH//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAECAQE/EBxPb//EABwQAQEBAAEFAAAAAAAAAAAAAAERACExQVGx8f/aAAgBAQABPxCwCYCBFmQ2YQeOk94ou23GxskNOKoq9z7h5Cu//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop,for-example&quot;
+        title=&quot;Photoshop,for-example&quot;
+        src=&quot;/static/fbf7c60dd33d9948b6cdc417a01b0bf9/828fb/for-example.jpg&quot;
+        srcset=&quot;/static/fbf7c60dd33d9948b6cdc417a01b0bf9/ff44c/for-example.jpg 158w,
+/static/fbf7c60dd33d9948b6cdc417a01b0bf9/a6688/for-example.jpg 315w,
+/static/fbf7c60dd33d9948b6cdc417a01b0bf9/828fb/for-example.jpg 630w,
+/static/fbf7c60dd33d9948b6cdc417a01b0bf9/3e205/for-example.jpg 788w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;When you follow the above steps then it will create canvas it will show in photoshop.&lt;/p&gt;
+&lt;p&gt;Thanks for reading…&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add circle in photoshop?]]></title><description><![CDATA[Hello 👋, Welcome To aGuideHub! ❤️ Table of contents Using the Ellipse Tool. Free-transform. Fill menu color. Stroke Options. Let’s start…]]></description><link>https://aguidehub.com/blog/how-to-add-circle-in-photoshop/</link><guid isPermaLink="false">https://aguidehub.com/blog/how-to-add-circle-in-photoshop/</guid><pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aGuideHub! ❤️&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using the Ellipse Tool.&lt;/li&gt;
+&lt;li&gt;Free-transform.&lt;/li&gt;
+&lt;li&gt;Fill menu color.&lt;/li&gt;
+&lt;li&gt;Stroke Options.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h2&gt;Step 1: Using the Ellipse Tool.&lt;/h2&gt;
+&lt;p&gt;To begin, let’s choose the &lt;strong&gt;&lt;em&gt;ellipse tool&lt;/em&gt;&lt;/strong&gt;. This can be done by clicking on the icon depicted below located in the toolbar down the left side of the screen, or by hitting the &lt;strong&gt;&lt;em&gt;U&lt;/em&gt;&lt;/strong&gt; button on your keyboard.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2c870b42fde2ef3bc1e0b75fa0a023be/eea4a/ellipse-tool.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGX8gKxcP/EABkQAAMBAQEAAAAAAAAAAAAAAAECAwAUBP/aAAgBAQABBQLyxWy8cswAZbvJe22JJP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHRAAAgEEAwAAAAAAAAAAAAAAAAECESFRkSJBQv/aAAgBAQAGPwKTlWzyetjSbOJ1ork//8QAGRABAAMBAQAAAAAAAAAAAAAAAQARIRBh/9oACAEBAAE/IWBvQVTg1uIpE1zd0ntJU3Vc/9oADAMBAAIAAwAAABCQD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQEBAQEBAQAAAAAAAAAAAAERACFhMZH/2gAIAQEAAT8QW26aEm9v20ipgvyOkLJQL5ned1Qpwr3f/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Ellipse, Tool&quot;
+        title=&quot;Photoshop, Ellipse, Tool&quot;
+        src=&quot;/static/2c870b42fde2ef3bc1e0b75fa0a023be/828fb/ellipse-tool.jpg&quot;
+        srcset=&quot;/static/2c870b42fde2ef3bc1e0b75fa0a023be/ff44c/ellipse-tool.jpg 158w,
+/static/2c870b42fde2ef3bc1e0b75fa0a023be/a6688/ellipse-tool.jpg 315w,
+/static/2c870b42fde2ef3bc1e0b75fa0a023be/828fb/ellipse-tool.jpg 630w,
+/static/2c870b42fde2ef3bc1e0b75fa0a023be/0ede0/ellipse-tool.jpg 945w,
+/static/2c870b42fde2ef3bc1e0b75fa0a023be/3ac88/ellipse-tool.jpg 1260w,
+/static/2c870b42fde2ef3bc1e0b75fa0a023be/eea4a/ellipse-tool.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;select the ellipse tool, click on the page, then open the popup, ellipse change height width size as you like.
+Or&lt;br&gt;
+Change the size of the circle at any time after you drag it by changing the “Width” and “Height” in the options bar.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2b3e4a6bd774b63ce05380268d2d7f7a/eea4a/width-height.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABl3kWMxcP/8QAGRAAAwEBAQAAAAAAAAAAAAAAAQIDAAQU/9oACAEBAAEFAuWK1Ucc84AdLPEe22JJP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAIBBQEAAAAAAAAAAAAAAAABEQIhQVGREv/aAAgBAQAGPwKp1TZ7Lz0aTY/GTHCdn//EABkQAQEBAQEBAAAAAAAAAAAAAAERACEQYf/aAAgBAQABPyFkbgSPA4qIphZHVab7aVt6q7//2gAMAwEAAgADAAAAENAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGRABAQEBAQEAAAAAAAAAAAAAAREAITFB/9oACAEBAAE/EF9OmhJchYJ8j0QpgvkcRCQie+Z2nVUQ4V7v/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Width, Height&quot;
+        title=&quot;Photoshop, Width, Height&quot;
+        src=&quot;/static/2b3e4a6bd774b63ce05380268d2d7f7a/828fb/width-height.jpg&quot;
+        srcset=&quot;/static/2b3e4a6bd774b63ce05380268d2d7f7a/ff44c/width-height.jpg 158w,
+/static/2b3e4a6bd774b63ce05380268d2d7f7a/a6688/width-height.jpg 315w,
+/static/2b3e4a6bd774b63ce05380268d2d7f7a/828fb/width-height.jpg 630w,
+/static/2b3e4a6bd774b63ce05380268d2d7f7a/0ede0/width-height.jpg 945w,
+/static/2b3e4a6bd774b63ce05380268d2d7f7a/3ac88/width-height.jpg 1260w,
+/static/2b3e4a6bd774b63ce05380268d2d7f7a/eea4a/width-height.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;see the circle.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5bb7f58431d6cf88e1c5d3bdf3c22ab5/eea4a/circal.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAEfBqrJxP/EABkQAAMAAwAAAAAAAAAAAAAAAAECAwAEFP/aAAgBAQABBQLVktVlGVQygMlnivbXCST/AP/EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAwEBPwGIf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB4QAAIBAwUAAAAAAAAAAAAAAAABEQIhQRJCUWGR/9oACAEBAAY/AqnXNngdq1HY1LHoybfCeT//xAAZEAEBAQADAAAAAAAAAAAAAAABEQAhMUH/2gAIAQEAAT8hUzrFZ4KE50mSF91EHppo9YVN5V3/2gAMAwEAAgADAAAAEM8P/8QAFxEBAAMAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPxAbBNj/xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQIBAT8QiH//xAAYEAEBAQEBAAAAAAAAAAAAAAABEQAhMf/aAAgBAQABPxBfliKcl83n2AjdJ/YOpHAQhyJ75i8QLeHM6oU4V7v/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Circal&quot;
+        title=&quot;Photoshop, Circal&quot;
+        src=&quot;/static/5bb7f58431d6cf88e1c5d3bdf3c22ab5/828fb/circal.jpg&quot;
+        srcset=&quot;/static/5bb7f58431d6cf88e1c5d3bdf3c22ab5/ff44c/circal.jpg 158w,
+/static/5bb7f58431d6cf88e1c5d3bdf3c22ab5/a6688/circal.jpg 315w,
+/static/5bb7f58431d6cf88e1c5d3bdf3c22ab5/828fb/circal.jpg 630w,
+/static/5bb7f58431d6cf88e1c5d3bdf3c22ab5/0ede0/circal.jpg 945w,
+/static/5bb7f58431d6cf88e1c5d3bdf3c22ab5/3ac88/circal.jpg 1260w,
+/static/5bb7f58431d6cf88e1c5d3bdf3c22ab5/eea4a/circal.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 2: Free-transform.&lt;/h2&gt;
+&lt;p&gt;You can resize, go to the Edit menu, click Free Transform, and then Resize.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/41e3093c8f373a434e92b30e3585e77b/eea4a/free-transform.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAG5G4FSTif/xAAaEAADAAMBAAAAAAAAAAAAAAABAgMABBEU/9oACAEBAAEFAlRaQlCVQ68ZqGWp7aDCxJ//xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8BiH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAeEAACAQQDAQAAAAAAAAAAAAAAAQIREiExQVFhkf/aAAgBAQAGPwKKddcDpfj0auZGUd4MKPwb7P/EABoQAQADAAMAAAAAAAAAAAAAAAEAESExQXH/2gAIAQEAAT8hOMYVFRoRt3AHUCkpmwNhxj5DNdVz/9oADAMBAAIAAwAAABAvD//EABcRAQADAAAAAAAAAAAAAAAAAAEQESH/2gAIAQMBAT8QGwTY/8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEh/9oACAECAQE/EIh//8QAHBABAQEAAQUAAAAAAAAAAAAAAREAITFBUZHR/9oACAEBAAE/EAd5Shh5m4cyIPzQbmFqR74sWOBpHFIMtRTn3o8kIOlW7//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Free-transform&quot;
+        title=&quot;Photoshop, Free-transform&quot;
+        src=&quot;/static/41e3093c8f373a434e92b30e3585e77b/828fb/free-transform.jpg&quot;
+        srcset=&quot;/static/41e3093c8f373a434e92b30e3585e77b/ff44c/free-transform.jpg 158w,
+/static/41e3093c8f373a434e92b30e3585e77b/a6688/free-transform.jpg 315w,
+/static/41e3093c8f373a434e92b30e3585e77b/828fb/free-transform.jpg 630w,
+/static/41e3093c8f373a434e92b30e3585e77b/0ede0/free-transform.jpg 945w,
+/static/41e3093c8f373a434e92b30e3585e77b/3ac88/free-transform.jpg 1260w,
+/static/41e3093c8f373a434e92b30e3585e77b/eea4a/free-transform.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Maintain the size, Hold down the alt + shift key and drag the cursor over the canvas to a circle.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/56c8927311853140b48880909b0fbe81/c8ae0/alt%2Bshift.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAZZ5llzFxP/EABkQAAMBAQEAAAAAAAAAAAAAAAECAwQAFP/aAAgBAQABBQLLFarPPGgdQGSzxX224kk//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHBAAAgEFAQAAAAAAAAAAAAAAAAERAhJBUZEh/9oACAEBAAY/AqnVPj2Sr+jUsdmTHCdn/8QAGRABAQEBAQEAAAAAAAAAAAAAAREAIUFh/9oACAEBAAE/IW5uBIyEBGdwHSF9wojqtN9tKm9V3//aAAwDAQACAAMAAAAQ0w//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QExEn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGBABAQEBAQAAAAAAAAAAAAAAAREAITH/2gAIAQEAAT8QVU6a4lxid2OPNBuYKZHEAkInvmnkzqhThXu//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Alt+shift&quot;
+        title=&quot;Photoshop, Alt+shift&quot;
+        src=&quot;/static/56c8927311853140b48880909b0fbe81/828fb/alt%2Bshift.jpg&quot;
+        srcset=&quot;/static/56c8927311853140b48880909b0fbe81/ff44c/alt%2Bshift.jpg 158w,
+/static/56c8927311853140b48880909b0fbe81/a6688/alt%2Bshift.jpg 315w,
+/static/56c8927311853140b48880909b0fbe81/828fb/alt%2Bshift.jpg 630w,
+/static/56c8927311853140b48880909b0fbe81/0ede0/alt%2Bshift.jpg 945w,
+/static/56c8927311853140b48880909b0fbe81/3ac88/alt%2Bshift.jpg 1260w,
+/static/56c8927311853140b48880909b0fbe81/c8ae0/alt%2Bshift.jpg 1279w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 3: Fill menu color.&lt;/h2&gt;
+&lt;p&gt;Change the color, click on the fill menu choose the color.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f463a879ef88fb9ab23d8d9ce9af6659/c8ae0/change-color.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAAB23kNJCYp/8QAGRABAAMBAQAAAAAAAAAAAAAAAQACAwQU/9oACAEBAAEFAufI2hyZMvULU2vie3aKr//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABYRAQEBAAAAAAAAAAAAAAAAABEBEP/aAAgBAgEBPwErn//EABwQAAIBBQEAAAAAAAAAAAAAAAABEhExQVGRQv/aAAgBAQAGPwJystHro0mxwyY4V2f/xAAaEAADAQADAAAAAAAAAAAAAAAAAREhMVFh/9oACAEBAAE/IbGuPUdEAwYk+xLMtV1HsTW71qf/2gAMAwEAAgADAAAAEBwP/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Qp//EABgRAQADAQAAAAAAAAAAAAAAAAEQESFR/9oACAECAQE/EGgjnI//xAAaEAEBAQEBAQEAAAAAAAAAAAABEQAhMVHx/9oACAEBAAE/ECwAulT85gwx+s32klcj5iISET3zTydVQpwr3f/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Change, Color&quot;
+        title=&quot;Photoshop, Change, Color&quot;
+        src=&quot;/static/f463a879ef88fb9ab23d8d9ce9af6659/828fb/change-color.jpg&quot;
+        srcset=&quot;/static/f463a879ef88fb9ab23d8d9ce9af6659/ff44c/change-color.jpg 158w,
+/static/f463a879ef88fb9ab23d8d9ce9af6659/a6688/change-color.jpg 315w,
+/static/f463a879ef88fb9ab23d8d9ce9af6659/828fb/change-color.jpg 630w,
+/static/f463a879ef88fb9ab23d8d9ce9af6659/0ede0/change-color.jpg 945w,
+/static/f463a879ef88fb9ab23d8d9ce9af6659/3ac88/change-color.jpg 1260w,
+/static/f463a879ef88fb9ab23d8d9ce9af6659/c8ae0/change-color.jpg 1279w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Click the “Stroke Options” menu in the Options bar to change the border &lt;strong&gt;&lt;em&gt;color&lt;/em&gt;&lt;/strong&gt; of the circle.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/79ba9cc8506101bcbb401e0e5ca3b057/eea4a/circal-out-line-color.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAQT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABWhJ2SHMU/8QAGhAAAwEBAQEAAAAAAAAAAAAAAQIDAAQTFP/aAAgBAQABBQLnn64ckjnUBkq8V+22JJP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAWEQEBAQAAAAAAAAAAAAAAAAARARD/2gAIAQIBAT8BK5//xAAeEAACAAYDAAAAAAAAAAAAAAAAARESITFBkTJCUf/aAAgBAQAGPwKvFXO2xpNjkyY0R9P/xAAaEAEAAwADAAAAAAAAAAAAAAABABEhMUFh/9oACAEBAAE/IX4tEQ7CI0MQy1B2bJ7SVN1XP//aAAwDAQACAAMAAAAQHA//xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8QcH//xAAYEQEAAwEAAAAAAAAAAAAAAAABEBEhUf/aAAgBAgEBPxBoI5yP/8QAGhABAQEBAQEBAAAAAAAAAAAAAREAITFRof/aAAgBAQABPxBxszE3KB+ZE8x+sn2gled8wkIcie+aezOqFOFe7//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Circal, Out, Line, Color&quot;
+        title=&quot;Photoshop, Circal, Out, Line, Color&quot;
+        src=&quot;/static/79ba9cc8506101bcbb401e0e5ca3b057/828fb/circal-out-line-color.jpg&quot;
+        srcset=&quot;/static/79ba9cc8506101bcbb401e0e5ca3b057/ff44c/circal-out-line-color.jpg 158w,
+/static/79ba9cc8506101bcbb401e0e5ca3b057/a6688/circal-out-line-color.jpg 315w,
+/static/79ba9cc8506101bcbb401e0e5ca3b057/828fb/circal-out-line-color.jpg 630w,
+/static/79ba9cc8506101bcbb401e0e5ca3b057/0ede0/circal-out-line-color.jpg 945w,
+/static/79ba9cc8506101bcbb401e0e5ca3b057/3ac88/circal-out-line-color.jpg 1260w,
+/static/79ba9cc8506101bcbb401e0e5ca3b057/eea4a/circal-out-line-color.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 4: Stroke Options.&lt;/h2&gt;
+&lt;p&gt;Click the &lt;strong&gt;&lt;em&gt;Stroke Options&lt;/em&gt;&lt;/strong&gt; menu in the Options bar to change the border of the circle from a straight line to a &lt;strong&gt;&lt;em&gt;dashed line or a dotted line&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/de953f8b530e17e1836e024b0058caea/eea4a/out-line-doted.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAasFMyzOcp//xAAaEAADAAMBAAAAAAAAAAAAAAABAgMABBMU/9oACAEBAAEFAteXVRqSOOoDJZ4r7bYSSf/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABYRAQEBAAAAAAAAAAAAAAAAABEBEP/aAAgBAgEBPwErn//EABwQAAICAgMAAAAAAAAAAAAAAAABEUESkTFCUf/aAAgBAQAGPwJueGdtjSbHhZWifT//xAAZEAEAAwEBAAAAAAAAAAAAAAABABFRIWH/2gAIAQEAAT8hXKreQiNDEOyxB1bZPaStvVbP/9oADAMBAAIAAwAAABAfD//EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAwEBPxBwf//EABgRAQADAQAAAAAAAAAAAAAAAAEQESFR/9oACAECAQE/EGgjnI//xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhMVH/2gAIAQEAAT8QzsyLN0HPHsRNGn1GfkgWzeQiEURO8lcTqrFGFuz/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, out-line-doted&quot;
+        title=&quot;Photoshop, out-line-doted&quot;
+        src=&quot;/static/de953f8b530e17e1836e024b0058caea/828fb/out-line-doted.jpg&quot;
+        srcset=&quot;/static/de953f8b530e17e1836e024b0058caea/ff44c/out-line-doted.jpg 158w,
+/static/de953f8b530e17e1836e024b0058caea/a6688/out-line-doted.jpg 315w,
+/static/de953f8b530e17e1836e024b0058caea/828fb/out-line-doted.jpg 630w,
+/static/de953f8b530e17e1836e024b0058caea/0ede0/out-line-doted.jpg 945w,
+/static/de953f8b530e17e1836e024b0058caea/3ac88/out-line-doted.jpg 1260w,
+/static/de953f8b530e17e1836e024b0058caea/eea4a/out-line-doted.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Change the border size, go to the top of options bar, and click on &lt;strong&gt;&lt;em&gt;Set shape stroke width.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/70ee7002e0ae0e70598c5b3a29cb325a/eea4a/out-line-width.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABHMuZUFin/8QAGRAAAwEBAQAAAAAAAAAAAAAAAQIDAAQU/9oACAEBAAEFAuaS1ReWZzqAyWeK+22JJP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEh/9oACAECAQE/AVR//8QAHRAAAgEEAwAAAAAAAAAAAAAAAAECEUFRkRIhQv/aAAgBAQAGPwKTlXp5PWxpNj4XLaK5P//EABkQAQEBAQEBAAAAAAAAAAAAAAERACFRYf/aAAgBAQABPyG4tgSMP3EGIfdRB1Wm+2lTeq7/2gAMAwEAAgADAAAAENgP/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Qp//EABgRAAIDAAAAAAAAAAAAAAAAAAERECFR/9oACAECAQE/ECSF1kf/xAAYEAEBAQEBAAAAAAAAAAAAAAABEQAhMf/aAAgBAQABPxB1lwtxLM4fB4jLqfZArkfMBCIRPfM32d1Qpwr3f//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, out-line-width&quot;
+        title=&quot;Photoshop, out-line-width&quot;
+        src=&quot;/static/70ee7002e0ae0e70598c5b3a29cb325a/828fb/out-line-width.jpg&quot;
+        srcset=&quot;/static/70ee7002e0ae0e70598c5b3a29cb325a/ff44c/out-line-width.jpg 158w,
+/static/70ee7002e0ae0e70598c5b3a29cb325a/a6688/out-line-width.jpg 315w,
+/static/70ee7002e0ae0e70598c5b3a29cb325a/828fb/out-line-width.jpg 630w,
+/static/70ee7002e0ae0e70598c5b3a29cb325a/0ede0/out-line-width.jpg 945w,
+/static/70ee7002e0ae0e70598c5b3a29cb325a/3ac88/out-line-width.jpg 1260w,
+/static/70ee7002e0ae0e70598c5b3a29cb325a/eea4a/out-line-width.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;To move the circle, select the &lt;strong&gt;&lt;em&gt;Move Tool&lt;/em&gt;&lt;/strong&gt; from the Toolbox and drag the circle where you want it.&lt;/p&gt;
+&lt;p&gt;When you follow the above steps then it will create circle it will show in photoshop.&lt;/p&gt;
+&lt;p&gt;Thanks for reading…&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add copyright symbol in photoshop?]]></title><description><![CDATA[Hello 👋, Welcome To aGuideHub! ❤️ Table of contents Select the “Custom Shape Tool”. The Custom Shape gallery. The “Fill” and “Stroke” menus…]]></description><link>https://aguidehub.com/blog/how-to-add-copyright-symbol-in-photoshop/</link><guid isPermaLink="false">https://aguidehub.com/blog/how-to-add-copyright-symbol-in-photoshop/</guid><pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aGuideHub! ❤️&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Select the “Custom Shape Tool”.&lt;/li&gt;
+&lt;li&gt;The Custom Shape gallery.&lt;/li&gt;
+&lt;li&gt;The “Fill” and “Stroke” menus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Using Photoshop’s Copyright Symbol&lt;/h2&gt;
+&lt;p&gt;To create a new document, select &lt;strong&gt;&lt;em&gt;File&lt;/em&gt;&lt;/strong&gt; -&gt; &lt;strong&gt;&lt;em&gt;New&lt;/em&gt;&lt;/strong&gt; from the bar along the top of the screen before editing the settings in the window that comes up to customize the new &lt;strong&gt;&lt;em&gt;file&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h2&gt;Step 1: Select the “Custom Shape Tool”.&lt;/h2&gt;
+&lt;p&gt;Select the &lt;strong&gt;&lt;em&gt;Custom Shape Tool&lt;/em&gt;&lt;/strong&gt; in the Photoshop Toolbar. If it’s not visible, click and hold the &lt;strong&gt;&lt;em&gt;shape tool&lt;/em&gt;&lt;/strong&gt; that is visible, like the Rectangle Tool or Ellipse Tool, to reveal the Custom Shape Tool.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/99b356f02577baacf99ddffedb692f4a/eea4a/shape-tool.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGTuReLCwf/xAAaEAACAwEBAAAAAAAAAAAAAAACAwABBBQS/9oACAEBAAEFAsqRaHGuHXk1aTXXa2EVkX//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAEAAgIDAAAAAAAAAAAAAAABAAIxURFCkf/aAAgBAQAGPwKzbnO529iC5iBWYrF3P//EABsQAQADAAMBAAAAAAAAAAAAAAEAESFBYdHx/9oACAEBAAE/IWRuVyO2Z07ETREeSfJfYoXVeT//2gAMAwEAAgADAAAAEGDP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBABAQACAgMAAAAAAAAAAAAAAREAIRAxQXHx/9oACAEBAAE/EK9aOokM+8yMtgXqOLKFWvrw8VIWko6VbrP/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Shape, Tool&quot;
+        title=&quot;Photoshop, Shape, Tool&quot;
+        src=&quot;/static/99b356f02577baacf99ddffedb692f4a/828fb/shape-tool.jpg&quot;
+        srcset=&quot;/static/99b356f02577baacf99ddffedb692f4a/ff44c/shape-tool.jpg 158w,
+/static/99b356f02577baacf99ddffedb692f4a/a6688/shape-tool.jpg 315w,
+/static/99b356f02577baacf99ddffedb692f4a/828fb/shape-tool.jpg 630w,
+/static/99b356f02577baacf99ddffedb692f4a/0ede0/shape-tool.jpg 945w,
+/static/99b356f02577baacf99ddffedb692f4a/3ac88/shape-tool.jpg 1260w,
+/static/99b356f02577baacf99ddffedb692f4a/eea4a/shape-tool.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 2: The Custom Shape gallery.&lt;/h2&gt;
+&lt;p&gt;Click the &lt;strong&gt;&lt;em&gt;Shape&lt;/em&gt;&lt;/strong&gt; menu on the right side of the Options bar to reveal the Custom Shape gallery. Scroll through the shapes, or expand the gallery’s window by dragging its corner. Click the &lt;strong&gt;&lt;em&gt;Copyright Symbol.&lt;/em&gt;&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/07768d1a5af41340fe552350a93296fc/eea4a/copyright.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHeoXCiYP/EABoQAQACAwEAAAAAAAAAAAAAAAIBAwAEFBP/2gAIAQEAAQUC1qxYOV+rMF17DpjutyVKn//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB8QAAIBAgcAAAAAAAAAAAAAAAABEQIxEiEiQUJRkf/aAAgBAQAGPwJ45vFy2iexpNjVMZnHwbe5/8QAGhAAAwEAAwAAAAAAAAAAAAAAAAERIUFh8P/aAAgBAQABPyF4XeUHoMJGSb5MATXUdIOK1qz/2gAMAwEAAgADAAAAEOPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHhABAQACAQUBAAAAAAAAAAAAAREAITFBUYGR0fH/2gAIAQEAAT8QfYDqBIPTAo8/bf3ZhzpwUyPGHU0vc3jvn7r7kmjpaK7z/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Copyright&quot;
+        title=&quot;Photoshop, Copyright&quot;
+        src=&quot;/static/07768d1a5af41340fe552350a93296fc/828fb/copyright.jpg&quot;
+        srcset=&quot;/static/07768d1a5af41340fe552350a93296fc/ff44c/copyright.jpg 158w,
+/static/07768d1a5af41340fe552350a93296fc/a6688/copyright.jpg 315w,
+/static/07768d1a5af41340fe552350a93296fc/828fb/copyright.jpg 630w,
+/static/07768d1a5af41340fe552350a93296fc/0ede0/copyright.jpg 945w,
+/static/07768d1a5af41340fe552350a93296fc/3ac88/copyright.jpg 1260w,
+/static/07768d1a5af41340fe552350a93296fc/eea4a/copyright.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 3: The “Fill” and “Stroke” menus.&lt;/h2&gt;
+&lt;p&gt;Click the &lt;strong&gt;&lt;em&gt;Fill&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;Stroke&lt;/em&gt;&lt;/strong&gt; menus in the Options bar to specify a color for the &lt;strong&gt;&lt;em&gt;copyright symbol&lt;/em&gt;&lt;/strong&gt;. Note that if you recently selected a color for another shape or font, it appears in the &lt;strong&gt;&lt;em&gt;Recently Used Colors&lt;/em&gt;&lt;/strong&gt; section of each menu. Drag the cursor over the canvas to draw the symbol, holding down the &lt;strong&gt;&lt;em&gt;Shift&lt;/em&gt;&lt;/strong&gt; key to preserve its aspect ratio.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b8194626af05c0a4801a75b4b9260926/eea4a/fill-stroke.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.86075949367089%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAS7GeJJg/8QAGhAAAgMBAQAAAAAAAAAAAAAAAgMAAQQUEv/aAAgBAQABBQLMkWhxrhj5NWg013NllZF//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHRAAAwABBQEAAAAAAAAAAAAAAAECIRExQUKRUf/aAAgBAQAGPwKnTrD4N69GlTGp0ydfBv6f/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERIRBh/9oACAEBAAE/IbNkNcUiAExIMtdR4k4L1qf/2gAMAwEAAgADAAAAEPAP/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Qp//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB0QAQEAAgIDAQAAAAAAAAAAAAERADEhUWHR4fH/2gAIAQEAAT8Q4BxyPEPGDA7+/nLzTAuoyONcU7Ldd5+095OEhBqrc//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Fill-stroke&quot;
+        title=&quot;Photoshop, Fill-stroke&quot;
+        src=&quot;/static/b8194626af05c0a4801a75b4b9260926/828fb/fill-stroke.jpg&quot;
+        srcset=&quot;/static/b8194626af05c0a4801a75b4b9260926/ff44c/fill-stroke.jpg 158w,
+/static/b8194626af05c0a4801a75b4b9260926/a6688/fill-stroke.jpg 315w,
+/static/b8194626af05c0a4801a75b4b9260926/828fb/fill-stroke.jpg 630w,
+/static/b8194626af05c0a4801a75b4b9260926/0ede0/fill-stroke.jpg 945w,
+/static/b8194626af05c0a4801a75b4b9260926/3ac88/fill-stroke.jpg 1260w,
+/static/b8194626af05c0a4801a75b4b9260926/eea4a/fill-stroke.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;When you follow the above steps then it will create copyright symboland it will show in photoshop.&lt;/p&gt;
+&lt;p&gt;Thanks for reading…&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add color to a black and white photo in photoshop?]]></title><description><![CDATA[Hello 👋, Welcome To aGuideHub! ❤️ Table of contents Add a new image in photoshop. Add a Black & White adjustment layer. Prepare to paint…]]></description><link>https://aguidehub.com/blog/how-to-add-color-to-a-black-and-white-photo-in-photoshop/</link><guid isPermaLink="false">https://aguidehub.com/blog/how-to-add-color-to-a-black-and-white-photo-in-photoshop/</guid><pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aGuideHub! ❤️&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add a new image in photoshop.&lt;/li&gt;
+&lt;li&gt;Add a Black &amp;#x26; White adjustment layer.&lt;/li&gt;
+&lt;li&gt;Prepare to paint.&lt;/li&gt;
+&lt;li&gt;Set the foreground color.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This article will guide you to adding color to a black and white photo  in photoshop with example.&lt;/p&gt;
+&lt;p&gt;Learn how to convert photos to black and white in Photoshop.Then bring color back to part of the photo for drama and focus.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2b322710adbfce2908e1dd931218bfbe/eea4a/open-image.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAeah4RoYf//EABkQAQACAwAAAAAAAAAAAAAAAAEAAhASIf/aAAgBAQABBQI7fWETP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRMRIgIf/aAAgBAQAGPwKMoHdotdP/xAAbEAEBAQACAwAAAAAAAAAAAAABABEhMUFRgf/aAAgBAQABPyFpLD2zjk/G6EDmyq632//aAAwDAQACAAMAAAAQvM//xAAWEQEBAQAAAAAAAAAAAAAAAAAhARD/2gAIAQMBAT8QqZ//xAAWEQEBAQAAAAAAAAAAAAAAAAABEEH/2gAIAQIBAT8QAZP/xAAcEAEAAwACAwAAAAAAAAAAAAABABExIUFRkdH/2gAIAQEAAT8QsiClmRMtzI6/IBZNTphnzW7pyMUtau+4L5e5/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, New, Page&quot;
+        title=&quot;Photoshop, New, Page&quot;
+        src=&quot;/static/2b322710adbfce2908e1dd931218bfbe/828fb/open-image.jpg&quot;
+        srcset=&quot;/static/2b322710adbfce2908e1dd931218bfbe/ff44c/open-image.jpg 158w,
+/static/2b322710adbfce2908e1dd931218bfbe/a6688/open-image.jpg 315w,
+/static/2b322710adbfce2908e1dd931218bfbe/828fb/open-image.jpg 630w,
+/static/2b322710adbfce2908e1dd931218bfbe/0ede0/open-image.jpg 945w,
+/static/2b322710adbfce2908e1dd931218bfbe/3ac88/open-image.jpg 1260w,
+/static/2b322710adbfce2908e1dd931218bfbe/eea4a/open-image.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 1: Add a new image in photoshop.&lt;/h2&gt;
+&lt;p&gt;Click the Open button in Photoshop’s Start Screen or choose File -&gt; Open. Then select the photo and click Open.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/blog/how-to-add-an-image-to-a-layer-in-photoshop/&quot; target=&quot;_blank&quot; &gt;How to add images in photoshop?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4b55556b043fccb80bf67f55d7a4176d/eea4a/open-folder.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAVqU1knmIf/EABoQAQADAAMAAAAAAAAAAAAAAAMAAQIEEiL/2gAIAQEAAQUC43p1PNDBvoitejn/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAACAgMBAAAAAAAAAAAAAAAAAQIhEBIxEf/aAAgBAQAGPwLyVom9Eqo6zZdJJpY//8QAHBABAAICAwEAAAAAAAAAAAAAAQARIVExQWHB/9oACAEBAAE/ISdAOGCOldEDH0jas8zJAHst3P/aAAwDAQACAAMAAAAQgA//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEAAgMAAwAAAAAAAAAAAAABABEhMXFBYZH/2gAIAQEAAT8Qr/S6tmPMuK8mL3XJYWmyDVTpaZmfARRtnrU9j7P/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, open-folder&quot;
+        title=&quot;Photoshop, open-folder&quot;
+        src=&quot;/static/4b55556b043fccb80bf67f55d7a4176d/828fb/open-folder.jpg&quot;
+        srcset=&quot;/static/4b55556b043fccb80bf67f55d7a4176d/ff44c/open-folder.jpg 158w,
+/static/4b55556b043fccb80bf67f55d7a4176d/a6688/open-folder.jpg 315w,
+/static/4b55556b043fccb80bf67f55d7a4176d/828fb/open-folder.jpg 630w,
+/static/4b55556b043fccb80bf67f55d7a4176d/0ede0/open-folder.jpg 945w,
+/static/4b55556b043fccb80bf67f55d7a4176d/3ac88/open-folder.jpg 1260w,
+/static/4b55556b043fccb80bf67f55d7a4176d/eea4a/open-folder.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 2: Add a Black &amp;#x26; White adjustment layer.&lt;/h2&gt;
+&lt;p&gt;Click the Adjustments panel tab or choose Window -&gt; Adjustments to open the Adjustments panel. Then click the Black &amp;#x26; White adjustment icon in the Adjustments panel.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/79cf136e3ae2f5f381ff24d1d728e711/eea4a/adjustment.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAY9yiMEg/wD/xAAaEAACAgMAAAAAAAAAAAAAAAABAgADEiEj/9oACAEBAAEFAqd32jqIGwZmLNP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIxAyEQEkH/2gAIAQEABj8Cjv0ybpls7K0OTt8f/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAERITFR/9oACAEBAAE/IXaboL2cBhA5OhKNESWX0//aAAwDAQACAAMAAAAQZM//xAAWEQEBAQAAAAAAAAAAAAAAAAAhARD/2gAIAQMBAT8QqZ//xAAWEQEBAQAAAAAAAAAAAAAAAAABEEH/2gAIAQIBAT8QEMn/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFRYXGR/9oACAEBAAE/EHqlmF34mQi83zcAsmpwyifYiy47Q4SUL6g9n2f/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, adjustment&quot;
+        title=&quot;Photoshop, adjustment&quot;
+        src=&quot;/static/79cf136e3ae2f5f381ff24d1d728e711/828fb/adjustment.jpg&quot;
+        srcset=&quot;/static/79cf136e3ae2f5f381ff24d1d728e711/ff44c/adjustment.jpg 158w,
+/static/79cf136e3ae2f5f381ff24d1d728e711/a6688/adjustment.jpg 315w,
+/static/79cf136e3ae2f5f381ff24d1d728e711/828fb/adjustment.jpg 630w,
+/static/79cf136e3ae2f5f381ff24d1d728e711/0ede0/adjustment.jpg 945w,
+/static/79cf136e3ae2f5f381ff24d1d728e711/3ac88/adjustment.jpg 1260w,
+/static/79cf136e3ae2f5f381ff24d1d728e711/eea4a/adjustment.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A new Black &amp;#x26; White adjustment layer appears in the Layers panel, causing the photo on the layer below to change to black and white.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/28d27ef2042c0a502cacc1ae30bed9bd/eea4a/black-and-white.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.86075949367089%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAYFiFIw//8QAGRAAAgMBAAAAAAAAAAAAAAAAAREAEDES/9oACAEBAAEFAi+lBlDP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAERMRIgMv/aAAgBAQAGPwJLKxy6Onp//8QAGxAAAwACAwAAAAAAAAAAAAAAAAERMXEhQVH/2gAIAQEAAT8hSZsZS5vsRNKoeTumHR//2gAMAwEAAgADAAAAEGAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxABAAMAAwEAAAAAAAAAAAAAAQARITFBUWH/2gAIAQEAAT8QxMPgCIyBVUb26j0qmlLNtfbnbkuvjPKcOp//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, black-and-white&quot;
+        title=&quot;Photoshop, black-and-white&quot;
+        src=&quot;/static/28d27ef2042c0a502cacc1ae30bed9bd/828fb/black-and-white.jpg&quot;
+        srcset=&quot;/static/28d27ef2042c0a502cacc1ae30bed9bd/ff44c/black-and-white.jpg 158w,
+/static/28d27ef2042c0a502cacc1ae30bed9bd/a6688/black-and-white.jpg 315w,
+/static/28d27ef2042c0a502cacc1ae30bed9bd/828fb/black-and-white.jpg 630w,
+/static/28d27ef2042c0a502cacc1ae30bed9bd/0ede0/black-and-white.jpg 945w,
+/static/28d27ef2042c0a502cacc1ae30bed9bd/3ac88/black-and-white.jpg 1260w,
+/static/28d27ef2042c0a502cacc1ae30bed9bd/eea4a/black-and-white.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Then click the Auto button in the Properties panel (Window -&gt; Properties). In the sample photo, this brightens areas that were yellow in the original photo and darkens areas of other colors, giving the black and white version more tonal contrast.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5ba1642b05c773c4b44348dcc4a5d5cf/eea4a/properties.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMBBP/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAeDEi6A//8QAGhAAAgIDAAAAAAAAAAAAAAAAAREAAhAhIv/aAAgBAQABBQIjpQJWrrH/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AktrHLo6ZOf/xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhQVH/2gAIAQEAAT8hShQ9cljbzjAhYwNFZW3N9n//2gAMAwEAAgADAAAAEEPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxABAAMAAwEAAAAAAAAAAAAAAQARITFBYZH/2gAIAQEAAT8QSoQirIQmwrabdRyQTQLiLC5BcIgXJ97gjt9n/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, properties&quot;
+        title=&quot;Photoshop, properties&quot;
+        src=&quot;/static/5ba1642b05c773c4b44348dcc4a5d5cf/828fb/properties.jpg&quot;
+        srcset=&quot;/static/5ba1642b05c773c4b44348dcc4a5d5cf/ff44c/properties.jpg 158w,
+/static/5ba1642b05c773c4b44348dcc4a5d5cf/a6688/properties.jpg 315w,
+/static/5ba1642b05c773c4b44348dcc4a5d5cf/828fb/properties.jpg 630w,
+/static/5ba1642b05c773c4b44348dcc4a5d5cf/0ede0/properties.jpg 945w,
+/static/5ba1642b05c773c4b44348dcc4a5d5cf/3ac88/properties.jpg 1260w,
+/static/5ba1642b05c773c4b44348dcc4a5d5cf/eea4a/properties.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 3: Prepare to paint.&lt;/h2&gt;
+&lt;p&gt;Select the &lt;strong&gt;&lt;em&gt;Brush tool&lt;/em&gt;&lt;/strong&gt; in the Tools panel. Open the &lt;strong&gt;&lt;em&gt;Brush picker&lt;/em&gt;&lt;/strong&gt; in the Tool Options bar and change the &lt;strong&gt;&lt;em&gt;Size&lt;/em&gt;&lt;/strong&gt; and Hardness of the brush tip. The values you choose depend on the photo. For the sample photo, &lt;strong&gt;&lt;em&gt;try Size: 100 px and Hardness: 50%.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9a08e401a51ca00352ad81f08752bbfa/eea4a/brush.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.22784810126582%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABHGwTHj//xAAZEAACAwEAAAAAAAAAAAAAAAAAEQEQEjH/2gAIAQEAAQUCZkjjv//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAEFAQAAAAAAAAAAAAAAAAABAiAiMTL/2gAIAQEABj8CHWw6WH//xAAaEAEBAAMBAQAAAAAAAAAAAAABABEhMVFh/9oACAEBAAE/Ifkl7cdxEKUrPZd5bL7f/9oADAMBAAIAAwAAABCwD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQACAgMBAAAAAAAAAAAAAAEAESFBMVFxkf/aAAgBAQABPxB4UHe4YD2N9RaKmSlg1lzFVmWlNNQMwvs//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, brush&quot;
+        title=&quot;Photoshop, brush&quot;
+        src=&quot;/static/9a08e401a51ca00352ad81f08752bbfa/828fb/brush.jpg&quot;
+        srcset=&quot;/static/9a08e401a51ca00352ad81f08752bbfa/ff44c/brush.jpg 158w,
+/static/9a08e401a51ca00352ad81f08752bbfa/a6688/brush.jpg 315w,
+/static/9a08e401a51ca00352ad81f08752bbfa/828fb/brush.jpg 630w,
+/static/9a08e401a51ca00352ad81f08752bbfa/0ede0/brush.jpg 945w,
+/static/9a08e401a51ca00352ad81f08752bbfa/3ac88/brush.jpg 1260w,
+/static/9a08e401a51ca00352ad81f08752bbfa/eea4a/brush.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 4: Set the foreground color.&lt;/h2&gt;
+&lt;p&gt;Go to the color boxes at the bottom of the &lt;strong&gt;&lt;em&gt;tools panel&lt;/em&gt;&lt;/strong&gt; to set black as the color to paint with. First click the small default &lt;strong&gt;&lt;em&gt;colors icon&lt;/em&gt;&lt;/strong&gt; above the color boxes. Then click the &lt;strong&gt;&lt;em&gt;double-pointed arrow icon&lt;/em&gt;&lt;/strong&gt; to switch to black as the &lt;strong&gt;&lt;em&gt;Foreground Color&lt;/em&gt;&lt;/strong&gt;.
+To zoom in the image in Photoshop (Ctrl +), to zoom out (ctrl -) press the keywords.
+You can resize the tip of the brush while you are painting. Press the [(left bracket) key on your keyboard to shorten the brush tip. Press the ] (right bracket) key to enlarge the tip of the brush.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/146afa5d90577eede6c7a1711d9d211b/eea4a/foreground.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAc50mXIB/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAESEQ/9oACAEBAAEFAl1ytQVRXOf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIQESIxMv/aAAgBAQAGPwKldQ7LR0pc/wD/xAAZEAADAQEBAAAAAAAAAAAAAAAAAVERITH/2gAIAQEAAT8h1yisobEZNQKB+6dp/9oADAMBAAIAAwAAABDXz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQEAAgMBAAAAAAAAAAAAAAERACExQZHR/9oACAEBAAE/EEKnWpxhrYJEPL8xwSTYbwapV3GTErTVlveCO3uf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, foreground&quot;
+        title=&quot;Photoshop, foreground&quot;
+        src=&quot;/static/146afa5d90577eede6c7a1711d9d211b/828fb/foreground.jpg&quot;
+        srcset=&quot;/static/146afa5d90577eede6c7a1711d9d211b/ff44c/foreground.jpg 158w,
+/static/146afa5d90577eede6c7a1711d9d211b/a6688/foreground.jpg 315w,
+/static/146afa5d90577eede6c7a1711d9d211b/828fb/foreground.jpg 630w,
+/static/146afa5d90577eede6c7a1711d9d211b/0ede0/foreground.jpg 945w,
+/static/146afa5d90577eede6c7a1711d9d211b/3ac88/foreground.jpg 1260w,
+/static/146afa5d90577eede6c7a1711d9d211b/eea4a/foreground.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Finally, We have created &lt;strong&gt;&lt;em&gt;color black and white photo in photoshop&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b8313c35198da6471a6615b5a9285da9/eea4a/black-and-white-image.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.22784810126582%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAc5kwUCA/8QAGRABAAIDAAAAAAAAAAAAAAAAAgERABAx/9oACAEBAAEFAjaUmsjm/wD/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAACAQUAAAAAAAAAAAAAAAAAARESICIxMv/aAAgBAQAGPwKKoHlo6dn/xAAZEAEBAQEBAQAAAAAAAAAAAAABABFRMZH/2gAIAQEAAT8hyXh1l+rEQpT7K7tr2//aAAwDAQACAAMAAAAQkw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAaEAEBAQEBAQEAAAAAAAAAAAABEQAhQTGR/9oACAEBAAE/EIYtekmQ7pIh9y0FOkXfRS9uUk2ynjMGcX7v/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, black-and-white-image&quot;
+        title=&quot;Photoshop, black-and-white-image&quot;
+        src=&quot;/static/b8313c35198da6471a6615b5a9285da9/828fb/black-and-white-image.jpg&quot;
+        srcset=&quot;/static/b8313c35198da6471a6615b5a9285da9/ff44c/black-and-white-image.jpg 158w,
+/static/b8313c35198da6471a6615b5a9285da9/a6688/black-and-white-image.jpg 315w,
+/static/b8313c35198da6471a6615b5a9285da9/828fb/black-and-white-image.jpg 630w,
+/static/b8313c35198da6471a6615b5a9285da9/0ede0/black-and-white-image.jpg 945w,
+/static/b8313c35198da6471a6615b5a9285da9/3ac88/black-and-white-image.jpg 1260w,
+/static/b8313c35198da6471a6615b5a9285da9/eea4a/black-and-white-image.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;When you follow the above steps then it will create color to a black and white photo and it will show in photoshop.&lt;/p&gt;
+&lt;p&gt;Thanks for reading…&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add clouds in photoshop?]]></title><description><![CDATA[Hello 👋, Welcome To aGuideHub! ❤️ Table of contents Created a new page Create some clouds Change the blend mode Open a new layer Gradient…]]></description><link>https://aguidehub.com/blog/how-to-add-clouds-in-photoshop/</link><guid isPermaLink="false">https://aguidehub.com/blog/how-to-add-clouds-in-photoshop/</guid><pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aGuideHub! ❤️&lt;/p&gt;
+&lt;p&gt;Table of contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Created a new page&lt;/li&gt;
+&lt;li&gt;Create some clouds&lt;/li&gt;
+&lt;li&gt;Change the blend mode&lt;/li&gt;
+&lt;li&gt;Open a new layer&lt;/li&gt;
+&lt;li&gt;Gradient tool&lt;/li&gt;
+&lt;li&gt;Change your foreground colours to black and white&lt;/li&gt;
+&lt;li&gt;Blending options&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;First method: Gradient tool&lt;/h2&gt;
+&lt;p&gt;Let’s start with the first step.&lt;/p&gt;
+&lt;h2&gt;Step 1: Created a new page&lt;/h2&gt;
+&lt;p&gt;In Photoshop, go up to the &lt;strong&gt;&lt;em&gt;File menu&lt;/em&gt;&lt;/strong&gt; in the Menu Bar, choose &lt;strong&gt;&lt;em&gt;new&lt;/em&gt;&lt;/strong&gt;, and then made a new page. A window opens that prompts you to name your new document and enter dimensions and preferences.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a377d7250f81638487731395bd0a401e/eea4a/new-page.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAbkYwMJw/8QAGhABAAMAAwAAAAAAAAAAAAAAAgABAxAREv/aAAgBAQABBQJikd8Ace56UtK+P//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB4QAQAABQUAAAAAAAAAAAAAAAEAAhARkQMhMmHw/9oACAEBAAY/AtMT1ommCyd05OY3mc0//8QAGhABAAIDAQAAAAAAAAAAAAAAAQARECFR8P/aAAgBAQABPyHRMXdahGYOpTzGy4hqSccP/9oADAMBAAIAAwAAABCAz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExQVFxgf/aAAgBAQABPxC3XmaNJ5JduiNnYeY51mSIgEcpZ6it/wCUI/JU/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, New, Page&quot;
+        title=&quot;Photoshop, New, Page&quot;
+        src=&quot;/static/a377d7250f81638487731395bd0a401e/828fb/new-page.jpg&quot;
+        srcset=&quot;/static/a377d7250f81638487731395bd0a401e/ff44c/new-page.jpg 158w,
+/static/a377d7250f81638487731395bd0a401e/a6688/new-page.jpg 315w,
+/static/a377d7250f81638487731395bd0a401e/828fb/new-page.jpg 630w,
+/static/a377d7250f81638487731395bd0a401e/0ede0/new-page.jpg 945w,
+/static/a377d7250f81638487731395bd0a401e/3ac88/new-page.jpg 1260w,
+/static/a377d7250f81638487731395bd0a401e/eea4a/new-page.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; You are set the &lt;strong&gt;&lt;em&gt;foreground&lt;/em&gt;&lt;/strong&gt; color.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1ab480d869e9a866142035f4ab2e29c7/eea4a/choose-the-foreground-color.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABL2RJFCBf/8QAGxAAAgIDAQAAAAAAAAAAAAAAAgMAAQQSFCH/2gAIAQEAAQUCUtZSsRcLwqaS67XQr2L/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAeEAACAgAHAAAAAAAAAAAAAAAAAQKRERIiMUFCYf/aAAgBAQAGPwLK3Jy8O1jRpwo4ocnuz//EABoQAAMBAAMAAAAAAAAAAAAAAAABESExQVH/2gAIAQEAAT8hdptbqQbVOJEjmsskv1pSHZN5gVn/2gAMAwEAAgADAAAAEMwP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QJ//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/EGf/xAAdEAEBAQABBQEAAAAAAAAAAAABEQAhMUFRYXGB/9oACAEBAAE/EBkvfDMOPzzh6Qvas6VdHIRyJhlvD1ZZukCPnLmKpEK7/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Choose, The foreground, color&quot;
+        title=&quot;Photoshop, Choose, The foreground, color&quot;
+        src=&quot;/static/1ab480d869e9a866142035f4ab2e29c7/828fb/choose-the-foreground-color.jpg&quot;
+        srcset=&quot;/static/1ab480d869e9a866142035f4ab2e29c7/ff44c/choose-the-foreground-color.jpg 158w,
+/static/1ab480d869e9a866142035f4ab2e29c7/a6688/choose-the-foreground-color.jpg 315w,
+/static/1ab480d869e9a866142035f4ab2e29c7/828fb/choose-the-foreground-color.jpg 630w,
+/static/1ab480d869e9a866142035f4ab2e29c7/0ede0/choose-the-foreground-color.jpg 945w,
+/static/1ab480d869e9a866142035f4ab2e29c7/3ac88/choose-the-foreground-color.jpg 1260w,
+/static/1ab480d869e9a866142035f4ab2e29c7/eea4a/choose-the-foreground-color.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 2: Create some clouds.&lt;/h2&gt;
+&lt;p&gt;With the new layer selected, go to &lt;strong&gt;&lt;em&gt;Filter -&gt;Render-&gt; Clouds&lt;/em&gt;&lt;/strong&gt;. The new layer will now resemble something that looks like &lt;strong&gt;&lt;em&gt;clouds&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/98b6fdc39e7f68b3905f9532ef65fc27/eea4a/render.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAF1nIkUID//xAAcEAEAAQQDAAAAAAAAAAAAAAACAwABBBQREiH/2gAIAQEAAQUCwzydQXpeIzOE7s1K/Zf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAACAgMBAAAAAAAAAAAAAAAAAQIREjGRYf/aAAgBAQAGPwJy27ot5dGioP02uDk9s//EABoQAQEAAwEBAAAAAAAAAAAAAAERACExURD/2gAIAQEAAT8h93OzqZWxK3WfERkuOQRej5JewK5//9oADAMBAAIAAwAAABBgD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQEBAQEAAwAAAAAAAAAAAAERACExgdHh/9oACAEBAAE/EDivE8AB8ntzWzkJO/GYCN1OiOLwqAvWfWfxGXEVSIV3/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Render&quot;
+        title=&quot;Photoshop, Render&quot;
+        src=&quot;/static/98b6fdc39e7f68b3905f9532ef65fc27/828fb/render.jpg&quot;
+        srcset=&quot;/static/98b6fdc39e7f68b3905f9532ef65fc27/ff44c/render.jpg 158w,
+/static/98b6fdc39e7f68b3905f9532ef65fc27/a6688/render.jpg 315w,
+/static/98b6fdc39e7f68b3905f9532ef65fc27/828fb/render.jpg 630w,
+/static/98b6fdc39e7f68b3905f9532ef65fc27/0ede0/render.jpg 945w,
+/static/98b6fdc39e7f68b3905f9532ef65fc27/3ac88/render.jpg 1260w,
+/static/98b6fdc39e7f68b3905f9532ef65fc27/eea4a/render.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 3: Change the blend mode.&lt;/h2&gt;
+&lt;p&gt; With the &lt;strong&gt;&lt;em&gt;new layer&lt;/em&gt;&lt;/strong&gt; still selected, go up to the &lt;strong&gt;&lt;em&gt;Blend Mode&lt;/em&gt;&lt;/strong&gt; and choose &lt;strong&gt;&lt;em&gt;Multiply or Overlay&lt;/em&gt;&lt;/strong&gt; (Screen was used here). You will now see that the cloud layer has been applied to the &lt;strong&gt;&lt;em&gt;normal&lt;/em&gt;&lt;/strong&gt; layer and created various shades of contrast throughout.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3def1dab0f3d49500a3b9c3a52f1bad2/eea4a/multiply.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//aAAwDAQACEAMQAAABlowkKgNP/8QAGxAAAwACAwAAAAAAAAAAAAAAAQIDABMEERT/2gAIAQEAAQUCjMOmhcrPWwdpr6aZyD2f/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQIQEf/aAAgBAwEBPwFJbX//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwESf//EAB4QAAIBAwUAAAAAAAAAAAAAAAABEQMSIjFBQmKB/9oACAEBAAY/Am3OpyXpFzMTYpvoj//EABoQAQADAQEBAAAAAAAAAAAAAAEAITERcZH/2gAIAQEAAT8hRHs4pl++kCGg7HAtuyL0vxGQ1Sf/2gAMAwEAAgADAAAAEOc//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAwEBPxBixjl//8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/EMJpN//EABkQAQEAAwEAAAAAAAAAAAAAAAERACEx0f/aAAgBAQABPxBphoJ617lyMDG28AihmPBXzBYguRizzCFIe64+EWTRW5//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Multiply&quot;
+        title=&quot;Photoshop, Multiply&quot;
+        src=&quot;/static/3def1dab0f3d49500a3b9c3a52f1bad2/828fb/multiply.jpg&quot;
+        srcset=&quot;/static/3def1dab0f3d49500a3b9c3a52f1bad2/ff44c/multiply.jpg 158w,
+/static/3def1dab0f3d49500a3b9c3a52f1bad2/a6688/multiply.jpg 315w,
+/static/3def1dab0f3d49500a3b9c3a52f1bad2/828fb/multiply.jpg 630w,
+/static/3def1dab0f3d49500a3b9c3a52f1bad2/0ede0/multiply.jpg 945w,
+/static/3def1dab0f3d49500a3b9c3a52f1bad2/3ac88/multiply.jpg 1260w,
+/static/3def1dab0f3d49500a3b9c3a52f1bad2/eea4a/multiply.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Select the background layer and press on &lt;strong&gt;&lt;em&gt;ctrl+j&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cf99b4c3127cdc17c131f8a4a1c6a2e2/eea4a/layer-copy-ctrl%2Bj.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.22784810126582%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/2gAMAwEAAhADEAAAAUtnugoQDb//xAAaEAACAwEBAAAAAAAAAAAAAAACAwABERQh/9oACAEBAAEFAlKo1847deg8wHpObs//xAAWEQADAAAAAAAAAAAAAAAAAAABEBL/2gAIAQMBAT8BNL//xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8BEX//xAAaEAADAQADAAAAAAAAAAAAAAAAARExEEGR/9oACAEBAAY/Ak3aa/TWRQ64/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITFRYXGR/9oACAEBAAE/IWCu4YLo+wQgxQFjHUXKT5i0t7n/2gAMAwEAAgADAAAAEF/P/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EBpxi//EABYRAQEBAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPxBSUz//xAAcEAEBAQEAAgMAAAAAAAAAAAABEQAxIUFRcfD/2gAIAQEAAT8QT/VEn7nJgxHydn7mXqEmMa2i09urhP35yVQpYPjf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Layer, Copy&quot;
+        title=&quot;Photoshop, Layer, Copy&quot;
+        src=&quot;/static/cf99b4c3127cdc17c131f8a4a1c6a2e2/828fb/layer-copy-ctrl%2Bj.jpg&quot;
+        srcset=&quot;/static/cf99b4c3127cdc17c131f8a4a1c6a2e2/ff44c/layer-copy-ctrl%2Bj.jpg 158w,
+/static/cf99b4c3127cdc17c131f8a4a1c6a2e2/a6688/layer-copy-ctrl%2Bj.jpg 315w,
+/static/cf99b4c3127cdc17c131f8a4a1c6a2e2/828fb/layer-copy-ctrl%2Bj.jpg 630w,
+/static/cf99b4c3127cdc17c131f8a4a1c6a2e2/0ede0/layer-copy-ctrl%2Bj.jpg 945w,
+/static/cf99b4c3127cdc17c131f8a4a1c6a2e2/3ac88/layer-copy-ctrl%2Bj.jpg 1260w,
+/static/cf99b4c3127cdc17c131f8a4a1c6a2e2/eea4a/layer-copy-ctrl%2Bj.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 4: Open a new layer.&lt;/h2&gt;
+&lt;p&gt;Press keyboard &lt;strong&gt;&lt;em&gt;ctrl&lt;/em&gt;&lt;/strong&gt;, go down to the bottom of the &lt;strong&gt;&lt;em&gt;layers panel&lt;/em&gt;&lt;/strong&gt; and click on the &lt;strong&gt;&lt;em&gt;Create a new layer button&lt;/em&gt;&lt;/strong&gt;. Or go to &lt;strong&gt;&lt;em&gt;Layer -&gt; New -&gt; Layer&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 235px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8d4e52262e7e2195cb6f06b2fe4016b7/9fbb0/view-layer.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 166.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAhABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQDAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgP/2gAMAwEAAhADEAAAAZfFsxM6KsvPTIG0xpAZ3//EABwQAAEFAQEBAAAAAAAAAAAAAAABAgMRMRIQMv/aAAgBAQABBQJWocoO2OPttDtbJyWO2ih2yfPn/8QAFxEBAAMAAAAAAAAAAAAAAAAAEAEDMf/aAAgBAwEBPwEgrw//xAAXEQADAQAAAAAAAAAAAAAAAAADECAy/9oACAECAQE/AYLpf//EABgQAAIDAAAAAAAAAAAAAAAAAAEQITAx/9oACAEBAAY/AmYLyn//xAAdEAEAAgICAwAAAAAAAAAAAAABABEQIUFRYbHR/9oACAEBAAE/IUB9jIBFwtp4qK84wCb77x2izLwVHsz/AP/aAAwDAQACAAMAAAAQGwJBeA//xAAZEQABBQAAAAAAAAAAAAAAAAABEBEgIWH/2gAIAQMBAT8QxHE0Yf8A/8QAFxEBAAMAAAAAAAAAAAAAAAAAARARIP/aAAgBAgEBPxCoXF//xAAgEAEAAgIBBAMAAAAAAAAAAAABABEhMWEQQVFxgZGh/9oACAEBAAE/EFzTwIDu17IaDVXHTxa2AxzAHk1upfB7FRjXthuV9RTor5itYIwb5lhdfpEofE0+nRn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, View, Layer&quot;
+        title=&quot;Photoshop, View, Layer&quot;
+        src=&quot;/static/8d4e52262e7e2195cb6f06b2fe4016b7/9fbb0/view-layer.jpg&quot;
+        srcset=&quot;/static/8d4e52262e7e2195cb6f06b2fe4016b7/ff44c/view-layer.jpg 158w,
+/static/8d4e52262e7e2195cb6f06b2fe4016b7/9fbb0/view-layer.jpg 235w&quot;
+        sizes=&quot;(max-width: 235px) 100vw, 235px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;To begin, let’s choose the &lt;strong&gt;&lt;em&gt;Brush Tool&lt;/em&gt;&lt;/strong&gt;. This can be done by clicking on the icon depicted below located in the toolbar down the left side of the screen, or by hitting the &lt;strong&gt;&lt;em&gt;B&lt;/em&gt;&lt;/strong&gt; button on your keyboard.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7730e2d66470b1b7999d57eba1722520/eea4a/brush-tool.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/2gAMAwEAAhADEAAAAZmx7cQQA3//xAAbEAACAgMBAAAAAAAAAAAAAAABAgARAxITIf/aAAgBAQABBQJF2HIWfCMhWd3Mu5//xAAXEQADAQAAAAAAAAAAAAAAAAACEBES/9oACAEDAQE/AS1V/8QAGBEAAgMAAAAAAAAAAAAAAAAAAhAREjH/2gAIAQIBAT8BGsYv/8QAGxAAAgEFAAAAAAAAAAAAAAAAAAExEBEyQXH/2gAIAQEABj8ClktdMiyNU//EABsQAQACAgMAAAAAAAAAAAAAAAEAESGhMUFR/9oACAEBAAE/IRVWz1LNkgwCYe0c3ElOkWl9n//aAAwDAQACAAMAAAAQgC//xAAYEQADAQEAAAAAAAAAAAAAAAAAASERMf/aAAgBAwEBPxCrHBcP/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERITH/2gAIAQIBAT8QaV0Pp//EABwQAQEBAAEFAAAAAAAAAAAAAAERADEhQYGh8P/aAAgBAQABPxBjkMLk8aYdIxOT1rgI7jixlVJUfjMAY841WVYcG//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Brush, Tool&quot;
+        title=&quot;Photoshop, Brush, Tool&quot;
+        src=&quot;/static/7730e2d66470b1b7999d57eba1722520/828fb/brush-tool.jpg&quot;
+        srcset=&quot;/static/7730e2d66470b1b7999d57eba1722520/ff44c/brush-tool.jpg 158w,
+/static/7730e2d66470b1b7999d57eba1722520/a6688/brush-tool.jpg 315w,
+/static/7730e2d66470b1b7999d57eba1722520/828fb/brush-tool.jpg 630w,
+/static/7730e2d66470b1b7999d57eba1722520/0ede0/brush-tool.jpg 945w,
+/static/7730e2d66470b1b7999d57eba1722520/3ac88/brush-tool.jpg 1260w,
+/static/7730e2d66470b1b7999d57eba1722520/eea4a/brush-tool.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Click to open the brush preset picker,open the toolbar, select brush.
+&lt;strong&gt;&lt;em&gt;Mode: normal, opecity: 85%,  Flow: 77%.&lt;/em&gt;&lt;/strong&gt; Then click on document.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4025cf6456ca05625d698878589250a5/cbe08/select-brush.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.12658227848101%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/2gAMAwEAAhADEAAAAZ2T5YQSC3//xAAaEAACAwEBAAAAAAAAAAAAAAABAgAREhMh/9oACAEBAAEFAlGxyFnw6KL2eXc//8QAGBEAAgMAAAAAAAAAAAAAAAAAAQIQETH/2gAIAQMBAT8BYNex/8QAGBEAAgMAAAAAAAAAAAAAAAAAAQIQETH/2gAIAQIBAT8BUrWR/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQITFB/9oACAEBAAY/AjqNZU//xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhQZFhcf/aAAgBAQABPyE1c4awzafswFB2ghf2LFKcikruf//aAAwDAQACAAMAAAAQVy//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EErOIv/EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAgBAgEBPxAIHU3/xAAaEAEBAQEBAQEAAAAAAAAAAAABEQAhMVHR/9oACAEBAAE/EECAgGG64ILEfv5nCx9FuENfQMWZ8iPvHcxUVYcN/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Select, Brush&quot;
+        title=&quot;Photoshop, Select, Brush&quot;
+        src=&quot;/static/4025cf6456ca05625d698878589250a5/828fb/select-brush.jpg&quot;
+        srcset=&quot;/static/4025cf6456ca05625d698878589250a5/ff44c/select-brush.jpg 158w,
+/static/4025cf6456ca05625d698878589250a5/a6688/select-brush.jpg 315w,
+/static/4025cf6456ca05625d698878589250a5/828fb/select-brush.jpg 630w,
+/static/4025cf6456ca05625d698878589250a5/0ede0/select-brush.jpg 945w,
+/static/4025cf6456ca05625d698878589250a5/3ac88/select-brush.jpg 1260w,
+/static/4025cf6456ca05625d698878589250a5/cbe08/select-brush.jpg 1273w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 5: Gradient tool&lt;/h2&gt;
+&lt;p&gt;To begin, let’s choose the &lt;strong&gt;&lt;em&gt;Gradient tool&lt;/em&gt;&lt;/strong&gt;. This can be done by clicking on the icon depicted below located in the toolbar down the left side of the screen, or by hitting the &lt;strong&gt;&lt;em&gt;G&lt;/em&gt;&lt;/strong&gt; button on your keyboard. Click to the open gradient tool. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2626f17552cc736ba326dd602909887e/572c8/gradient-tool.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.12658227848101%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/2gAMAwEAAhADEAAAAZmz5YQSCv8A/8QAGRAAAwEBAQAAAAAAAAAAAAAAAQIRABMh/9oACAEBAAEFAkWjkKfDSg7Prd//xAAXEQEAAwAAAAAAAAAAAAAAAAABAhAR/9oACAEDAQE/AUltf//EABgRAAIDAAAAAAAAAAAAAAAAAAECEBEx/9oACAECAQE/AVKVkf/EABsQAAIBBQAAAAAAAAAAAAAAAAABERAhMUFx/9oACAEBAAY/AnMm10yWr//EABwQAQACAgMBAAAAAAAAAAAAAAEAESFxMUFRgf/aAAgBAQABPyGyJN4pnCXegKBv2DPvMWEUrUUle5//2gAMAwEAAgADAAAAEE8//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxDaR5F//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxDEHqb/xAAcEAEBAAMAAwEAAAAAAAAAAAABEQAhMUFRcZH/2gAIAQEAAT8QPWYeGay4gFEXb9DWOB3sxUgPRBizn5j4StHq4xUVYaM//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Gradient, tool&quot;
+        title=&quot;Photoshop, Gradient, tool&quot;
+        src=&quot;/static/2626f17552cc736ba326dd602909887e/828fb/gradient-tool.jpg&quot;
+        srcset=&quot;/static/2626f17552cc736ba326dd602909887e/ff44c/gradient-tool.jpg 158w,
+/static/2626f17552cc736ba326dd602909887e/a6688/gradient-tool.jpg 315w,
+/static/2626f17552cc736ba326dd602909887e/828fb/gradient-tool.jpg 630w,
+/static/2626f17552cc736ba326dd602909887e/0ede0/gradient-tool.jpg 945w,
+/static/2626f17552cc736ba326dd602909887e/3ac88/gradient-tool.jpg 1260w,
+/static/2626f17552cc736ba326dd602909887e/572c8/gradient-tool.jpg 1276w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Click to the open &lt;strong&gt;&lt;em&gt;gradient tool&lt;/em&gt;&lt;/strong&gt;, Open the pop-up &lt;strong&gt;&lt;em&gt;gradient editor&lt;/em&gt;&lt;/strong&gt; and select the black and white preset, click &lt;strong&gt;&lt;em&gt;ok&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d08500dd6658978bf816525ac825d09d/eea4a/gradient-editor.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwL/2gAMAwEAAhADEAAAAeVsnlDoYh3/AP/EABsQAAEFAQEAAAAAAAAAAAAAAAEAAgMEERIh/9oACAEBAAEFAox0DXZyfDpY02ZSt1f/xAAVEQEBAAAAAAAAAAAAAAAAAAAhEP/aAAgBAwEBPwFZ/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARIf/aAAgBAgEBPwHDF//EABoQAAICAwAAAAAAAAAAAAAAAAAhATEQETL/2gAIAQEABj8Ce7JUFiOsf//EABsQAQACAgMAAAAAAAAAAAAAAAEAIRExQVFh/9oACAEBAAE/IRRS0phHQqm6gMA2DHe4AjkPkUleZ//aAAwDAQACAAMAAAAQhD//xAAXEQEAAwAAAAAAAAAAAAAAAAABABEx/9oACAEDAQE/ECjZ3IT/xAAYEQADAQEAAAAAAAAAAAAAAAAAATERIf/aAAgBAgEBPxDlhSjP/8QAGxABAQEAAwEBAAAAAAAAAAAAAREAITGRUdH/2gAIAQEAAT8QU1EBCFP3MBKgj1XOB30XVAD2IMWdeaTZREcmZqKsODf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Gradient, Editor&quot;
+        title=&quot;Photoshop, Gradient, Editor&quot;
+        src=&quot;/static/d08500dd6658978bf816525ac825d09d/828fb/gradient-editor.jpg&quot;
+        srcset=&quot;/static/d08500dd6658978bf816525ac825d09d/ff44c/gradient-editor.jpg 158w,
+/static/d08500dd6658978bf816525ac825d09d/a6688/gradient-editor.jpg 315w,
+/static/d08500dd6658978bf816525ac825d09d/828fb/gradient-editor.jpg 630w,
+/static/d08500dd6658978bf816525ac825d09d/0ede0/gradient-editor.jpg 945w,
+/static/d08500dd6658978bf816525ac825d09d/3ac88/gradient-editor.jpg 1260w,
+/static/d08500dd6658978bf816525ac825d09d/eea4a/gradient-editor.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Draw on the page from bottom to top&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/fe097959b75b0a3c4d01ca946e52b510/eea4a/gradient-up-down.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/9oADAMBAAIQAxAAAAGZ8uqXAkJf/8QAHBAAAwABBQAAAAAAAAAAAAAAAQIDEQASExQh/9oACAEBAAEFAprvXhGT4RRpr2aaJyf/xAAYEQACAwAAAAAAAAAAAAAAAAABAhARMf/aAAgBAwEBPwEhr2P/xAAYEQACAwAAAAAAAAAAAAAAAAABAhARMf/aAAgBAgEBPwEFayP/xAAaEAEAAgMBAAAAAAAAAAAAAAAAAUERISIx/9oACAEBAAY/Apna4euVMv/EABoQAQACAwEAAAAAAAAAAAAAAAEAESExkWH/2gAIAQEAAT8htC2aKYMB9rYSgfYwEZbyR0XxFZbZ/9oADAMBAAIAAwAAABDjz//EABURAQEAAAAAAAAAAAAAAAAAAAEA/9oACAEDAQE/EHJIX//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/EDAY/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITFBgZHx/9oACAEBAAE/EHQuOxK1GwMUtt+aihcORQYgTEaX5FikHeMSKltDB1P/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Gradient, Up, Down&quot;
+        title=&quot;Photoshop, Gradient, Up, Down&quot;
+        src=&quot;/static/fe097959b75b0a3c4d01ca946e52b510/828fb/gradient-up-down.jpg&quot;
+        srcset=&quot;/static/fe097959b75b0a3c4d01ca946e52b510/ff44c/gradient-up-down.jpg 158w,
+/static/fe097959b75b0a3c4d01ca946e52b510/a6688/gradient-up-down.jpg 315w,
+/static/fe097959b75b0a3c4d01ca946e52b510/828fb/gradient-up-down.jpg 630w,
+/static/fe097959b75b0a3c4d01ca946e52b510/0ede0/gradient-up-down.jpg 945w,
+/static/fe097959b75b0a3c4d01ca946e52b510/3ac88/gradient-up-down.jpg 1260w,
+/static/fe097959b75b0a3c4d01ca946e52b510/eea4a/gradient-up-down.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Natural clouds effect in photoshop.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/694750f35612e7c6d78f6520fa4fec30/ba99f/natural-clouds.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.86075949367089%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/aAAwDAQACEAMQAAAB2Q2tMiwEf//EABsQAAMAAgMAAAAAAAAAAAAAAAABAgMRISIx/9oACAEBAAEFAqK6y9HpjXEpM//EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAwEBPwFNn//EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAgEBPwFwf//EABoQAAICAwAAAAAAAAAAAAAAAAABECExUWH/2gAIAQEABj8C0ynRkfJ//8QAGxABAQEAAgMAAAAAAAAAAAAAAREAIVExQWH/2gAIAQEAAT8hlfMNVMOgl+ZjKHTHV5neAVPe/9oADAMBAAIAAwAAABDvP//EABgRAAMBAQAAAAAAAAAAAAAAAAABIRFR/9oACAEDAQE/EGR0xun/xAAYEQEAAwEAAAAAAAAAAAAAAAABABEhUf/aAAgBAgEBPxAGuSwyf//EABoQAQADAQEBAAAAAAAAAAAAAAEAESFBUTH/2gAIAQEAAT8QQwADfTyHSuEeytEwDSvsCnGFWkXWRajQQSK2n//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Natural, clouds&quot;
+        title=&quot;Photoshop, Natural, clouds&quot;
+        src=&quot;/static/694750f35612e7c6d78f6520fa4fec30/828fb/natural-clouds.jpg&quot;
+        srcset=&quot;/static/694750f35612e7c6d78f6520fa4fec30/ff44c/natural-clouds.jpg 158w,
+/static/694750f35612e7c6d78f6520fa4fec30/a6688/natural-clouds.jpg 315w,
+/static/694750f35612e7c6d78f6520fa4fec30/828fb/natural-clouds.jpg 630w,
+/static/694750f35612e7c6d78f6520fa4fec30/ba99f/natural-clouds.jpg 851w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Second method: Blending Mode&lt;/h2&gt;
+&lt;p&gt;In Photoshop, go up to the &lt;strong&gt;&lt;em&gt;File menu&lt;/em&gt;&lt;/strong&gt; in the Menu Bar, choose &lt;strong&gt;&lt;em&gt;new&lt;/em&gt;&lt;/strong&gt;, and then made a new page. A window opens that prompts you to name your new document and enter dimensions and preferences. Fill blue color on white page.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6431f2e26a8186ff7a955c38db573eaf/eea4a/step2-paint-bucket-tool.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/aAAwDAQACEAMQAAABxtTR5pEgU//EABoQAAICAwAAAAAAAAAAAAAAAAECEBIAEzL/2gAIAQEAAQUCQWygjkbGj//EABgRAAIDAAAAAAAAAAAAAAAAAAECEBEh/9oACAEDAQE/AXD3hj//xAAYEQACAwAAAAAAAAAAAAAAAAABAhARIf/aAAgBAgEBPwFSlaI//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAEQESExQf/aAAgBAQAGPwJ3Z02zE//EABwQAAICAgMAAAAAAAAAAAAAAAABESExkVFhcf/aAAgBAQABPyGJJR8ndsOnQS3ts2eWiW3J/9oADAMBAAIAAwAAABAf7//EABgRAQEAAwAAAAAAAAAAAAAAAAEAESFx/9oACAEDAQE/EFtwHYdX/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAh/9oACAECAQE/EDE0m//EABsQAQACAgMAAAAAAAAAAAAAAAEAESExEFFx/9oACAEBAAE/EBTpJVMcLJRT9h3xAg5ibuCwltbn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Paint, Bucket, Tool&quot;
+        title=&quot;Photoshop, Paint, Bucket, Tool&quot;
+        src=&quot;/static/6431f2e26a8186ff7a955c38db573eaf/828fb/step2-paint-bucket-tool.jpg&quot;
+        srcset=&quot;/static/6431f2e26a8186ff7a955c38db573eaf/ff44c/step2-paint-bucket-tool.jpg 158w,
+/static/6431f2e26a8186ff7a955c38db573eaf/a6688/step2-paint-bucket-tool.jpg 315w,
+/static/6431f2e26a8186ff7a955c38db573eaf/828fb/step2-paint-bucket-tool.jpg 630w,
+/static/6431f2e26a8186ff7a955c38db573eaf/0ede0/step2-paint-bucket-tool.jpg 945w,
+/static/6431f2e26a8186ff7a955c38db573eaf/3ac88/step2-paint-bucket-tool.jpg 1260w,
+/static/6431f2e26a8186ff7a955c38db573eaf/eea4a/step2-paint-bucket-tool.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Go down to the bottom of the layers panel and click on the Create a new layer button.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/65426671fada08ae700fd8b709b42352/c8ae0/new-layer.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAME/9oADAMBAAIQAxAAAAHHWCvMxECn/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECEhATMv/aAAgBAQABBQKCsUQzlbZY/8QAGBEAAgMAAAAAAAAAAAAAAAAAAQIQESH/2gAIAQMBAT8BcPeGP//EABgRAAIDAAAAAAAAAAAAAAAAAAECEBEh/9oACAECAQE/AVKVoj//xAAaEAACAgMAAAAAAAAAAAAAAAAAARARITFB/9oACAEBAAY/AndnTbMT/8QAHBABAAICAwEAAAAAAAAAAAAAAQARIZExUWFx/9oACAEBAAE/IalmD3PbaAHErXVzmfDUtW7n/9oADAMBAAIAAwAAABC8D//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQMBAT8QW3Ah5f/EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAgBAgEBPxAx0nb/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMRBBUXH/2gAIAQEAAT8QtuklUxw+gNPsPeIEHMR7ksJWt7n/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, New, Layer&quot;
+        title=&quot;Photoshop, New, Layer&quot;
+        src=&quot;/static/65426671fada08ae700fd8b709b42352/828fb/new-layer.jpg&quot;
+        srcset=&quot;/static/65426671fada08ae700fd8b709b42352/ff44c/new-layer.jpg 158w,
+/static/65426671fada08ae700fd8b709b42352/a6688/new-layer.jpg 315w,
+/static/65426671fada08ae700fd8b709b42352/828fb/new-layer.jpg 630w,
+/static/65426671fada08ae700fd8b709b42352/0ede0/new-layer.jpg 945w,
+/static/65426671fada08ae700fd8b709b42352/3ac88/new-layer.jpg 1260w,
+/static/65426671fada08ae700fd8b709b42352/c8ae0/new-layer.jpg 1279w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 6: Change your foreground colours to black and white&lt;/h2&gt;
+&lt;p&gt;At the bottom of the utilities bar to the left, you can see the foreground and background colours. Above the colours you will see a smaller version of this, but in black and white. Press that to restore your foreground colours to black and white.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 277px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a035d131df7dbb1cd672eba7f0d9fcb3/d9965/foreground-color.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 270.253164556962%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAA2ABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMEAQL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHIhM1MopOkwCk6yAKeQ4D/xAAcEAACAgIDAAAAAAAAAAAAAAACEAAxARIDESH/2gAIAQEAAQUC2mSGbYh2jtHaO1yWi9z0v//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQMBAT8BD//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQIBAT8BD//EABcQAAMBAAAAAAAAAAAAAAAAABAhMUD/2gAIAQEABj8CYuP/xAAcEAABBQEBAQAAAAAAAAAAAAABABARIbFRMWH/2gAIAQEAAT8hgDaPiINGBxrm+b5vm4UJqRx/UpqF/9oADAMBAAIAAwAAABADAAAkAAD/xAAWEQEBAQAAAAAAAAAAAAAAAAABIBH/2gAIAQMBAT8QhMj/xAAUEQEAAAAAAAAAAAAAAAAAAAAw/9oACAECAQE/EA//xAAgEAACAQMEAwAAAAAAAAAAAAABESEAEDFBUXGBkaHB/9oACAEBAAE/EEwiSZT3RSY3cfarZTon5WHhfDwuyvKXwwoXSwIJAJBje5FAAAABN1A480TB0r//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Foreground, Color&quot;
+        title=&quot;Photoshop, Foreground, Color&quot;
+        src=&quot;/static/a035d131df7dbb1cd672eba7f0d9fcb3/d9965/foreground-color.jpg&quot;
+        srcset=&quot;/static/a035d131df7dbb1cd672eba7f0d9fcb3/ff44c/foreground-color.jpg 158w,
+/static/a035d131df7dbb1cd672eba7f0d9fcb3/d9965/foreground-color.jpg 277w&quot;
+        sizes=&quot;(max-width: 277px) 100vw, 277px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;With the new layer selected, go to Filter -&gt;Render-&gt; Clouds. The new layer will now resemble something that looks like clouds.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b3354cae3566f8e762eb4b10f31fd74d/eea4a/step2-render-clouds.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/9oADAMBAAIQAxAAAAGEwswMUgv/AP/EABsQAAIBBQAAAAAAAAAAAAAAAAECAAQQEhMi/9oACAEBAAEFAqQ9OgyMDFZta3//xAAXEQADAQAAAAAAAAAAAAAAAAACEBJB/9oACAEDAQE/ATvF/8QAFxEAAwEAAAAAAAAAAAAAAAAAAhASQf/aAAgBAgEBPwEJ1f/EABoQAAICAwAAAAAAAAAAAAAAAAABAiEQMZH/2gAIAQEABj8Ck2+js2ys/wD/xAAaEAEAAwEBAQAAAAAAAAAAAAABABEhUXGR/9oACAEBAAE/ITAXNRLCbbxgByVp1PD5LVu5/9oADAMBAAIAAwAAABAoL//EABgRAQEAAwAAAAAAAAAAAAAAAAEAETGR/9oACAEDAQE/EAlFjsav/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAgEBPxBE0bPb/8QAGxABAQEAAwEBAAAAAAAAAAAAAREAITFxUWH/2gAIAQEAAT8Q+HK4DvzHZU5EK9aAae6ORFWl366WEqt3/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Render, Clouds&quot;
+        title=&quot;Photoshop, Render, Clouds&quot;
+        src=&quot;/static/b3354cae3566f8e762eb4b10f31fd74d/828fb/step2-render-clouds.jpg&quot;
+        srcset=&quot;/static/b3354cae3566f8e762eb4b10f31fd74d/ff44c/step2-render-clouds.jpg 158w,
+/static/b3354cae3566f8e762eb4b10f31fd74d/a6688/step2-render-clouds.jpg 315w,
+/static/b3354cae3566f8e762eb4b10f31fd74d/828fb/step2-render-clouds.jpg 630w,
+/static/b3354cae3566f8e762eb4b10f31fd74d/0ede0/step2-render-clouds.jpg 945w,
+/static/b3354cae3566f8e762eb4b10f31fd74d/3ac88/step2-render-clouds.jpg 1260w,
+/static/b3354cae3566f8e762eb4b10f31fd74d/eea4a/step2-render-clouds.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;With the new layer still selected, go up to the Blend Mode and choose multiply or Overlay (screen was used here). You will now see that the cloud layer has been applied to the normal layer and created various shades of contrast throughout.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4ac228d0bb3c6173272959189a3091a6/84f71/step2-multiply.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwABBP/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAeVRMS2P/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxMEM//aAAgBAQABBQKtQy5gSxM2DmtdWnX7f//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAICAQUAAAAAAAAAAAAAAAABERJhAiExQYH/2gAIAQEABj8C1S2LOSssdex8bniP/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFRQWHw/9oACAEBAAE/IWQiNGxNZdVfhOZWXLIdmyVADsyfN6n/2gAMAwEAAgADAAAAEMMP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHRABAAICAgMAAAAAAAAAAAAAAQARIVFxgTFh0f/aAAgBAQABPxAQo1Knca62JaLXUu/DLXsuVIUqgb9cQPyXfjqJVlNPGf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Multiply&quot;
+        title=&quot;Photoshop, Multiply&quot;
+        src=&quot;/static/4ac228d0bb3c6173272959189a3091a6/828fb/step2-multiply.jpg&quot;
+        srcset=&quot;/static/4ac228d0bb3c6173272959189a3091a6/ff44c/step2-multiply.jpg 158w,
+/static/4ac228d0bb3c6173272959189a3091a6/a6688/step2-multiply.jpg 315w,
+/static/4ac228d0bb3c6173272959189a3091a6/828fb/step2-multiply.jpg 630w,
+/static/4ac228d0bb3c6173272959189a3091a6/0ede0/step2-multiply.jpg 945w,
+/static/4ac228d0bb3c6173272959189a3091a6/3ac88/step2-multiply.jpg 1260w,
+/static/4ac228d0bb3c6173272959189a3091a6/84f71/step2-multiply.jpg 1277w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4359ea65aeb068ffa7f8519b43826cd9/eea4a/step2-screen.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEA//EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAHOmBObAFP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwAUAQQTM//aAAgBAQABBQJC8MGuEaPMxYShssm37f/EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/AUZ//8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/ARF//8QAGxAAAgIDAQAAAAAAAAAAAAAAAAESQQIhkYH/2gAIAQEABj8Cyk3pl9IyY42Vw8R//8QAGRABAQEBAQEAAAAAAAAAAAAAAREAIUHw/9oACAEBAAE/IWiiBHQCvejAnLqpPTTSE94lv6m//9oADAMBAAIAAwAAABAoD//EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAwEBPxBrjP/EABcRAQADAAAAAAAAAAAAAAAAAAEQESH/2gAIAQIBAT8QddI//8QAGhABAQEBAQEBAAAAAAAAAAAAAREAITFBcf/aAAgBAQABPxD4XoEkzxIcouZyDBTT0uKIFInukXHrGFJV5+d//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Screen&quot;
+        title=&quot;Photoshop, Screen&quot;
+        src=&quot;/static/4359ea65aeb068ffa7f8519b43826cd9/828fb/step2-screen.jpg&quot;
+        srcset=&quot;/static/4359ea65aeb068ffa7f8519b43826cd9/ff44c/step2-screen.jpg 158w,
+/static/4359ea65aeb068ffa7f8519b43826cd9/a6688/step2-screen.jpg 315w,
+/static/4359ea65aeb068ffa7f8519b43826cd9/828fb/step2-screen.jpg 630w,
+/static/4359ea65aeb068ffa7f8519b43826cd9/0ede0/step2-screen.jpg 945w,
+/static/4359ea65aeb068ffa7f8519b43826cd9/3ac88/step2-screen.jpg 1260w,
+/static/4359ea65aeb068ffa7f8519b43826cd9/eea4a/step2-screen.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Step 7: Blending options&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Double click&lt;/em&gt;&lt;/strong&gt; on the selection layer, and open the popup layer style Choose &lt;strong&gt;&lt;em&gt;blending options&lt;/em&gt;&lt;/strong&gt;: Custom, and choose &lt;strong&gt;&lt;em&gt;Blend mode: screen.&lt;/em&gt;&lt;/strong&gt; Press &lt;strong&gt;&lt;em&gt;Alt&lt;/em&gt;&lt;/strong&gt; and drag the arrow of &lt;strong&gt;&lt;em&gt;This layer&lt;/em&gt;&lt;/strong&gt; forward with the help of the mouse. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2bc8a8f76a3f084b12acef7b97dc7f54/eea4a/step2-blending-options.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.49367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGFzIYixIP/xAAaEAACAwEBAAAAAAAAAAAAAAAAAwECERQE/9oACAEBAAEFAvMuGnKvJKOuo62Zun//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAdEAABBAIDAAAAAAAAAAAAAAAAARESITGREEJR/9oACAEBAAY/Alk+fTtsyosWsatcf//EABoQAQADAAMAAAAAAAAAAAAAAAEAESExUWH/2gAIAQEAAT8hEuxTKRsbEA5Ktcy2yeJYUl7n/9oADAMBAAIAAwAAABBgD//EABYRAQEBAAAAAAAAAAAAAAAAAAABQf/aAAgBAwEBPxDKj//EABYRAQEBAAAAAAAAAAAAAAAAAAABQf/aAAgBAgEBPxDYr//EABoQAQEBAQEBAQAAAAAAAAAAAAERACExQVH/2gAIAQEAAT8QX65KcYzgJ9UhlZAP7hFg4C6qoBEB5kK9VZ5v/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Blending, Options&quot;
+        title=&quot;Photoshop, Blending, Options&quot;
+        src=&quot;/static/2bc8a8f76a3f084b12acef7b97dc7f54/828fb/step2-blending-options.jpg&quot;
+        srcset=&quot;/static/2bc8a8f76a3f084b12acef7b97dc7f54/ff44c/step2-blending-options.jpg 158w,
+/static/2bc8a8f76a3f084b12acef7b97dc7f54/a6688/step2-blending-options.jpg 315w,
+/static/2bc8a8f76a3f084b12acef7b97dc7f54/828fb/step2-blending-options.jpg 630w,
+/static/2bc8a8f76a3f084b12acef7b97dc7f54/0ede0/step2-blending-options.jpg 945w,
+/static/2bc8a8f76a3f084b12acef7b97dc7f54/3ac88/step2-blending-options.jpg 1260w,
+/static/2bc8a8f76a3f084b12acef7b97dc7f54/eea4a/step2-blending-options.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Finally, We have created the &lt;strong&gt;&lt;em&gt;cloud effect&lt;/em&gt;&lt;/strong&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/89d3b5ef607489b297d4e5506f77bdce/a6e84/blending1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.75949367088608%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/aAAwDAQACEAMQAAABop4LVG5gn//EABkQAAIDAQAAAAAAAAAAAAAAAAABAhIhQf/aAAgBAQABBQLWcwjhZtSR/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/ARyf/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/AU2f/8QAFRABAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQEABj8Ca//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExQeH/2gAIAQEAAT8hDMuGcfY1ayKqO1PcgDnpc//aAAwDAQACAAMAAAAQ7O//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QAbKjf//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBFkAl//8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFhUXGR/9oACAEBAAE/EHrElKkCVmq18O+4nAe/IuLENw0ecyA6cC9s/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Photoshop, Blending&quot;
+        title=&quot;Photoshop, Blending&quot;
+        src=&quot;/static/89d3b5ef607489b297d4e5506f77bdce/828fb/blending1.jpg&quot;
+        srcset=&quot;/static/89d3b5ef607489b297d4e5506f77bdce/ff44c/blending1.jpg 158w,
+/static/89d3b5ef607489b297d4e5506f77bdce/a6688/blending1.jpg 315w,
+/static/89d3b5ef607489b297d4e5506f77bdce/828fb/blending1.jpg 630w,
+/static/89d3b5ef607489b297d4e5506f77bdce/a6e84/blending1.jpg 869w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;When you follow the above steps it will add a cloud effect and it will be visible in photoshop.&lt;/p&gt;
+&lt;p&gt;Thanks for reading…&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add background color to text in photoshop?]]></title><description><![CDATA[Hello 👋, Welcome To aGuideHub! ❤️ This article will guide you to adding background colors to text in photoshop with example. To create a…]]></description><link>https://aguidehub.com/blog/how-to-add-background-color-to-text-in-photoshop/</link><guid isPermaLink="false">https://aguidehub.com/blog/how-to-add-background-color-to-text-in-photoshop/</guid><pubDate>Sat, 26 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello 👋,&lt;/p&gt;
 &lt;p&gt;Welcome To aGuideHub! ❤️&lt;/p&gt;
 &lt;p&gt;This article will guide you to adding background colors to text in photoshop with example.&lt;/p&gt;
 &lt;p&gt;To create a new document, select &lt;strong&gt;&lt;em&gt;File&lt;/em&gt;&lt;/strong&gt; -&gt; &lt;strong&gt;&lt;em&gt;New&lt;/em&gt;&lt;/strong&gt; from the bar along the top of the screen before editing the settings in the window that comes up to customize the new &lt;strong&gt;&lt;em&gt;file&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
