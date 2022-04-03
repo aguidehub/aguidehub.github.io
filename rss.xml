@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[aGuideHub]]></title><description><![CDATA[A guidehub guide you to complete your task.]]></description><link>https://aguidehub.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 Apr 2022 17:42:16 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hey there, what’s up? aGuideHub is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus…]]></description><link>https://aguidehub.com/about/</link><guid isPermaLink="false">https://aguidehub.com/about/</guid><content:encoded>&lt;h1&gt;Hey there, what’s up?&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[aGuideHub]]></title><description><![CDATA[A guidehub guide you to complete your task.]]></description><link>https://aguidehub.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 Apr 2022 08:28:57 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hey there, what’s up? aGuideHub is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus…]]></description><link>https://aguidehub.com/about/</link><guid isPermaLink="false">https://aguidehub.com/about/</guid><content:encoded>&lt;h1&gt;Hey there, what’s up?&lt;/h1&gt;
 &lt;p&gt;aGuideHub is a tech blog created with the sole purpose of explaining complex tech in a simple and concise way thus creating value for budding developers out there.&lt;/p&gt;
 &lt;p&gt;Here you will find blogs on the latest tech, tutorials on programming languages, explanations to data structure and algorithm concepts and questions, and much more… So stay tuned!!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.]]></description><link>https://aguidehub.com/contact/</link><guid isPermaLink="false">https://aguidehub.com/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
 &lt;p&gt;If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Disclaimer]]></title><description><![CDATA[Welcome to aGuideHub! All the information on this website - https://aguidehub.com/ - is published in good faith and for general information…]]></description><link>https://aguidehub.com/disclaimer/</link><guid isPermaLink="false">https://aguidehub.com/disclaimer/</guid><content:encoded>&lt;p&gt;Welcome to aGuideHub!&lt;/p&gt;
@@ -134,7 +134,110 @@
 &lt;li&gt;limit any of our or your liabilities in any way that is not permitted under applicable law; or&lt;/li&gt;
 &lt;li&gt;exclude any of our or your liabilities that may not be excluded under applicable law. The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add catch light to eyes in photoshop?]]></title><description><![CDATA[Hello 👋, Welcome To aGuideHub! ❤️ Table of contents Zoom in on the eyes Select the lasso tool Make a selection around the eyes Add a hue…]]></description><link>https://aguidehub.com/blog/how-to-add-catch-light-to-eyes-in-photoshop/</link><guid isPermaLink="false">https://aguidehub.com/blog/how-to-add-catch-light-to-eyes-in-photoshop/</guid><pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello 👋,&lt;/p&gt;
+&lt;p&gt;As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to append a slice to another slice in golang?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aGuideHub! ❤️ Today, we will learn to append slice to a another slice in golang, here we will use  golang build in…]]></description><link>https://aguidehub.com/blog/how-to-append-a-slice-to-another-slice-in-golang/</link><guid isPermaLink="false">https://aguidehub.com/blog/how-to-append-a-slice-to-another-slice-in-golang/</guid><pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aGuideHub! ❤️&lt;/p&gt;
+&lt;p&gt;Today, we will learn to append slice to a another slice in golang, here we will use &lt;code class=&quot;language-text&quot;&gt;append()&lt;/code&gt; golang build in method.&lt;/p&gt;
+&lt;p&gt;So we will create two slices like following example.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;go&quot;&gt;&lt;pre class=&quot;language-go&quot;&gt;&lt;code class=&quot;language-go&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;package&lt;/span&gt; main
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;fmt&quot;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  x&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y &lt;span class=&quot;token operator&quot;&gt;:=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token builtin&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token builtin&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+  z &lt;span class=&quot;token operator&quot;&gt;:=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;append&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y&lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+	fmt&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;Print&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;z&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Here, we have created two slice &lt;code class=&quot;language-text&quot;&gt;x&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;y&lt;/code&gt;, use append method to concate slice and, store in third variable &lt;code class=&quot;language-text&quot;&gt;z&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Now You see the output here showing z value is &lt;code class=&quot;language-text&quot;&gt;[1, 2, 3, 4]&lt;/code&gt;.&lt;/p&gt;
+&lt;h4&gt;Output&lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e5f4d6972277de27af051c79a9f18ec6/ad00e/append-slice-output.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 25.316455696202528%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAuklEQVQY03WQW2oDMQxFZ/8b6Sb61Y+uon8lkElS4qS2ZVuyTvDkUZohgiOhy+UiNM27wGZzRKRQa6GUgTwIQYhJFj3nTE4JEaGIcDoX3j8i27dP5OubWAvT4fDDvN0RU6bUhlrnVfXuqCmqV9yH1/Glg5kxheOeEGdi3mN2ovsZ+MX9P0NrGpFaMTrmHfVO64aaYW5UbUw5p1t+v2G4rxm6WaM1XZ/u17FcOP6xaP7HfX/4/Xn6invgBe+niCFkz5spAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Golang, append, slice, example&quot;
+        title=&quot;Golang, append, slice, example&quot;
+        src=&quot;/static/e5f4d6972277de27af051c79a9f18ec6/f058b/append-slice-output.png&quot;
+        srcset=&quot;/static/e5f4d6972277de27af051c79a9f18ec6/c26ae/append-slice-output.png 158w,
+/static/e5f4d6972277de27af051c79a9f18ec6/6bdcf/append-slice-output.png 315w,
+/static/e5f4d6972277de27af051c79a9f18ec6/f058b/append-slice-output.png 630w,
+/static/e5f4d6972277de27af051c79a9f18ec6/40601/append-slice-output.png 945w,
+/static/e5f4d6972277de27af051c79a9f18ec6/78612/append-slice-output.png 1260w,
+/static/e5f4d6972277de27af051c79a9f18ec6/ad00e/append-slice-output.png 1366w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://onecompiler.com/go/3xxqvfbf6&quot; target=&quot;_BLANK&quot;&gt;Try it yourself&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All the best 👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to append string in golang?]]></title><description><![CDATA[Hi Friends 👋, Welcome To aGuideHub! ❤️ Today, we will learn to concatenate strings in golang, here we use the  operator to concate strings…]]></description><link>https://aguidehub.com/blog/how-to-append-string-in-golang/</link><guid isPermaLink="false">https://aguidehub.com/blog/how-to-append-string-in-golang/</guid><pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi Friends 👋,&lt;/p&gt;
+&lt;p&gt;Welcome To aGuideHub! ❤️&lt;/p&gt;
+&lt;p&gt;Today, we will learn to concatenate strings in golang, here we use the &lt;code class=&quot;language-text&quot;&gt;+&lt;/code&gt; operator to concate strings like javascript “LOVE ICON”…&lt;/p&gt;
+&lt;p&gt;In the following example, we are creating three variables and using the &lt;code class=&quot;language-text&quot;&gt;+&lt;/code&gt; operator to append one after one and after that storing in a new &lt;code class=&quot;language-text&quot;&gt;str&lt;/code&gt; variable.&lt;/p&gt;
+&lt;p&gt;Here, we are also using ” ” ( space ) as a separator.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;go&quot;&gt;&lt;pre class=&quot;language-go&quot;&gt;&lt;code class=&quot;language-go&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;package&lt;/span&gt; main
+  
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;fmt&quot;&lt;/span&gt;
+  
+&lt;span class=&quot;token keyword&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  
+    &lt;span class=&quot;token comment&quot;&gt;// Creating and initializing strings&lt;/span&gt;
+    str1 &lt;span class=&quot;token operator&quot;&gt;:=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Welcome&quot;&lt;/span&gt;
+    str2 &lt;span class=&quot;token operator&quot;&gt;:=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;To&quot;&lt;/span&gt;
+    str3 &lt;span class=&quot;token operator&quot;&gt;:=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;aGuideHub&quot;&lt;/span&gt;
+  
+    str &lt;span class=&quot;token operator&quot;&gt;:=&lt;/span&gt; str1 &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; str2 &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; str3&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    fmt&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;Println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;String: &quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; str&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the above code, we have just created three variables, use the &lt;code class=&quot;language-text&quot;&gt;+&lt;/code&gt; operator concate, and output in front of you.&lt;/p&gt;
+&lt;h4&gt;Output&lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/426b03be16e846252b1a408b0fac886b/ad00e/append-string-output.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.56962025316456%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA4ElEQVQoz8WQSW6EQAxFuf9BcomsepFTZMmm1QpQQA2Uh/qRqykUEVrKLpa+LHl4HrrHY0bfDwghYds2pGRKh5xL8P6ZizEihLDnIuYl4f224v72gfjZw+eEbhhHTMMIFkFBgaqilIIrsxwL7xKUokDtQpWIoPPe16l5WSHMEG2FTzN2G0BMiDmBVUAGVQHbEBVIUWQmdLNzcMsK/zVVaM4ZzFwhZ1ncTiei6o9Ldlc3dNMEYq5iolpsjZY8y04+Wxt2AO3Rf7WrrVv8ANr/rgpfNZ4hv4Btw5/FV5v9G/AbllTFXn+jb2AAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Golang, append, string, example&quot;
+        title=&quot;Golang, append, string, example&quot;
+        src=&quot;/static/426b03be16e846252b1a408b0fac886b/f058b/append-string-output.png&quot;
+        srcset=&quot;/static/426b03be16e846252b1a408b0fac886b/c26ae/append-string-output.png 158w,
+/static/426b03be16e846252b1a408b0fac886b/6bdcf/append-string-output.png 315w,
+/static/426b03be16e846252b1a408b0fac886b/f058b/append-string-output.png 630w,
+/static/426b03be16e846252b1a408b0fac886b/40601/append-string-output.png 945w,
+/static/426b03be16e846252b1a408b0fac886b/78612/append-string-output.png 1260w,
+/static/426b03be16e846252b1a408b0fac886b/ad00e/append-string-output.png 1366w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://onecompiler.com/go/3xxm9r9f2&quot; target=&quot;_BLANK&quot;&gt;Try it yourself&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All the best 👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to add catch light to eyes in photoshop?]]></title><description><![CDATA[Hello 👋, Welcome To aGuideHub! ❤️ Table of contents Zoom in on the eyes Select the lasso tool Make a selection around the eyes Add a hue…]]></description><link>https://aguidehub.com/blog/how-to-add-catch-light-to-eyes-in-photoshop/</link><guid isPermaLink="false">https://aguidehub.com/blog/how-to-add-catch-light-to-eyes-in-photoshop/</guid><pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello 👋,&lt;/p&gt;
 &lt;p&gt;Welcome To aGuideHub! ❤️&lt;/p&gt;
 &lt;p&gt;Table of contents&lt;/p&gt;
 &lt;ul&gt;
