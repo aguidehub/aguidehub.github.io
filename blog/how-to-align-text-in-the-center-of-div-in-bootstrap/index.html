@@ -112,148 +112,75 @@ data-styled.g49[id="post-template__PostPagination-sc-afk1br-4"]{content:"jZgyoh,
       
       }</script><link rel="preconnect" href="https://www.googletagmanager.com"/><link rel="dns-prefetch" href="https://www.googletagmanager.com"/><link as="script" rel="preload" href="/webpack-runtime-3b82906e39c5e7c51903.js"/><link as="script" rel="preload" href="/framework-a4c0e5c7c1bb5222c358.js"/><link as="script" rel="preload" href="/532a2f07-95dc10f8eb97d4e3bbc4.js"/><link as="script" rel="preload" href="/app-28c17354ae48a0862915.js"/><link as="script" rel="preload" href="/commons-8fc6442d858c513717c6.js"/><link as="script" rel="preload" href="/component---src-templates-post-template-js-d29a51277e529b2afb02.js"/><link as="fetch" rel="preload" href="/page-data/blog/how-to-align-text-in-the-center-of-div-in-bootstrap/page-data.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/2555585279.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/2714594843.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/3159585216.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/app-data.json" crossorigin="anonymous"/></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div class="layout__LayoutWrapper-sc-qrswv8-0 eaxHbL"><header class="header__StyledHeader-sc-1344zpp-0 dChoJd"><div class="container__Container-sc-g6pcgm-0 header__HeaderWrapper-sc-1344zpp-1 jyFezK dILmpZ"><div class="header__HeaderTitle-sc-1344zpp-2 gXiqyV"><a href="/">aGuideHub</a></div><nav class="header__StyledNav-sc-1344zpp-3 eMKZBb"><ul class="header__StyledNavList-sc-1344zpp-4 bhCOZU"><li class="header__StyledNavListItem-sc-1344zpp-5 kzoHjC"><a href="/blog">Blog</a></li><li class="header__StyledNavListItem-sc-1344zpp-5 kzoHjC"><a href="/about">About</a></li></ul></nav></div></header><main><div class="container__Container-sc-g6pcgm-0 jyFezK"><div class="post-template__PostWrapper-sc-afk1br-0 bVEsKP"><article><h1 class="post-template__PostTitle-sc-afk1br-1 lnxslr">How to align text in the center of div in bootstrap?</h1><span class="post-template__PostDate-sc-afk1br-2 eMkIsh">April 17, 2022</span><section class="post-template__PostContent-sc-afk1br-3 dmjvHo"><p>Hi Friends 👋,</p>
 <p>Welcome To aGuideHub! ❤️</p>
-<p><strong><em>How to Align content vertically inside a div in Bootstrap 5</em></strong></p>
-<p>In this short post, lets see how simple it is to vertically align content inside a DIV.</p>
-<p>Aligning content to the center of the DIV is very simple in Bootstrap 5, You just have to convert the div into a flex box using d-flex class property and then use the property align-items-center to vertically align the content in the middle of the div.</p>
+<p>Today, I am going to show you. How to align text in the center of div  in bootstrap with code example.</p>
+<p>Here, we will use <code class="language-text">.text-center</code> class to make a text in center.</p>
+<p>You can align the text to the center by simply adding alignment class to the parent div. See the examples.</p>
+<p><strong><em>Basic example</em></strong></p>
+<p>Add class <code class="language-text">&lt;code>.text-center&lt;/code></code> to the parent div to align <code class="language-text">&lt;strong></code>any item<code class="language-text">&lt;/strong></code> inside to the center.</p>
 <h2>Example:</h2>
 <p>Let’s look at the following example to understand how it basically works:</p>
-<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">DOCTYPE</span> <span class="token name">html</span><span class="token punctuation">></span></span>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">doctype</span> <span class="token name">html</span><span class="token punctuation">></span></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span> <span class="token attr-name">lang</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>en<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
   <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>head</span><span class="token punctuation">></span></span>
     <span class="token comment">&lt;!-- Required meta tags --></span>
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">charset</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>utf-8<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>viewport<span class="token punctuation">"</span></span> <span class="token attr-name">content</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>width=device-width, initial-scale=1<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">charset</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>utf-8<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>viewport<span class="token punctuation">"</span></span> <span class="token attr-name">content</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>width=device-width, initial-scale=1<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
 
     <span class="token comment">&lt;!-- Bootstrap CSS --></span>
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>link</span>
-      <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css<span class="token punctuation">"</span></span>
-      <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span>
-      <span class="token attr-name">integrity</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC<span class="token punctuation">"</span></span>
-      <span class="token attr-name">crossorigin</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>anonymous<span class="token punctuation">"</span></span>
-    <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>link</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css<span class="token punctuation">"</span></span> <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span> <span class="token attr-name">integrity</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC<span class="token punctuation">"</span></span> <span class="token attr-name">crossorigin</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>anonymous<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>title</span><span class="token punctuation">></span></span>Bootstrap<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>title</span><span class="token punctuation">></span></span>
 
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>title</span><span class="token punctuation">></span></span>Align content vertically inside a div in Bootstrap<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>title</span><span class="token punctuation">></span></span>
   <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>head</span><span class="token punctuation">></span></span>
   <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span>
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span>
-      <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>example-div<span class="token punctuation">"</span></span>
-      <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>bg-info border d-flex aligns-items-center<span class="token punctuation">"</span></span>
-      <span class="token special-attr"><span class="token attr-name">style</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span><span class="token value css language-css"><span class="token property">height</span><span class="token punctuation">:</span>100px</span><span class="token punctuation">"</span></span></span>
-    <span class="token punctuation">></span></span>
-      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span><span class="token punctuation">></span></span>This is a content<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>container my-4<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>border border-light p-3 mb-4<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+      
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>text-center<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span><span class="token punctuation">></span></span>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">></span></span>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
+      
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
+  
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
-
     <span class="token comment">&lt;!-- Bootstrap Bundle with Popper --></span>
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span>
-      <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js<span class="token punctuation">"</span></span>
-      <span class="token attr-name">integrity</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM<span class="token punctuation">"</span></span>
-      <span class="token attr-name">crossorigin</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>anonymous<span class="token punctuation">"</span></span>
-    <span class="token punctuation">></span></span><span class="token script"></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js<span class="token punctuation">"</span></span> <span class="token attr-name">integrity</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM<span class="token punctuation">"</span></span> <span class="token attr-name">crossorigin</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>anonymous<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token script"></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">></span></span>
+
   <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">></span></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
+<p>Check the output of the above code example.</p>
 <p><span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
     >
       <a
     class="gatsby-resp-image-link"
-    href="/static/9c004a9261340e046b92c8a7bce2deb5/eea4a/align-text-center.jpg"
+    href="/static/7391a7963202825ca02e82fc374d8431/eea4a/align-text-center-div.jpg"
     style="display: block"
     target="_blank"
     rel="noopener"
   >
     <span
     class="gatsby-resp-image-background-image"
-    style="padding-bottom: 50.632911392405056%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHaWXEVh//EABcQAAMBAAAAAAAAAAAAAAAAAAACEyD/2gAIAQEAAQUCmhNCaY//xAAXEQADAQAAAAAAAAAAAAAAAAAAAhJR/9oACAEDAQE/AYXCFw//xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8BrKz/xAAWEAEBAQAAAAAAAAAAAAAAAAAyACD/2gAIAQEABj8CMY4//8QAFhABAQEAAAAAAAAAAAAAAAAAYQAg/9oACAEBAAE/ISRImP/aAAwDAQACAAMAAAAQxx//xAAWEQADAAAAAAAAAAAAAAAAAAAAYZH/2gAIAQMBAT8QQghD/8QAFREBAQAAAAAAAAAAAAAAAAAAAGH/2gAIAQIBAT8Qss//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAE/EFMz/9k='); background-size: cover; display: block;"
-  ></span>
-  <img
-        class="gatsby-resp-image-image"
-        alt="Bootstrap, Align, Text, Center"
-        title="Bootstrap, Align, Text, Center"
-        src="/static/9c004a9261340e046b92c8a7bce2deb5/828fb/align-text-center.jpg"
-        srcset="/static/9c004a9261340e046b92c8a7bce2deb5/ff44c/align-text-center.jpg 158w,
-/static/9c004a9261340e046b92c8a7bce2deb5/a6688/align-text-center.jpg 315w,
-/static/9c004a9261340e046b92c8a7bce2deb5/828fb/align-text-center.jpg 630w,
-/static/9c004a9261340e046b92c8a7bce2deb5/0ede0/align-text-center.jpg 945w,
-/static/9c004a9261340e046b92c8a7bce2deb5/3ac88/align-text-center.jpg 1260w,
-/static/9c004a9261340e046b92c8a7bce2deb5/eea4a/align-text-center.jpg 1280w"
-        sizes="(max-width: 630px) 100vw, 630px"
-        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
-        loading="lazy"
-      />
-  </a>
-    </span></p>
-<p>Here is how the div looks now</p>
-<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">DOCTYPE</span> <span class="token name">html</span><span class="token punctuation">></span></span>
-<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span> <span class="token attr-name">lang</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>en<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
-  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>head</span><span class="token punctuation">></span></span>
-    <span class="token comment">&lt;!-- Required meta tags --></span>
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">charset</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>utf-8<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>viewport<span class="token punctuation">"</span></span> <span class="token attr-name">content</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>width=device-width, initial-scale=1<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
-
-    <span class="token comment">&lt;!-- Bootstrap CSS --></span>
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>link</span>
-      <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css<span class="token punctuation">"</span></span>
-      <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span>
-      <span class="token attr-name">integrity</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC<span class="token punctuation">"</span></span>
-      <span class="token attr-name">crossorigin</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>anonymous<span class="token punctuation">"</span></span>
-    <span class="token punctuation">/></span></span>
-
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>title</span><span class="token punctuation">></span></span>Align content vertically inside a div in Bootstrap<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>title</span><span class="token punctuation">></span></span>
-  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>head</span><span class="token punctuation">></span></span>
-  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span>
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span>
-      <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>example-div<span class="token punctuation">"</span></span>
-      <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>bg-info border d-flex aligns-items-center justify-content-center<span class="token punctuation">"</span></span>
-      <span class="token special-attr"><span class="token attr-name">style</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span><span class="token value css language-css"><span class="token property">height</span><span class="token punctuation">:</span>100px</span><span class="token punctuation">"</span></span></span>
-    <span class="token punctuation">></span></span>
-      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span><span class="token punctuation">></span></span>This is a content<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">></span></span>
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
-
-    <span class="token comment">&lt;!-- Bootstrap Bundle with Popper --></span>
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span>
-      <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js<span class="token punctuation">"</span></span>
-      <span class="token attr-name">integrity</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM<span class="token punctuation">"</span></span>
-      <span class="token attr-name">crossorigin</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>anonymous<span class="token punctuation">"</span></span>
-    <span class="token punctuation">></span></span><span class="token script"></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">></span></span>
-  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">></span></span>
-<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
-<p>Content in the center of the DIV – Vertiaclly and Horizontally
-We can now make use of another flex box property <code class="language-text">justify-content-center</code> of Bootstrap 5, which will help to align content in the center of the div horizontally.
-Check the output of the above code example.</p>
-<p><span
-      class="gatsby-resp-image-wrapper"
-      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
-    >
-      <a
-    class="gatsby-resp-image-link"
-    href="/static/38c5378030e012979a5805dd0979256b/eea4a/align-text-center-div.jpg"
-    style="display: block"
-    target="_blank"
-    rel="noopener"
-  >
-    <span
-    class="gatsby-resp-image-background-image"
-    style="padding-bottom: 8.227848101265824%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAACABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAP/xAAWAQEBAQAAAAAAAAAAAAAAAAAABAX/2gAMAwEAAhADEAAAAaivJA//xAAUEAEAAAAAAAAAAAAAAAAAAAAQ/9oACAEBAAEFAn//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAQ/9oACAEBAAY/An//xAAUEAEAAAAAAAAAAAAAAAAAAAAQ/9oACAEBAAE/IX//2gAMAwEAAgADAAAAEPvv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAFxAAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAgBAQABPxCvSvSvT//Z'); background-size: cover; display: block;"
+    style="padding-bottom: 37.9746835443038%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAG+AD//xAAUEAEAAAAAAAAAAAAAAAAAAAAQ/9oACAEBAAEFAn//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAQ/9oACAEBAAY/An//xAAWEAADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQEAAT8hIv/aAAwDAQACAAMAAAAQg8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAZEAEAAgMAAAAAAAAAAAAAAAABABARQVH/2gAIAQEAAT8QQdTDlf/Z'); background-size: cover; display: block;"
   ></span>
   <img
         class="gatsby-resp-image-image"
         alt="Bootstrap, Align, Text, Center, Div"
         title="Bootstrap, Align, Text, Center, Div"
-        src="/static/38c5378030e012979a5805dd0979256b/828fb/align-text-center-div.jpg"
-        srcset="/static/38c5378030e012979a5805dd0979256b/ff44c/align-text-center-div.jpg 158w,
-/static/38c5378030e012979a5805dd0979256b/a6688/align-text-center-div.jpg 315w,
-/static/38c5378030e012979a5805dd0979256b/828fb/align-text-center-div.jpg 630w,
-/static/38c5378030e012979a5805dd0979256b/0ede0/align-text-center-div.jpg 945w,
-/static/38c5378030e012979a5805dd0979256b/3ac88/align-text-center-div.jpg 1260w,
-/static/38c5378030e012979a5805dd0979256b/eea4a/align-text-center-div.jpg 1280w"
+        src="/static/7391a7963202825ca02e82fc374d8431/828fb/align-text-center-div.jpg"
+        srcset="/static/7391a7963202825ca02e82fc374d8431/ff44c/align-text-center-div.jpg 158w,
+/static/7391a7963202825ca02e82fc374d8431/a6688/align-text-center-div.jpg 315w,
+/static/7391a7963202825ca02e82fc374d8431/828fb/align-text-center-div.jpg 630w,
+/static/7391a7963202825ca02e82fc374d8431/0ede0/align-text-center-div.jpg 945w,
+/static/7391a7963202825ca02e82fc374d8431/3ac88/align-text-center-div.jpg 1260w,
+/static/7391a7963202825ca02e82fc374d8431/eea4a/align-text-center-div.jpg 1280w"
         sizes="(max-width: 630px) 100vw, 630px"
         style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
         loading="lazy"
       />
   </a>
     </span></p>
-<p>Here is the result.</p>
+<p>In the above code, we have used <code class="language-text">.text-center</code> class to of align a form in center in bootstrap.</p>
 <p>All the best 👍</p></section></article><section><h3 class="subscription__SocialText-sc-14f83i4-1 dnqwWm">Follow me on <a href="https://twitter.com/aguidehub" target="_BLANK">Twitter</a></h3><div class="subscription__SubscriptionContainer-sc-14f83i4-0 dvhwHq"><div><iframe src="https://aguidehub.substack.com/embed" width="100%" height="320" frameborder="0" scrolling="no"></iframe></div></div></section><nav class="post-template__PostPagination-sc-afk1br-4 jZgyoh"><div><span>previous</span><a href="/blog/how-to-align-button-to-right-in-bootstrap/"> <!-- -->How to align button to right in bootstrap?</a></div><div><span>next</span><a href="/blog/how-to-align-the-button-in-the-center-in-bootstrap/"> <!-- -->How to align the button in the center in bootstrap?</a></div></nav><div><span class="tags__Tag-sc-16itk8x-0 iAclOl"><a href="/tags/bootstrap">Bootstrap</a></span></div></div></div></main><footer class="footer__StyledFooter-sc-1d6x338-0 dxgnAr"><div class="container__Container-sc-g6pcgm-0 footer__FooterWrapper-sc-1d6x338-2 jyFezK etLLHy"><ul class="social-links__SocialLinkList-sc-r9vd8i-0 ifQECM"><li class="social-links__SocialLinkItem-sc-r9vd8i-1 dcWXYR"><a href="https://github.com/aguidehub">github</a></li><li class="social-links__SocialLinkItem-sc-r9vd8i-1 dcWXYR"><a href="https://twitter.com/aguidehub">twitter</a></li></ul><ul class="footer__SocialLinkList-sc-1d6x338-3 hYscbk"><li class="footer__SocialLinkItem-sc-1d6x338-4 jpUqRX"><a href="/disclaimer">Disclaimer</a></li><li class="footer__SocialLinkItem-sc-1d6x338-4 jpUqRX"><a href="/privacy-policy">Privacy Policy</a></li><li class="footer__SocialLinkItem-sc-1d6x338-4 jpUqRX"><a href="/terms-and-conditions">Terms and conditions</a></li></ul></div></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0E9XZZ73FD"></script><script>
       
       

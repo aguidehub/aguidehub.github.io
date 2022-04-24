@@ -112,17 +112,9 @@ data-styled.g49[id="post-template__PostPagination-sc-afk1br-4"]{content:"jZgyoh,
       
       }</script><link rel="preconnect" href="https://www.googletagmanager.com"/><link rel="dns-prefetch" href="https://www.googletagmanager.com"/><link as="script" rel="preload" href="/webpack-runtime-3b82906e39c5e7c51903.js"/><link as="script" rel="preload" href="/framework-a4c0e5c7c1bb5222c358.js"/><link as="script" rel="preload" href="/532a2f07-95dc10f8eb97d4e3bbc4.js"/><link as="script" rel="preload" href="/app-28c17354ae48a0862915.js"/><link as="script" rel="preload" href="/commons-8fc6442d858c513717c6.js"/><link as="script" rel="preload" href="/component---src-templates-post-template-js-d29a51277e529b2afb02.js"/><link as="fetch" rel="preload" href="/page-data/blog/how-to-align-image-and-text-in-same-line-in-bootstrap/page-data.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/2555585279.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/2714594843.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/3159585216.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/app-data.json" crossorigin="anonymous"/></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div class="layout__LayoutWrapper-sc-qrswv8-0 eaxHbL"><header class="header__StyledHeader-sc-1344zpp-0 dChoJd"><div class="container__Container-sc-g6pcgm-0 header__HeaderWrapper-sc-1344zpp-1 jyFezK dILmpZ"><div class="header__HeaderTitle-sc-1344zpp-2 gXiqyV"><a href="/">aGuideHub</a></div><nav class="header__StyledNav-sc-1344zpp-3 eMKZBb"><ul class="header__StyledNavList-sc-1344zpp-4 bhCOZU"><li class="header__StyledNavListItem-sc-1344zpp-5 kzoHjC"><a href="/blog">Blog</a></li><li class="header__StyledNavListItem-sc-1344zpp-5 kzoHjC"><a href="/about">About</a></li></ul></nav></div></header><main><div class="container__Container-sc-g6pcgm-0 jyFezK"><div class="post-template__PostWrapper-sc-afk1br-0 bVEsKP"><article><h1 class="post-template__PostTitle-sc-afk1br-1 lnxslr">How to align image and text in same line in bootstrap?</h1><span class="post-template__PostDate-sc-afk1br-2 eMkIsh">April 18, 2022</span><section class="post-template__PostContent-sc-afk1br-3 dmjvHo"><p>Hi Friends 👋,</p>
 <p>Welcome To aGuideHub! ❤️</p>
+<p>In this article, I will show to balign image and text in same line in bootstrep with step by step guide.</p>
 <p>We know that adding images to a website makes it more attractive and presentable. Sometimes, we need to align the images either at the right or to the left. Most of the time, we place an image at the center.</p>
-<p> In this article, we will learn to align images and text in same line in Bootstrap 5.</p>
-<h2>Syntax:</h2>
-<p>For Responsive image
-<code class="language-text">&lt;img src="image_source" class="img-fluid" ...></code></p>
-<p>For aligning the image to the left
-<code class="language-text">&lt;img src="image_source" class="float-left" ...></code></p>
-<p>For aligning the image to the right
-<code class="language-text">&lt;img src="image_source" class="float-right" ...></code></p>
-<p>For aligning the image to the center
-<code class="language-text">&lt;img src="image_source" class="mx-auto d-block" ...></code></p>
+<p>Here, we will use <code class="language-text">.d-fle</code> and <code class="language-text">align-items-center</code> classes. Within Bootstrap, “d-flex” specifies to set the element to display as flex. The <code class="language-text">align-items-center</code> class specifies the property <code class="language-text">align-items: center</code>.</p>
 <p>Let’s look at the following example to understand how it basically works:</p>
 <div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">doctype</span> <span class="token name">html</span><span class="token punctuation">></span></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span> <span class="token attr-name">lang</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>en<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
@@ -133,21 +125,42 @@ data-styled.g49[id="post-template__PostPagination-sc-afk1br-4"]{content:"jZgyoh,
 
     <span class="token comment">&lt;!-- Bootstrap CSS --></span>
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>link</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css<span class="token punctuation">"</span></span> <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span> <span class="token attr-name">integrity</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC<span class="token punctuation">"</span></span> <span class="token attr-name">crossorigin</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>anonymous<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
-
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>title</span><span class="token punctuation">></span></span>How to align image and text in same line in bootstrap<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>title</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>title</span><span class="token punctuation">></span></span>Buttons<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>title</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>style</span><span class="token punctuation">></span></span><span class="token style"><span class="token language-css">
+<span class="token selector">.align-items-center</span> <span class="token punctuation">{</span>
+  <span class="token property">-ms-flex-align</span><span class="token punctuation">:</span> center<span class="token important">!important</span><span class="token punctuation">;</span>
+  <span class="token property">align-items</span><span class="token punctuation">:</span> center<span class="token important">!important</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+<span class="token selector">.d-flex</span> <span class="token punctuation">{</span>
+  <span class="token property">display</span><span class="token punctuation">:</span> -ms-flexbox<span class="token important">!important</span><span class="token punctuation">;</span>
+  <span class="token property">display</span><span class="token punctuation">:</span> flex<span class="token important">!important</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+    </span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>style</span><span class="token punctuation">></span></span>
   <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>head</span><span class="token punctuation">></span></span>
   <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span>
-
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span>
-      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h1</span><span class="token punctuation">></span></span>Image at the Left!<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h1</span><span class="token punctuation">></span></span>
-
-      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>img</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>images/star.jpg<span class="token punctuation">"</span></span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>float-left<span class="token punctuation">"</span></span> <span class="token attr-name">alt</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>aGuideHub<span class="token punctuation">"</span></span> <span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>300<span class="token punctuation">"</span></span> <span class="token attr-name">height</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>230<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
-
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>section</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>section mt-5<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>container<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>row<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>col-md-6<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+            <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span><span class="token punctuation">></span></span>
+              <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>img</span> <span class="token attr-name">alt</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Web Studio<span class="token punctuation">"</span></span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>img-fluid<span class="token punctuation">"</span></span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>images/pexels-photo-257360.jpeg<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+            <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
+          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
+          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>col-md-6 col-lg-5 ml-auto d-flex align-items-center mt-4 mt-md-0<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+            <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span><span class="token punctuation">></span></span>
+              <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span><span class="token punctuation">></span></span>Align image and text in same line in bootstrap<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">></span></span>
+            
+            <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
+          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>section</span><span class="token punctuation">></span></span>
+      
     <span class="token comment">&lt;!-- Bootstrap Bundle with Popper --></span>
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js<span class="token punctuation">"</span></span> <span class="token attr-name">integrity</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM<span class="token punctuation">"</span></span> <span class="token attr-name">crossorigin</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>anonymous<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token script"></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">></span></span>
 
   <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">></span></span>
-<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
+&lt;/html</code></pre></div>
 <p>Check the output of the above code example.</p>
 <p><span
       class="gatsby-resp-image-wrapper"
@@ -155,26 +168,26 @@ data-styled.g49[id="post-template__PostPagination-sc-afk1br-4"]{content:"jZgyoh,
     >
       <a
     class="gatsby-resp-image-link"
-    href="/static/2ab01120156e36fac99b8cbee2cd4c5a/cbe08/image-left.jpg"
+    href="/static/439ee9b91db6684b1029c44163002aa0/c8ae0/align-image-and-text-in-same-line.jpg"
     style="display: block"
     target="_blank"
     rel="noopener"
   >
     <span
     class="gatsby-resp-image-background-image"
-    style="padding-bottom: 31.0126582278481%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAGABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABv0AA/8QAFxAAAwEAAAAAAAAAAAAAAAAAAgMEEP/aAAgBAQABBQKdBqLP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAQUAAAAAAAAAAAAAAAAAAQIDEBIh/9oACAEBAAY/AiVOWyf/xAAXEAEBAQEAAAAAAAAAAAAAAAABERAh/9oACAEBAAE/IXZFid3/2gAMAwEAAgADAAAAEPPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGBABAQADAAAAAAAAAAAAAAAAAREQITH/2gAIAQEAAT8QjdEXDbdrn//Z'); background-size: cover; display: block;"
+    style="padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB0dOxBKv/xAAYEAEBAAMAAAAAAAAAAAAAAAADAQITIP/aAAgBAQABBQLIW2nLD4//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGH/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAETEg/9oACAEBAAY/AnZTV5FB2uf/xAAZEAEAAgMAAAAAAAAAAAAAAAABABEgMUH/2gAIAQEAAT8hXQS6mrEBx//aAAwDAQACAAMAAAAQsw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QAOz/xAAaEAADAAMBAAAAAAAAAAAAAAABESEAIEFx/9oACAEBAAE/EDVSpAuF45hT+4uq3X//2Q=='); background-size: cover; display: block;"
   ></span>
   <img
         class="gatsby-resp-image-image"
         alt="Bootstrap, Image, Left"
         title="Bootstrap, Image, Left"
-        src="/static/2ab01120156e36fac99b8cbee2cd4c5a/828fb/image-left.jpg"
-        srcset="/static/2ab01120156e36fac99b8cbee2cd4c5a/ff44c/image-left.jpg 158w,
-/static/2ab01120156e36fac99b8cbee2cd4c5a/a6688/image-left.jpg 315w,
-/static/2ab01120156e36fac99b8cbee2cd4c5a/828fb/image-left.jpg 630w,
-/static/2ab01120156e36fac99b8cbee2cd4c5a/0ede0/image-left.jpg 945w,
-/static/2ab01120156e36fac99b8cbee2cd4c5a/3ac88/image-left.jpg 1260w,
-/static/2ab01120156e36fac99b8cbee2cd4c5a/cbe08/image-left.jpg 1273w"
+        src="/static/439ee9b91db6684b1029c44163002aa0/828fb/align-image-and-text-in-same-line.jpg"
+        srcset="/static/439ee9b91db6684b1029c44163002aa0/ff44c/align-image-and-text-in-same-line.jpg 158w,
+/static/439ee9b91db6684b1029c44163002aa0/a6688/align-image-and-text-in-same-line.jpg 315w,
+/static/439ee9b91db6684b1029c44163002aa0/828fb/align-image-and-text-in-same-line.jpg 630w,
+/static/439ee9b91db6684b1029c44163002aa0/0ede0/align-image-and-text-in-same-line.jpg 945w,
+/static/439ee9b91db6684b1029c44163002aa0/3ac88/align-image-and-text-in-same-line.jpg 1260w,
+/static/439ee9b91db6684b1029c44163002aa0/c8ae0/align-image-and-text-in-same-line.jpg 1279w"
         sizes="(max-width: 630px) 100vw, 630px"
         style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
         loading="lazy"
