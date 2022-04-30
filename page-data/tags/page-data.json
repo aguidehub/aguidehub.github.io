@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-tags-js",
     "path": "/tags/",
-    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"Bootstrap","totalCount":18},{"fieldValue":"GoLang","totalCount":20},{"fieldValue":"Photoshop","totalCount":42}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"Bootstrap","totalCount":37},{"fieldValue":"GoLang","totalCount":25},{"fieldValue":"Photoshop","totalCount":42}]}},"pageContext":{}},
     "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
