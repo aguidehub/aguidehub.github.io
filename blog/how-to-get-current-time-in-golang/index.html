@@ -112,73 +112,110 @@ data-styled.g49[id="post-template__PostPagination-sc-afk1br-4"]{content:"jZgyoh,
       
       }</script><link rel="preconnect" href="https://www.googletagmanager.com"/><link rel="dns-prefetch" href="https://www.googletagmanager.com"/><link as="script" rel="preload" href="/webpack-runtime-3b82906e39c5e7c51903.js"/><link as="script" rel="preload" href="/framework-a4c0e5c7c1bb5222c358.js"/><link as="script" rel="preload" href="/532a2f07-95dc10f8eb97d4e3bbc4.js"/><link as="script" rel="preload" href="/app-28c17354ae48a0862915.js"/><link as="script" rel="preload" href="/commons-8fc6442d858c513717c6.js"/><link as="script" rel="preload" href="/component---src-templates-post-template-js-d29a51277e529b2afb02.js"/><link as="fetch" rel="preload" href="/page-data/blog/how-to-get-current-time-in-golang/page-data.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/2555585279.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/2714594843.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/3159585216.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/app-data.json" crossorigin="anonymous"/></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div class="layout__LayoutWrapper-sc-qrswv8-0 eaxHbL"><header class="header__StyledHeader-sc-1344zpp-0 dChoJd"><div class="container__Container-sc-g6pcgm-0 header__HeaderWrapper-sc-1344zpp-1 jyFezK dILmpZ"><div class="header__HeaderTitle-sc-1344zpp-2 gXiqyV"><a href="/">aGuideHub</a></div><nav class="header__StyledNav-sc-1344zpp-3 eMKZBb"><ul class="header__StyledNavList-sc-1344zpp-4 bhCOZU"><li class="header__StyledNavListItem-sc-1344zpp-5 kzoHjC"><a href="/blog">Blog</a></li><li class="header__StyledNavListItem-sc-1344zpp-5 kzoHjC"><a href="/about">About</a></li></ul></nav></div></header><main><div class="container__Container-sc-g6pcgm-0 jyFezK"><div class="post-template__PostWrapper-sc-afk1br-0 bVEsKP"><article><h1 class="post-template__PostTitle-sc-afk1br-1 lnxslr">How to get current time in golang?</h1><span class="post-template__PostDate-sc-afk1br-2 eMkIsh">April 30, 2022</span><section class="post-template__PostContent-sc-afk1br-3 dmjvHo"><p>Hi Friends 👋,</p>
 <p>Welcome To aGuideHub! ❤️</p>
-<p>Today, we are going to learn <strong><em>how to get current time in golang?</em></strong>. here, we will use the <code class="language-text">time</code> package to get the current time and the <code class="language-text">fmt</code> package for the print time.</p>
-<p>So, first, we will create a <code class="language-text">now</code> variable and store the current time, after that we will pass this variable in the <code class="language-text">fmt.Println()</code> method.</p>
-<p>To format a date, we are using built-in method <code class="language-text">time.RFC850()</code></p>
-<p>Let’s dive into code…</p>
-<div class="gatsby-highlight" data-language="go"><pre class="language-go"><code class="language-go"><span class="token keyword">package</span> main
-<span class="token keyword">import</span> <span class="token string">"fmt"</span> 
+<p>Today, we will learn to get the current time in golang. here we will use the <code class="language-text">time</code> package to get the current time, the <code class="language-text">fmt</code> package to print in the golang console.</p>
+<p>The <code class="language-text">time</code> package provides the <code class="language-text">Now()</code> method to get the current time, we will use this method and value in a variable, and after that, we will use the <code class="language-text">fmt.Println()</code> method to print the current time.</p>
+<p>Let’s start…</p>
+<div class="gatsby-highlight" data-language="go"><pre class="language-go"><code class="language-go"><span class="token comment">// Golang program to get the current time</span>
+<span class="token keyword">package</span> main
+  
+<span class="token comment">// Here "fmt" is formatted IO which</span>
+<span class="token comment">// is same as C’s printf and scanf.</span>
+<span class="token keyword">import</span> <span class="token string">"fmt"</span>
+  
+<span class="token comment">// importing time module</span>
 <span class="token keyword">import</span> <span class="token string">"time"</span>
-
+  
+<span class="token comment">// Main function</span>
 <span class="token keyword">func</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    fmt<span class="token punctuation">.</span><span class="token function">Println</span><span class="token punctuation">(</span>time<span class="token punctuation">.</span><span class="token function">Now</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">Format</span><span class="token punctuation">(</span>time<span class="token punctuation">.</span>RFC850<span class="token punctuation">)</span><span class="token punctuation">)</span>
+  
+    <span class="token comment">// Using time.Now() function.</span>
+    dt <span class="token operator">:=</span> time<span class="token punctuation">.</span><span class="token function">Now</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+    fmt<span class="token punctuation">.</span><span class="token function">Println</span><span class="token punctuation">(</span><span class="token string">"Current date and time is: "</span><span class="token punctuation">,</span> dt<span class="token punctuation">.</span><span class="token function">String</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
 <span class="token punctuation">}</span></code></pre></div>
-<p>When you run the above program, you will get the current time in the golang console.</p>
+<p>Well, when run the above code, you will get current date and time both.</p>
 <p><span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
     >
       <a
     class="gatsby-resp-image-link"
-    href="/static/bfa4fefe99b695f6752511853da437be/38f6f/output.jpg"
+    href="/static/50429e931d154de9b7bc00805aa33708/a2510/time-output.jpg"
     style="display: block"
     target="_blank"
     rel="noopener"
   >
     <span
     class="gatsby-resp-image-background-image"
-    style="padding-bottom: 20.253164556962027%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAd8RBX//xAAUEAEAAAAAAAAAAAAAAAAAAAAQ/9oACAEBAAEFAn//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAQ/9oACAEBAAY/An//xAAXEAADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAEBAAE/IUskP//aAAwDAQACAAMAAAAQe8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAYEAEBAQEBAAAAAAAAAAAAAAABABEhYf/aAAgBAQABPxAAMsscAB5f/9k='); background-size: cover; display: block;"
+    style="padding-bottom: 46.835443037974684%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe8tMqP/xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAEFAl//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAZEAEAAgMAAAAAAAAAAAAAAAABABEgITH/2gAIAQEAAT8hCJrkCigMP//aAAwDAQACAAMAAAAQYM//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAaEAEAAgMBAAAAAAAAAAAAAAABABEQIUEx/9oACAEBAAE/EKjYwGlEeMEgA4Q8M//Z'); background-size: cover; display: block;"
   ></span>
   <img
         class="gatsby-resp-image-image"
         alt="print, current time, golang"
         title="print, current time, golang"
-        src="/static/bfa4fefe99b695f6752511853da437be/828fb/output.jpg"
-        srcset="/static/bfa4fefe99b695f6752511853da437be/ff44c/output.jpg 158w,
-/static/bfa4fefe99b695f6752511853da437be/a6688/output.jpg 315w,
-/static/bfa4fefe99b695f6752511853da437be/828fb/output.jpg 630w,
-/static/bfa4fefe99b695f6752511853da437be/0ede0/output.jpg 945w,
-/static/bfa4fefe99b695f6752511853da437be/3ac88/output.jpg 1260w,
-/static/bfa4fefe99b695f6752511853da437be/38f6f/output.jpg 1366w"
+        src="/static/50429e931d154de9b7bc00805aa33708/828fb/time-output.jpg"
+        srcset="/static/50429e931d154de9b7bc00805aa33708/ff44c/time-output.jpg 158w,
+/static/50429e931d154de9b7bc00805aa33708/a6688/time-output.jpg 315w,
+/static/50429e931d154de9b7bc00805aa33708/828fb/time-output.jpg 630w,
+/static/50429e931d154de9b7bc00805aa33708/0ede0/time-output.jpg 945w,
+/static/50429e931d154de9b7bc00805aa33708/a2510/time-output.jpg 1000w"
         sizes="(max-width: 630px) 100vw, 630px"
         style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
         loading="lazy"
       />
   </a>
     </span></p>
-<p><a href="https://onecompiler.com/go/3y2nyjdwh" target="_BLANK">Try it yourself</a></p>
-<h3>Time Format samples</h3>
-<p>Here, i have also provided, which you can use to make different time format.</p>
-<div class="gatsby-highlight" data-language="go"><pre class="language-go"><code class="language-go"><span class="token keyword">const</span> <span class="token punctuation">(</span>
-	Layout      <span class="token operator">=</span> <span class="token string">"01/02 03:04:05PM '06 -0700"</span> <span class="token comment">// The reference time, in numerical order.</span>
-	ANSIC       <span class="token operator">=</span> <span class="token string">"Mon Jan _2 15:04:05 2006"</span>
-	UnixDate    <span class="token operator">=</span> <span class="token string">"Mon Jan _2 15:04:05 MST 2006"</span>
-	RubyDate    <span class="token operator">=</span> <span class="token string">"Mon Jan 02 15:04:05 -0700 2006"</span>
-	RFC822      <span class="token operator">=</span> <span class="token string">"02 Jan 06 15:04 MST"</span>
-	RFC822Z     <span class="token operator">=</span> <span class="token string">"02 Jan 06 15:04 -0700"</span> <span class="token comment">// RFC822 with numeric zone</span>
-	RFC850      <span class="token operator">=</span> <span class="token string">"Monday, 02-Jan-06 15:04:05 MST"</span>
-	RFC1123     <span class="token operator">=</span> <span class="token string">"Mon, 02 Jan 2006 15:04:05 MST"</span>
-	RFC1123Z    <span class="token operator">=</span> <span class="token string">"Mon, 02 Jan 2006 15:04:05 -0700"</span> <span class="token comment">// RFC1123 with numeric zone</span>
-	RFC3339     <span class="token operator">=</span> <span class="token string">"2006-01-02T15:04:05Z07:00"</span>
-	RFC3339Nano <span class="token operator">=</span> <span class="token string">"2006-01-02T15:04:05.999999999Z07:00"</span>
-	Kitchen     <span class="token operator">=</span> <span class="token string">"3:04PM"</span>
-	<span class="token comment">// Handy time stamps.</span>
-	Stamp      <span class="token operator">=</span> <span class="token string">"Jan _2 15:04:05"</span>
-	StampMilli <span class="token operator">=</span> <span class="token string">"Jan _2 15:04:05.000"</span>
-	StampMicro <span class="token operator">=</span> <span class="token string">"Jan _2 15:04:05.000000"</span>
-	StampNano  <span class="token operator">=</span> <span class="token string">"Jan _2 15:04:05.000000000"</span>
-<span class="token punctuation">)</span></code></pre></div>
-<p>All the best 👍</p></section></article><section><h3 class="subscription__SocialText-sc-14f83i4-1 dnqwWm">Follow me on <a href="https://twitter.com/aguidehub" target="_BLANK">Twitter</a></h3><div class="subscription__SubscriptionContainer-sc-14f83i4-0 dvhwHq"><div><iframe src="https://aguidehub.substack.com/embed" width="100%" height="320" frameborder="0" scrolling="no"></iframe></div></div></section><nav class="post-template__PostPagination-sc-afk1br-4 jZgyoh"><div><span>next</span><a href="/blog/how-to-include-bootstrap-icons/"> <!-- -->How to include bootstrap icons?</a></div></nav><div><span class="tags__Tag-sc-16itk8x-0 iAclOl"><a href="/tags/go-lang">GoLang</a></span></div></div></div></main><footer class="footer__StyledFooter-sc-1d6x338-0 dxgnAr"><div class="container__Container-sc-g6pcgm-0 footer__FooterWrapper-sc-1d6x338-2 jyFezK etLLHy"><ul class="social-links__SocialLinkList-sc-r9vd8i-0 ifQECM"><li class="social-links__SocialLinkItem-sc-r9vd8i-1 dcWXYR"><a href="https://github.com/aguidehub">github</a></li><li class="social-links__SocialLinkItem-sc-r9vd8i-1 dcWXYR"><a href="https://twitter.com/aguidehub">twitter</a></li></ul><ul class="footer__SocialLinkList-sc-1d6x338-3 hYscbk"><li class="footer__SocialLinkItem-sc-1d6x338-4 jpUqRX"><a href="/disclaimer">Disclaimer</a></li><li class="footer__SocialLinkItem-sc-1d6x338-4 jpUqRX"><a href="/privacy-policy">Privacy Policy</a></li><li class="footer__SocialLinkItem-sc-1d6x338-4 jpUqRX"><a href="/terms-and-conditions">Terms and conditions</a></li></ul></div></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0E9XZZ73FD"></script><script>
+<p><a href="https://onecompiler.com/go/3y3bts4en" target="_BLANK">Try it yourself</a></p>
+<p>But if want to show only time, you have to format it like below example.</p>
+<div class="gatsby-highlight" data-language="go"><pre class="language-go"><code class="language-go"><span class="token comment">// Golang program to get the current time</span>
+<span class="token keyword">package</span> main
+  
+<span class="token comment">// Here "fmt" is formatted IO which</span>
+<span class="token comment">// is same as C’s printf and scanf.</span>
+<span class="token keyword">import</span> <span class="token string">"fmt"</span>
+  
+<span class="token comment">// importing time module</span>
+<span class="token keyword">import</span> <span class="token string">"time"</span>
+  
+<span class="token comment">// Main function</span>
+<span class="token keyword">func</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token comment">// Using time.Now() function.</span>
+    dt <span class="token operator">:=</span> time<span class="token punctuation">.</span><span class="token function">Now</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+    fmt<span class="token punctuation">.</span><span class="token function">Println</span><span class="token punctuation">(</span>dt<span class="token punctuation">.</span><span class="token function">Format</span><span class="token punctuation">(</span><span class="token string">"15:04:05"</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+  
+<span class="token punctuation">}</span></code></pre></div>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/66f270a5bdbce6881f60ce4568c30b96/d7ad1/time-format-output.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 46.202531645569614%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3qEUf//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEAAQUCX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABcQAQEBAQAAAAAAAAAAAAAAAAEAESD/2gAIAQEAAT8hCyADA4//2gAMAwEAAgADAAAAEBPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGRABAAMBAQAAAAAAAAAAAAAAAQARMRBB/9oACAEBAAE/EKtIhKQp0goAHgQw7//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="print, current time formated, golang"
+        title="print, current time formated, golang"
+        src="/static/66f270a5bdbce6881f60ce4568c30b96/828fb/time-format-output.jpg"
+        srcset="/static/66f270a5bdbce6881f60ce4568c30b96/ff44c/time-format-output.jpg 158w,
+/static/66f270a5bdbce6881f60ce4568c30b96/a6688/time-format-output.jpg 315w,
+/static/66f270a5bdbce6881f60ce4568c30b96/828fb/time-format-output.jpg 630w,
+/static/66f270a5bdbce6881f60ce4568c30b96/0ede0/time-format-output.jpg 945w,
+/static/66f270a5bdbce6881f60ce4568c30b96/d7ad1/time-format-output.jpg 1001w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><a href="https://onecompiler.com/go/3y3btvsds" target="_BLANK">Try it yourself</a></p>
+<p>All the best 👍</p></section></article><section><h3 class="subscription__SocialText-sc-14f83i4-1 dnqwWm">Follow me on <a href="https://twitter.com/aguidehub" target="_BLANK">Twitter</a></h3><div class="subscription__SubscriptionContainer-sc-14f83i4-0 dvhwHq"><div><iframe src="https://aguidehub.substack.com/embed" width="100%" height="320" frameborder="0" scrolling="no"></iframe></div></div></section><nav class="post-template__PostPagination-sc-afk1br-4 jZgyoh"><div><span>previous</span><a href="/blog/how-to-get-array-length-in-golang/"> <!-- -->How to get array length in golang?</a></div><div><span>next</span><a href="/blog/how-to-include-bootstrap-icons/"> <!-- -->How to include bootstrap icons?</a></div></nav><div><span class="tags__Tag-sc-16itk8x-0 iAclOl"><a href="/tags/go-lang">GoLang</a></span></div></div></div></main><footer class="footer__StyledFooter-sc-1d6x338-0 dxgnAr"><div class="container__Container-sc-g6pcgm-0 footer__FooterWrapper-sc-1d6x338-2 jyFezK etLLHy"><ul class="social-links__SocialLinkList-sc-r9vd8i-0 ifQECM"><li class="social-links__SocialLinkItem-sc-r9vd8i-1 dcWXYR"><a href="https://github.com/aguidehub">github</a></li><li class="social-links__SocialLinkItem-sc-r9vd8i-1 dcWXYR"><a href="https://twitter.com/aguidehub">twitter</a></li></ul><ul class="footer__SocialLinkList-sc-1d6x338-3 hYscbk"><li class="footer__SocialLinkItem-sc-1d6x338-4 jpUqRX"><a href="/disclaimer">Disclaimer</a></li><li class="footer__SocialLinkItem-sc-1d6x338-4 jpUqRX"><a href="/privacy-policy">Privacy Policy</a></li><li class="footer__SocialLinkItem-sc-1d6x338-4 jpUqRX"><a href="/terms-and-conditions">Terms and conditions</a></li></ul></div></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0E9XZZ73FD"></script><script>
       
       
       if(true) {
