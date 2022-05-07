@@ -114,7 +114,6 @@ data-styled.g49[id="post-template__PostPagination-sc-afk1br-4"]{content:"jZgyoh,
 <p>Welcome To aGuideHub! ❤️</p>
 <p>In this tutorial, we will learn how to create use custom font for Bootstrap 5 projects.</p>
 <p>To begin, open <strong><em><a href="https://fonts.google.com/specimen/Open+Sans" target="_blank">fonts.google.com.</a></em></strong> Search for the font named <strong><em>Open Sans</em></strong> using the search bar at the top of the page. The search results will list the matching term, which is a <strong><em>link</em></strong> taking you to the google fonts open sans page. On this page, there is a list of several font styles. Each one of these font weight and style combinations is a unique font file that the browser will download.</p>
-<p><strong><em>For this design, select Light 300, Light 300 italic, Regular 400, Regular 400 italic, Bold 700, and Bold 700 italic. The following image displays how this selection will look in Google Fonts:</em></strong></p>
 <p><span
       class="gatsby-resp-image-wrapper"
       style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
@@ -156,6 +155,7 @@ data-styled.g49[id="post-template__PostPagination-sc-afk1br-4"]{content:"jZgyoh,
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">charset</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>utf-8<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>meta</span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>viewport<span class="token punctuation">"</span></span> <span class="token attr-name">content</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>width=device-width, initial-scale=1<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>link</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css<span class="token punctuation">"</span></span> <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span> <span class="token attr-name">integrity</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC<span class="token punctuation">"</span></span> <span class="token attr-name">crossorigin</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>anonymous<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>link</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&amp;family=Roboto:wght@100&amp;family=Water+Brush&amp;display=swap<span class="token punctuation">"</span></span> <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>title</span><span class="token punctuation">></span></span>Font Family Page<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>title</span><span class="token punctuation">></span></span>
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>link</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>styles1.css<span class="token punctuation">"</span></span> <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>head</span><span class="token punctuation">></span></span>
@@ -192,8 +192,7 @@ data-styled.g49[id="post-template__PostPagination-sc-afk1br-4"]{content:"jZgyoh,
 
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
 <p>Save your changes to index.html, then return to styles.css in your text editor. In your body selector, go to the font-family property. Prepend the value with the font name “Open Sans” in quotes before the “PT Sans” font, followed by a comma.</p>
-<div class="gatsby-highlight" data-language="css"><pre class="language-css"><code class="language-css"><span class="token atrule"><span class="token rule">@import</span> <span class="token function">url</span><span class="token punctuation">(</span>'<span class="token property">https</span><span class="token punctuation">:</span>//fonts.googleapis.com/css2?family=Open+<span class="token property">Sans</span><span class="token punctuation">:</span>wght<span class="token atrule"><span class="token rule">@300</span><span class="token punctuation">;</span></span></span>400&amp;display=swap'<span class="token punctuation">)</span><span class="token punctuation">;</span>
-<span class="token selector">body</span> <span class="token punctuation">{</span>
+<div class="gatsby-highlight" data-language="css"><pre class="language-css"><code class="language-css"><span class="token selector">body</span> <span class="token punctuation">{</span>
     <span class="token property">margin</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span>
     <span class="token property">background-color</span><span class="token punctuation">:</span> <span class="token function">hsl</span><span class="token punctuation">(</span>0<span class="token punctuation">,</span> 0%<span class="token punctuation">,</span> 100%<span class="token punctuation">)</span><span class="token punctuation">;</span>
     <span class="token property">color</span><span class="token punctuation">:</span> <span class="token function">hsl</span><span class="token punctuation">(</span>0<span class="token punctuation">,</span> 0%<span class="token punctuation">,</span> 10%<span class="token punctuation">)</span><span class="token punctuation">;</span>
@@ -279,40 +278,7 @@ h3</span> <span class="token punctuation">{</span>
       />
   </a>
     </span></p>
-<p><strong><em>Overwriting the global font:</em></strong></p>
-<h2>Pros:</h2>
-<ul>
-<li>Quick and dirty “catch-all” solution perfect for small websites.
-It only requires one three-line rule.
-Cons:</li>
-<li>It’s generally considered bad practice to use !important to overwrite existing declarations.</li>
-<li>The UI’s of websites that use elements that usually have different fonts might suffer.
-Implementation:</li>
-</ul>
-<p>Paste the following code in your <head /> element:</p>
-<div class="gatsby-highlight" data-language="css"><pre class="language-css"><code class="language-css"><span class="token selector">*</span> <span class="token punctuation">{</span>
-  <span class="token property">font-family</span><span class="token punctuation">:</span> <span class="token string">"Roboto"</span><span class="token punctuation">,</span> sans-serif <span class="token important">!important</span>
-<span class="token punctuation">}</span></code></pre></div>
-<p><strong><em>Overwrite the Bootstrap rules that handle fonts</em></strong>:</p>
-<p><strong><em>Pros</em></strong>:</p>
-<ul>
-<li>You don’t have to make modifications to your Bootstrap source file.</li>
-</ul>
-<p><strong><em>Cons</em></strong>:</p>
-<ul>
-<li>This method requires a manual search of the Bootstrap source file.</li>
-<li>This method is prone to human error. For example, missing a font-family declaration could result in inconsistencies in your stylesheet.</li>
-</ul>
-<p><strong><em>Implementation</em></strong>:</p>
-<ul>
-<li>Open your Bootstrap copy in your editor.</li>
-<li>Press <code class="language-text">ctrl+f</code> and enter font-family.</li>
-<li>Copy all the selectors with <code class="language-text">font</code> or <code class="language-text">font-family</code> declarations.</li>
-<li>Paste those selectors and rules in another <code class="language-text">stylesheet</code>.</li>
-<li>Remove the rules that don’t have anything to do with <code class="language-text">font</code> or <code class="language-text">font-family</code>.</li>
-<li>Once you finish this process, you should end up with a set of <code class="language-text">rules</code> that looks like this:</li>
-</ul>
-<p><strong><em>Implementation</em></strong>:</p>
+<p><strong><em>Implementation custom font</em></strong>:</p>
 <p>CSS</p>
 <div class="gatsby-highlight" data-language="css"><pre class="language-css"><code class="language-css"> <span class="token selector">html</span> <span class="token punctuation">{</span>
    <span class="token property">font-family</span><span class="token punctuation">:</span> sans-serif

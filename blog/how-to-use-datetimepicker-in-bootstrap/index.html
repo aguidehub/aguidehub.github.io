@@ -114,15 +114,26 @@ data-styled.g49[id="post-template__PostPagination-sc-afk1br-4"]{content:"jZgyoh,
 <p>Welcome To aGuideHub! ❤️</p>
 <p>In this tutorial, we will learn how to create datepicker for Bootstrap 5 projects.</p>
 <p>Bootstrap timepicker is used to display the time in minutes or seconds.</p>
-<h2>Step 1: Include Bootstrap and jQuery CDN into your <head> before all other stylesheets to load our CSS.</h2>
+<p>Table of contents</p>
+<ul>
+<li>Include Bootstrap and jQuery</li>
+<li>Include datetimepicker js and css</li>
+<li>Include the code in body</li>
+<li>Add JavaScript in <code class="language-text">&lt;script></code> tag</li>
+</ul>
+<p>Let’s start with the first step.</p>
+<h3>Step 1: Include Bootstrap and jQuery</h3>
+<p>Include Bootstrap and jQuery CDN into your <head> before all other stylesheets to load our CSS.</p>
 <div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html">    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>link</span> <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>link</span> <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.7.14/css/bootstrap-datetimepicker.min.css<span class="token punctuation">"</span></span><span class="token punctuation">></span></span></code></pre></div>
-<h2>Step 2: Include datetimepicker js and css cdn just after the bootstrap css cdn.</h2>
+<h3>Step 2: Include datetimepicker js and css</h3>
+<p>Include datetimepicker js and css cdn just after the bootstrap css cdn.</p>
 <div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"> <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token script"></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">></span></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.1/moment.min.js<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token script"></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">></span></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token script"></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">></span></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.7.14/js/bootstrap-datetimepicker.min.js<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token script"></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">></span></span></code></pre></div>
-<h2>Step 3: Include the code below in <body> to accept time from the user.</h2>
+<h3>Step 3: Include the code in body</h3>
+<p>Include the code below in <code class="language-text">&lt;body></code> to accept time from the user.</p>
 <div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html">    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>container<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
         <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>row<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
             <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">'</span>col-sm-6<span class="token punctuation">'</span></span><span class="token punctuation">></span></span>
@@ -138,12 +149,13 @@ data-styled.g49[id="post-template__PostPagination-sc-afk1br-4"]{content:"jZgyoh,
         <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span></code></pre></div>
 <p><strong><em>Note:Datetimepicker component should always be placed within a relatively positioned container.</em></strong></p>
-<h2>Step 4: Add the following JavaScript in <code class="language-text">&lt;script></code> tag after the <code class="language-text">&lt;body></code> tag to specify ‘HH:mm:ss’ format to DateTimePicker.</h2>
+<h3>Step 4: Add JavaScript in <code class="language-text">&lt;script></code> tag</h3>
+<p>Add the following JavaScript in <code class="language-text">&lt;script></code> tag after the <code class="language-text">&lt;body></code> tag to specify ‘HH:mm:ss’ format to DateTimePicker. </p>
 <div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">      <span class="token function">$</span><span class="token punctuation">(</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
             <span class="token function">$</span><span class="token punctuation">(</span><span class="token string">'#datetimepicker1'</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">datetimepicker</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
         <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre></div>
 <p>Note: Custom format can be specified as per the requirement </p>
-<h2>Example.</h2>
+<h3>Example.</h3>
 <p>Let’s look at the following example to understand how it basically works:</p>
 <div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span><span class="token punctuation">></span></span>
 
