@@ -131,7 +131,7 @@ data-styled.g49[id="post-template__PostPagination-sc-afk1br-4"]{content:"jZgyoh,
   <span class="token attr-name">content</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>width=device-width, initial-scale=1, shrink-to-fit=no<span class="token punctuation">"</span></span>
 <span class="token punctuation">/></span></span></code></pre></div>
 <h3>Step 2: Includes bootstrap libraries</h3>
-<p>First of all, load the Bootstrap 4 framework CSS into the head tag of your webpage.</p>
+<p>First of all, load the Bootstrap framework CSS into the head tag of your webpage.</p>
 <div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token comment">&lt;!-- Bootstrap CSS --></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>link</span>
   <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span>
@@ -151,7 +151,18 @@ data-styled.g49[id="post-template__PostPagination-sc-afk1br-4"]{content:"jZgyoh,
   <span class="token attr-name">integrity</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF<span class="token punctuation">"</span></span>
   <span class="token attr-name">crossorigin</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>anonymous<span class="token punctuation">"</span></span>
 <span class="token punctuation">></span></span><span class="token script"></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">></span></span></code></pre></div>
-<h3>Step 4: Define its class name</h3>
+<h3>Step 4: Includes css in html page</h3>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>style</span><span class="token punctuation">></span></span><span class="token style"><span class="token language-css">
+  <span class="token selector">.modal:nth-of-type(even)</span> <span class="token punctuation">{</span>
+    <span class="token property">z-index</span><span class="token punctuation">:</span> 1052 <span class="token important">!important</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+
+  <span class="token selector">.modal-backdrop.show:nth-of-type(even)</span> <span class="token punctuation">{</span>
+    <span class="token property">z-index</span><span class="token punctuation">:</span> 1051 <span class="token important">!important</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>style</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>Step 5: Define its class name</h3>
+<p>After that, create the multiple modal with a class name <code class="language-text">.modal</code>.</p>
 <div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">data-toggle</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>modal<span class="token punctuation">"</span></span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>#myModal<span class="token punctuation">"</span></span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>btn btn-primary<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>Launch modal<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">></span></span>
 
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>modal<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>myModal<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
@@ -213,16 +224,6 @@ data-styled.g49[id="post-template__PostPagination-sc-afk1br-4"]{content:"jZgyoh,
     <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
   <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span></code></pre></div>
-<h3>Step 5: Includes css in html page</h3>
-<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>style</span><span class="token punctuation">></span></span><span class="token style"><span class="token language-css">
-  <span class="token selector">.modal:nth-of-type(even)</span> <span class="token punctuation">{</span>
-    <span class="token property">z-index</span><span class="token punctuation">:</span> 1052 <span class="token important">!important</span><span class="token punctuation">;</span>
-  <span class="token punctuation">}</span>
-
-  <span class="token selector">.modal-backdrop.show:nth-of-type(even)</span> <span class="token punctuation">{</span>
-    <span class="token property">z-index</span><span class="token punctuation">:</span> 1051 <span class="token important">!important</span><span class="token punctuation">;</span>
-  <span class="token punctuation">}</span>
-</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>style</span><span class="token punctuation">></span></span></code></pre></div>
 <h3>Step 6: Add JavaScript in <code class="language-text">&lt;script></code> tag</h3>
 <p>Add the following JavaScript in <code class="language-text">&lt;script></code> tag after the <code class="language-text">&lt;body></code> tag to specify ‘HH:mm:ss’ format to DateTimePicker.</p>
 <div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">    <span class="token operator">&lt;</span>script<span class="token operator">></span>
