@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-template-js",
+    "path": "/tags/html/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"nodes":[{"fields":{"slug":"/blog/how-to-embed-a-pdf-in-html-without-downloading-and-printing/"},"frontmatter":{"date":"June 05, 2022","description":"Example of embed a pdf in html without downloading and printing with step by step tutorial - aGuideHub","tags":["HTML"],"title":"How to embed a pdf in html without downloading and printing?"},"timeToRead":1,"excerpt":"Hi Friends 👋, Welcome To aGuideHub! ❤️ In this tutorial, we will learn how to embed a pdf in html without downloading and printing. The…"}]}},"pageContext":{"tag":"HTML"}},
+    "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
