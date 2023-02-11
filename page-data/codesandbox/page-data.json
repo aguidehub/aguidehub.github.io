@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-codesandbox-template-js",
+    "path": "/codesandbox/",
+    "result": {"data":{"markdownRemark":{"html":"<h2>Enabling anyone to code anything in record time.</h2>\n<p>CodeSandbox removes the complexity out of coding. We empower developers and teams to easily and quickly code anything - be it a prototype or a full-stack web app.</p>","frontmatter":{"title":"codesandbox Code Editor","profile_image":"..\\..\\static\\media\\profile-image.jpg"}}},"pageContext":{"slug":"/codesandbox/"}},
+    "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
