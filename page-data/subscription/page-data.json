@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-about-template-js",
     "path": "/subscription/",
-    "result": {"data":{"markdownRemark":{"html":"<iframe src=\"https://aguidehub.substack.com/embed\" width=\"100%\" height=\"320\" frameborder=\"0\" scrolling=\"no\"></iframe>","frontmatter":{"title":"subscription","profile_image":"..\\..\\static\\media\\profile-image.jpg"}}},"pageContext":{"slug":"/subscription/"}},
+    "result": {"data":{"markdownRemark":{"html":"<h2>Subscribe US</h2>\n<p>You will get all my premium resources like books, mind-blowing concepts, and Cheatsheets (useful coding tricks ) right into your inbox after subscription.</p>\n<iframe src=\"https://aguidehub.substack.com/embed\" width=\"100%\" height=\"320\" frameborder=\"0\" scrolling=\"no\"></iframe>","frontmatter":{"title":"subscription","profile_image":"..\\..\\static\\media\\profile-image.jpg"}}},"pageContext":{"slug":"/subscription/"}},
     "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
