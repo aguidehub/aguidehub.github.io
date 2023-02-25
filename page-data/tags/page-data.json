@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-tags-js",
     "path": "/tags/",
-    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"AI","totalCount":1},{"fieldValue":"Bootstrap","totalCount":209},{"fieldValue":"CSS","totalCount":5},{"fieldValue":"GoLang","totalCount":139},{"fieldValue":"HTML","totalCount":5},{"fieldValue":"Photopea","totalCount":98},{"fieldValue":"Photoshop","totalCount":43},{"fieldValue":"React","totalCount":158},{"fieldValue":"css","totalCount":1}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"AI","totalCount":1},{"fieldValue":"Bootstrap","totalCount":209},{"fieldValue":"CSS","totalCount":6},{"fieldValue":"GoLang","totalCount":140},{"fieldValue":"HTML","totalCount":5},{"fieldValue":"Photopea","totalCount":98},{"fieldValue":"Photoshop","totalCount":43},{"fieldValue":"React","totalCount":165}]}},"pageContext":{}},
     "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
