@@ -1,0 +1,675 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><style data-href="/styles.bf59489a051badea32c4.css" data-identity="gatsby-global-css">code[class*=language-],pre[class*=language-]{word-wrap:normal;background:none;color:#e3eaf2;font-family:Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;-webkit-hyphens:none;-ms-hyphens:none;hyphens:none;line-height:1.5;-o-tab-size:4;tab-size:4;text-align:left;white-space:pre;word-break:normal;word-spacing:normal}code[class*=language-] ::selection,code[class*=language-]::selection,pre[class*=language-] ::selection,pre[class*=language-]::selection{background:#3c526d}pre[class*=language-]{margin:.5em 0;overflow:auto;padding:1em}:not(pre)>code[class*=language-],pre[class*=language-]{background:#111b27}:not(pre)>code[class*=language-]{border-radius:.3em;padding:.1em .3em;white-space:normal}.token.cdata,.token.comment,.token.doctype,.token.prolog{color:#8da1b9}.token.punctuation{color:#e3eaf2}.token.delimiter.important,.token.selector .parent,.token.tag,.token.tag .token.punctuation{color:#6cc}.token.attr-name,.token.boolean,.token.boolean.important,.token.constant,.token.number,.token.selector .token.attribute{color:#e6d37a}.token.class-name,.token.key,.token.parameter,.token.property,.token.property-access,.token.variable{color:#6cb8e6}.token.attr-value,.token.color,.token.inserted,.token.selector .token.value,.token.string,.token.string .token.url-link{color:#91d076}.token.builtin,.token.keyword-array,.token.package,.token.regex{color:#f4adf4}.token.function,.token.selector .token.class,.token.selector .token.id{color:#c699e3}.token.atrule .token.rule,.token.combinator,.token.keyword,.token.operator,.token.pseudo-class,.token.pseudo-element,.token.selector,.token.unit{color:#e9ae7e}.token.deleted,.token.important{color:#cd6660}.token.keyword-this,.token.this{color:#6cb8e6}.token.bold,.token.important,.token.keyword-this,.token.this{font-weight:700}.token.delimiter.important{font-weight:inherit}.token.italic{font-style:italic}.token.entity{cursor:help}.language-markdown .token.title,.language-markdown .token.title .token.punctuation{color:#6cb8e6;font-weight:700}.language-markdown .token.blockquote.punctuation{color:#f4adf4}.language-markdown .token.code{color:#6cc}.language-markdown .token.hr.punctuation{color:#6cb8e6}.language-markdown .token.url .token.content{color:#91d076}.language-markdown .token.url-link{color:#e6d37a}.language-markdown .token.list.punctuation{color:#f4adf4}.language-json .token.operator,.language-markdown .token.table-header{color:#e3eaf2}.language-scss .token.variable{color:#6cc}.token.cr:before,.token.lf:before,.token.space:before,.token.tab:not(:empty):before{color:#8da1b9}div.code-toolbar>.toolbar a,div.code-toolbar>.toolbar button{background:#6cb8e6;color:#111b27}div.code-toolbar>.toolbar a:focus,div.code-toolbar>.toolbar a:hover,div.code-toolbar>.toolbar button:focus,div.code-toolbar>.toolbar button:hover{background:#6cb8e6da;color:#111b27;text-decoration:none}div.code-toolbar>.toolbar span,div.code-toolbar>.toolbar span:focus,div.code-toolbar>.toolbar span:hover{background:#8da1b9;color:#111b27}.line-highlight{background:#3c526d5f;background:linear-gradient(90deg,#3c526d5f 70%,#3c526d55)}.line-highlight:before,.line-highlight[data-end]:after{background-color:#8da1b9;box-shadow:0 1px #3c526d;color:#111b27}pre[id].linkable-line-numbers span.line-numbers-rows>span:hover:before{background-color:#8da1b918}.line-numbers .line-numbers-rows{background:#0b121b7a;border-right:1px solid #0b121b}.line-numbers-rows>span:before{color:#8da1b9da}.rainbow-braces .token.punctuation.brace-level-1,.rainbow-braces .token.punctuation.brace-level-5,.rainbow-braces .token.punctuation.brace-level-9{color:#e6d37a}.rainbow-braces .token.punctuation.brace-level-10,.rainbow-braces .token.punctuation.brace-level-2,.rainbow-braces .token.punctuation.brace-level-6{color:#f4adf4}.rainbow-braces .token.punctuation.brace-level-11,.rainbow-braces .token.punctuation.brace-level-3,.rainbow-braces .token.punctuation.brace-level-7{color:#6cb8e6}.rainbow-braces .token.punctuation.brace-level-12,.rainbow-braces .token.punctuation.brace-level-4,.rainbow-braces .token.punctuation.brace-level-8{color:#c699e3}pre.diff-highlight>code .token.deleted:not(.prefix),pre>code.diff-highlight .token.deleted:not(.prefix){background-color:#cd66601f}pre.diff-highlight>code .token.inserted:not(.prefix),pre>code.diff-highlight .token.inserted:not(.prefix){background-color:#91d0761f}.command-line-prompt{border-right:1px solid #0b121b}.command-line-prompt>span:before{color:#8da1b9da}</style><style data-styled="" data-styled-version="5.3.3">.jyFezK{margin-left:auto;margin-right:auto;max-width:1300px;padding-left:var(--size-700);padding-right:var(--size-700);height:100%;}/*!sc*/
+@media screen and (max-width:1000px){.jyFezK{padding-left:var(--size-400);padding-right:var(--size-400);}}/*!sc*/
+data-styled.g1[id="container__Container-sc-g6pcgm-0"]{content:"jyFezK,"}/*!sc*/
+.dChoJd{padding-top:var(--size-300);}/*!sc*/
+data-styled.g2[id="header__StyledHeader-sc-1344zpp-0"]{content:"dChoJd,"}/*!sc*/
+.iSVOBe{text-align:center;}/*!sc*/
+data-styled.g3[id="header__HeaderWrapper-sc-1344zpp-1"]{content:"iSVOBe,"}/*!sc*/
+.LmWDk a{text-transform:uppercase;-webkit-text-decoration:none;text-decoration:none;font-size:var(--size-500);color:inherit;}/*!sc*/
+data-styled.g4[id="header__HeaderTitle-sc-1344zpp-2"]{content:"LmWDk,"}/*!sc*/
+.eMKZBb{position:static;padding:0;background:transparent;-webkit-backdrop-filter:unset;backdrop-filter:unset;}/*!sc*/
+data-styled.g5[id="header__StyledNav-sc-1344zpp-3"]{content:"eMKZBb,"}/*!sc*/
+.bhCOZU{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;padding:0;list-style-type:none;}/*!sc*/
+data-styled.g6[id="header__StyledNavList-sc-1344zpp-4"]{content:"bhCOZU,"}/*!sc*/
+.cRGvqx:not(:last-of-type){margin-right:2rem;}/*!sc*/
+@media screen and (max-width:700px){.cRGvqx:not(:last-of-type){margin-right:1rem;}}/*!sc*/
+.cRGvqx a{color:inherit;text-transform:uppercase;font-size:var(--size-400);-webkit-text-decoration:none;text-decoration:none;-webkit-letter-spacing:0.1rem;-moz-letter-spacing:0.1rem;-ms-letter-spacing:0.1rem;letter-spacing:0.1rem;}/*!sc*/
+@media screen and (max-width:700px){.cRGvqx a{font-size:0.7rem;}}/*!sc*/
+data-styled.g7[id="header__StyledNavListItem-sc-1344zpp-5"]{content:"cRGvqx,"}/*!sc*/
+.ifQECM{padding:0;list-style:none;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+data-styled.g8[id="social-links__SocialLinkList-sc-r9vd8i-0"]{content:"ifQECM,"}/*!sc*/
+.iKVzIm{margin-right:var(--size-400);text-transform:uppercase;}/*!sc*/
+.iKVzIm a{color:inherit;font-size:var(--size-400);}/*!sc*/
+data-styled.g9[id="social-links__SocialLinkItem-sc-r9vd8i-1"]{content:"iKVzIm,"}/*!sc*/
+.dxgnAr{padding-top:var(--size-300);padding-bottom:var(--size-300);}/*!sc*/
+data-styled.g10[id="footer__StyledFooter-sc-1d6x338-0"]{content:"dxgnAr,"}/*!sc*/
+.fXZhdt{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}/*!sc*/
+data-styled.g11[id="footer__FooterWrapper-sc-1d6x338-1"]{content:"fXZhdt,"}/*!sc*/
+.jelTzB{padding:0;list-style:none;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+data-styled.g12[id="footer__SocialLinkList-sc-1d6x338-2"]{content:"jelTzB,"}/*!sc*/
+.gfowZX{margin-right:var(--size-400);text-transform:uppercase;}/*!sc*/
+.gfowZX a{color:inherit;font-size:var(--size-400);}/*!sc*/
+data-styled.g13[id="footer__SocialLinkItem-sc-1d6x338-3"]{content:"gfowZX,"}/*!sc*/
+*,*::before,*::after{box-sizing:border-box;}/*!sc*/
+body,h1,h2,h3,h4,p,figure,blockquote,dl,dd{margin:0;}/*!sc*/
+ul[role='list'],ol[role='list']{list-style:none;}/*!sc*/
+html:focus-within{-webkit-scroll-behavior:smooth;-moz-scroll-behavior:smooth;-ms-scroll-behavior:smooth;scroll-behavior:smooth;}/*!sc*/
+html{height:-webkit-fill-available;}/*!sc*/
+body{min-height:100vh;min-height:-webkit-fill-available;text-rendering:optimizeSpeed;line-height:1.5;}/*!sc*/
+a:not([class]){-webkit-text-decoration-skip-ink:auto;text-decoration-skip-ink:auto;}/*!sc*/
+img,picture{max-width:100%;display:block;}/*!sc*/
+input,button,textarea,select{font:inherit;}/*!sc*/
+@media (prefers-reduced-motion:reduce){html:focus-within{-webkit-scroll-behavior:auto;-moz-scroll-behavior:auto;-ms-scroll-behavior:auto;scroll-behavior:auto;}*,*::before,*::after{-webkit-animation-duration:0.01ms !important;animation-duration:0.01ms !important;-webkit-animation-iteration-count:1 !important;animation-iteration-count:1 !important;-webkit-transition-duration:0.01ms !important;transition-duration:0.01ms !important;-webkit-scroll-behavior:auto !important;-moz-scroll-behavior:auto !important;-ms-scroll-behavior:auto !important;scroll-behavior:auto !important;}}/*!sc*/
+html{width:100vw;overflow-x:hidden;}/*!sc*/
+body::-webkit-scrollbar{width:10px;}/*!sc*/
+body::-webkit-scrollbar-thumb{background-color:rgba(55,41,44,.4);}/*!sc*/
+body::-webkit-scrollbar-track{background:transparent;}/*!sc*/
+:root{-webkit-scroll-behavior:smooth;-moz-scroll-behavior:smooth;-ms-scroll-behavior:smooth;scroll-behavior:smooth;--size-300:0.75rem;--size-400:1rem;--size-500:1.33rem;--size-600:1.77rem;--size-700:2.36rem;--size-800:3.15rem;--size-900:4.2rem;}/*!sc*/
+body{font-family:'Poppins',-apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,Ubuntu,roboto,noto,segoe ui,arial,sans-serif;color:#37292C;background-attachment:fixed;background-color:#d9e4f5;}/*!sc*/
+h1,h2,h3,h4{line-height:1.125;}/*!sc*/
+h1,h2,h3{font-weight:700;}/*!sc*/
+h1{font-size:var(--size-900);}/*!sc*/
+h2{font-size:var(--size-800);}/*!sc*/
+h3{font-size:var(--size-700);}/*!sc*/
+p{font-size:var(--size-500);}/*!sc*/
+::selection{background:rgba(255,255,255,0.9);}/*!sc*/
+p,li{max-width:none;font-size:var(--size-500);}/*!sc*/
+.gatsby-resp-image-wrapper{margin-left:0 !important;}/*!sc*/
+data-styled.g14[id="sc-global-lihcpm1"]{content:"sc-global-lihcpm1,"}/*!sc*/
+.eaxHbL{min-height:100vh;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}/*!sc*/
+.eaxHbL main{margin-top:auto;margin-bottom:auto;}/*!sc*/
+.eaxHbL footer{margin-top:auto;}/*!sc*/
+data-styled.g15[id="layout__LayoutWrapper-sc-qrswv8-0"]{content:"eaxHbL,"}/*!sc*/
+.egVKge{margin-right:0.6rem;margin-bottom:0.6rem;text-transform:uppercase;font-size:var(--size-400);}/*!sc*/
+.egVKge a{position:relative;z-index:2;background-color:rgba(255,255,255,0.7);-webkit-text-decoration:none;text-decoration:none;color:inherit;padding:0.2rem 0.6rem;border:1px solid rgba(255,255,255,1);border-radius:4px;}/*!sc*/
+.egVKge a:hover{background-color:rgba(255,255,255,0.9);}/*!sc*/
+data-styled.g17[id="tags__Tag-sc-16itk8x-0"]{content:"egVKge,"}/*!sc*/
+.hASInQ{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+data-styled.g50[id="post-template__BodyContainer-sc-afk1br-0"]{content:"hASInQ,"}/*!sc*/
+.bHEcbE{display:none;}/*!sc*/
+@media (min-width:30em){.bHEcbE{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-flex:1;-ms-flex:1;flex:1;}}/*!sc*/
+data-styled.g51[id="post-template__LeftContainer-sc-afk1br-1"]{content:"bHEcbE,"}/*!sc*/
+.eDFbUW{-webkit-flex:3;-ms-flex:3;flex:3;}/*!sc*/
+data-styled.g52[id="post-template__MiddleContainer-sc-afk1br-2"]{content:"eDFbUW,"}/*!sc*/
+.evJXsZ{display:none;}/*!sc*/
+@media (min-width:30em){.evJXsZ{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-flex:1;-ms-flex:1;flex:1;}}/*!sc*/
+data-styled.g53[id="post-template__RightContainer-sc-afk1br-3"]{content:"evJXsZ,"}/*!sc*/
+.imozSD{padding-top:var(--size-900);padding-bottom:var(--size-900);margin-left:auto;margin-right:auto;max-width:70ch;word-wrap:break-word;}/*!sc*/
+data-styled.g54[id="post-template__PostWrapper-sc-afk1br-4"]{content:"imozSD,"}/*!sc*/
+.bVzjCg{font-size:var(--size-800);}/*!sc*/
+data-styled.g55[id="post-template__PostTitle-sc-afk1br-5"]{content:"bVzjCg,"}/*!sc*/
+.gmcxtE{font-size:var(--size-500);padding-top:1rem;text-transform:uppercase;}/*!sc*/
+data-styled.g56[id="post-template__PostDate-sc-afk1br-6"]{content:"gmcxtE,"}/*!sc*/
+.kDxfMS{padding-top:var(--size-800);}/*!sc*/
+.kDxfMS > * + *{margin-top:var(--size-300);}/*!sc*/
+.kDxfMS > p + p{margin-top:var(--size-700);}/*!sc*/
+.kDxfMS * + h1,.kDxfMS * + h2,.kDxfMS * + h3{margin-top:var(--size-900);}/*!sc*/
+.kDxfMS h1{font-size:var(--size-800);}/*!sc*/
+.kDxfMS h2{font-size:var(--size-700);}/*!sc*/
+.kDxfMS h3{font-size:var(--size-700);}/*!sc*/
+.kDxfMS b,.kDxfMS strong{font-weight:600;}/*!sc*/
+.kDxfMS a{color:inherit;-webkit-text-decoration:underline;text-decoration:underline;-webkit-text-decoration-thickness:0.125rem;text-decoration-thickness:0.125rem;}/*!sc*/
+.kDxfMS blockquote{padding-left:var(--size-400);border-left:5px solid;font-style:italic;}/*!sc*/
+.kDxfMS code{font-family:'Source Sans Pro',monospace;overflow-x:auto;white-space:pre-wrap;word-break:break-word;}/*!sc*/
+.kDxfMS pre{overflow-x:auto;white-space:pre-wrap;max-width:100%;width:90vw;}/*!sc*/
+@media (min-width:30em){.kDxfMS pre{width:100%;}}/*!sc*/
+data-styled.g57[id="post-template__PostContent-sc-afk1br-7"]{content:"kDxfMS,"}/*!sc*/
+.jBsrGp{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;}/*!sc*/
+.jBsrGp > *{position:relative;-webkit-flex:1;-ms-flex:1;flex:1;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;padding:1rem;padding-top:0.5rem;padding-bottom:0.5rem;border-radius:8px;border:1px solid rgba(255,255,255,0.5);background-color:rgba(255,255,255,0.3);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);margin:0.5rem;}/*!sc*/
+.jBsrGp > *:hover{background-color:rgba(255,255,255,0.5);}/*!sc*/
+.jBsrGp span{text-transform:uppercase;opacity:0.6;font-size:var(--size-500);padding-bottom:var(--size-500);}/*!sc*/
+.jBsrGp a{color:inherit;-webkit-text-decoration:none;text-decoration:none;font-size:var(--size-500);text-transform:capitalize;}/*!sc*/
+.jBsrGp a::after{content:'';position:absolute;left:0;right:0;top:0;bottom:0;}/*!sc*/
+data-styled.g58[id="post-template__PostPagination-sc-afk1br-8"]{content:"jBsrGp,"}/*!sc*/
+</style><style>.gatsby-image-wrapper{position:relative;overflow:hidden}.gatsby-image-wrapper picture.object-fit-polyfill{position:static!important}.gatsby-image-wrapper img{bottom:0;height:100%;left:0;margin:0;max-width:none;padding:0;position:absolute;right:0;top:0;width:100%;object-fit:cover}.gatsby-image-wrapper [data-main-image]{opacity:0;transform:translateZ(0);transition:opacity .25s linear;will-change:opacity}.gatsby-image-wrapper-constrained{display:inline-block;vertical-align:top}</style><noscript><style>.gatsby-image-wrapper noscript [data-main-image]{opacity:1!important}.gatsby-image-wrapper [data-placeholder-image]{opacity:0!important}</style></noscript><script type="module">const e="undefined"!=typeof HTMLImageElement&&"loading"in HTMLImageElement.prototype;e&&document.body.addEventListener("load",(function(e){if(void 0===e.target.dataset.mainImage)return;if(void 0===e.target.dataset.gatsbyImageSsr)return;const t=e.target;let a=null,n=t;for(;null===a&&n;)void 0!==n.parentNode.dataset.gatsbyImageWrapper&&(a=n.parentNode),n=n.parentNode;const o=a.querySelector("[data-placeholder-image]"),r=new Image;r.src=t.currentSrc,r.decode().catch((()=>{})).then((()=>{t.style.opacity=1,o&&(o.style.opacity=0,o.style.transition="opacity 500ms linear")}))}),!0);</script><link rel="alternate" type="application/rss+xml" href="/rss.xml"/><link rel="icon" href="/favicon-32x32.png?v=116b26b1c896070797f46ed8979b77fb" type="image/png"/><link rel="manifest" href="/manifest.webmanifest" crossorigin="anonymous"/><meta name="theme-color" content="#663399"/><link rel="apple-touch-icon" sizes="48x48" href="/icons/icon-48x48.png?v=116b26b1c896070797f46ed8979b77fb"/><link rel="apple-touch-icon" sizes="72x72" href="/icons/icon-72x72.png?v=116b26b1c896070797f46ed8979b77fb"/><link rel="apple-touch-icon" sizes="96x96" href="/icons/icon-96x96.png?v=116b26b1c896070797f46ed8979b77fb"/><link rel="apple-touch-icon" sizes="144x144" href="/icons/icon-144x144.png?v=116b26b1c896070797f46ed8979b77fb"/><link rel="apple-touch-icon" sizes="192x192" href="/icons/icon-192x192.png?v=116b26b1c896070797f46ed8979b77fb"/><link rel="apple-touch-icon" sizes="256x256" href="/icons/icon-256x256.png?v=116b26b1c896070797f46ed8979b77fb"/><link rel="apple-touch-icon" sizes="384x384" href="/icons/icon-384x384.png?v=116b26b1c896070797f46ed8979b77fb"/><link rel="apple-touch-icon" sizes="512x512" href="/icons/icon-512x512.png?v=116b26b1c896070797f46ed8979b77fb"/><title>Top 70 HTML Interview Questions &amp; Answers in 2023 - aGuideHub</title><meta name="description" content="In this article, we will discuss the top 50 HTML Interview Questions you should absolutely know to crack those trying interviews and land your dream job. - aGuideHub"/><meta property="og:title" content="Top 70 HTML Interview Questions &amp; Answers in 2023"/><meta property="og:description" content="In this article, we will discuss the top 50 HTML Interview Questions you should absolutely know to crack those trying interviews and land your dream job. - aGuideHub"/><meta property="og:image" content="https://aguidehub.com/media/template/html.jpg"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary"/><meta name="twitter:creator" content="aguidehub"/><meta name="twitter:title" content="Top 70 HTML Interview Questions &amp; Answers in 2023"/><meta name="twitter:description" content="In this article, we will discuss the top 50 HTML Interview Questions you should absolutely know to crack those trying interviews and land your dream job. - aGuideHub"/><link rel="sitemap" type="application/xml" href="/sitemap/sitemap-index.xml"/></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div class="layout__LayoutWrapper-sc-qrswv8-0 eaxHbL"><header class="header__StyledHeader-sc-1344zpp-0 dChoJd"><div class="container__Container-sc-g6pcgm-0 header__HeaderWrapper-sc-1344zpp-1 jyFezK iSVOBe"><div class="header__HeaderTitle-sc-1344zpp-2 LmWDk"><a href="/">aGuideHub</a></div><nav class="header__StyledNav-sc-1344zpp-3 eMKZBb"><ul class="header__StyledNavList-sc-1344zpp-4 bhCOZU"><li class="header__StyledNavListItem-sc-1344zpp-5 cRGvqx"><a href="/blog/">Blog</a></li><li class="header__StyledNavListItem-sc-1344zpp-5 cRGvqx"><a href="/about/">About</a></li><li class="header__StyledNavListItem-sc-1344zpp-5 cRGvqx"><a href="/onecompiler/">OneCompiler</a></li><li class="header__StyledNavListItem-sc-1344zpp-5 cRGvqx"><a href="/subscription/">Subscribe US</a></li></ul></nav></div></header><main><div class="container__Container-sc-g6pcgm-0 jyFezK"><div class="post-template__BodyContainer-sc-afk1br-0 hASInQ"><div class="post-template__LeftContainer-sc-afk1br-1 bHEcbE"></div><div class="post-template__MiddleContainer-sc-afk1br-2 eDFbUW"><div class="post-template__PostWrapper-sc-afk1br-4 imozSD"><article><h1 class="post-template__PostTitle-sc-afk1br-5 bVzjCg">Top 70 HTML Interview Questions &amp; Answers in 2023</h1><span class="post-template__PostDate-sc-afk1br-6 gmcxtE">April 15, 2023</span><section class="post-template__PostContent-sc-afk1br-7 kDxfMS"><p>Hi Friends 👋,</p>
+<p>Welcome To aGuideHub!</p>
+<p>In this article, we will discuss the top 50 HTML Interview Questions you should know to crack those trying interviews and land your dream job.</p>
+<p>You don’t have to remember every question &#x26; answer just understand it I know you will explain it to the interviewer.</p>
+<p>You can also use ChatGPT or Google Bard to Prepare HTML Interview Questions &#x26; Answers.</p>
+<p>Here Following prompts which you can use in ChatGPT and Google Bard</p>
+<ul>
+<li>Generate a list of 10 HTML interview questions along with their answers.</li>
+<li>Provide me with some interview questions related to HTML and their respective answers.</li>
+<li>Generate a set of HTML interview questions and answers that a frontend developer might be asked in an interview.</li>
+<li>Can you generate some commonly asked HTML interview questions and their answers for a frontend developer job role?</li>
+<li>I need a set of HTML interview questions and answers that would be relevant for a frontend developer interview.</li>
+<li>Generate a list of HTML interview questions and their answers to help me prepare for my upcoming front-end developer interview.</li>
+<li>Can you provide me with HTML interview questions and answers that are commonly asked in frontend developer interviews?</li>
+<li>Generate a set of HTML interview questions and answers that cover both basic and advanced topics for a front-end developer role.</li>
+<li>I’m looking for a list of HTML interview questions and answers to brush up my skills for a frontend developer job interview.</li>
+<li>Can you help me with HTML interview questions and answers that would be suitable for a frontend developer interview, including both theoretical and practical aspects?</li>
+</ul>
+<p>Best of luck.</p>
+<h2>HTML Interview Questions</h2>
+<h3>1. What is HTML?</h3>
+<p>HTML stands for HyperText Markup Language and is the language of the internet. It is the standard text formatting language used for creating and displaying pages on the Internet</p>
+<p>HTML documents are made up of the elements and the tags that format it for proper display on pages.</p>
+<h3>2. What are HTML tags?</h3>
+<p>We use HTML tags for placing the elements in the proper and appropriate format. Tags use the symbols &#x3C;, and > to set them apart from the HTML content.</p>
+<p>The HTML tags need not be closed always. For example, in the case of images, the closing tags are not required as <code class="language-text">&lt;img></code> tag.</p>
+<h3>3. What are HTML Attributes?</h3>
+<p>Attributes are the properties that can be added to an HTML tag. These attributes change the way the tag behaves or is displayed. For example, a <code class="language-text">&lt;img></code> tag has an src attribute, which you use to add the source from which the image should be displayed.</p>
+<p>We add attributes right after the name of the HTML tag, inside the brackets. We can only add the attributes to opening or self-closing tags, but never be in closing tags.</p>
+<h3>4. What is a marquee in HTML?</h3>
+<p>Marquee is used for scrolling text on a web page. It scrolls the image or text up, down, left, or right automatically. To apply for a marquee, you have to use <code class="language-text">&lt;/marquee></code> tags.</p>
+<h3>5. How do you separate a section of texts in HTML?</h3>
+<p>We separate a section of texts in HTML using the below tags:</p>
+<ul>
+<li><code class="language-text">&lt;br></code> tag – It is used to separate the line of text. It breaks the current line and shifts the flow of the text to a new line.</li>
+<li><code class="language-text">&lt;p></code> tag–This tag is used to write a paragraph of text.</li>
+<li><code class="language-text">&lt;blockquote></code> tag–This tag is used to define large quoted sections.</li>
+</ul>
+<h3>6. Define the list types in HTML?</h3>
+<p>The list types in HTML are as below:</p>
+<ul>
+<li>Ordered list–The ordered list uses <code class="language-text">&lt;ol></code> tag and displays elements in a numbered format.</li>
+<li>Unordered list–The unordered list uses <code class="language-text">&lt;ul></code> tag and displays elements in a bulleted format.</li>
+<li>Definition list–The definition list uses <code class="language-text">&lt;dl></code>, <code class="language-text">&lt;dt></code>, <code class="language-text">&lt;dd></code> tags and displays elements in definition form like in a dictionary.</li>
+</ul>
+<h3>7. How do you align list elements in an HTML file?</h3>
+<p>We can align the list elements in an HTML file by using indents. If you indent each nested list in further than the parent list, you can easily align and determine the various lists and the elements that it contains.</p>
+<h3>8. Differentiate between an Ordered list and an Unordered list?</h3>
+<p>An unordered list uses <code class="language-text">&lt;ul> &lt;/ul></code> tags and each element of the list is written between <code class="language-text">&lt;li> &lt;/li></code> tags. The list items are displayed as bullets rather than numbers.</p>
+<p>An ordered list uses <code class="language-text">&lt;ol> &lt;/ol></code> tags and each element of the list is written between <code class="language-text">&lt;li> &lt;/li></code> tags. The list items are displayed as numbers rather than bullet points.</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">DOCTYPE</span> <span class="token name">html</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h2</span><span class="token punctuation">></span></span>HTML List Example<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h2</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>ul</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>li</span><span class="token punctuation">></span></span>Coffee<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>li</span><span class="token punctuation">></span></span>Tea<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>li</span><span class="token punctuation">></span></span>Milk<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>ul</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>ol</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>li</span><span class="token punctuation">></span></span>Coffee<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>li</span><span class="token punctuation">></span></span>Tea<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>li</span><span class="token punctuation">></span></span>Milk<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>ol</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>9. How do we insert a comment in HTML?</h3>
+<p>We can insert a comment in HTML by beginning with a lesser than sign and ending with a greater than sign. For example, <code class="language-text">&lt;!-</code> and <code class="language-text">-></code>.</p>
+<h3>10. How do you insert a copyright symbol in HTML?</h3>
+<p>You can insert a copyright symbol by using <code class="language-text">&amp;copy;</code> or <code class="language-text">&amp;#169;</code> in an HTML file.</p>
+<h3>11. What is white space in HTML?</h3>
+<p>An empty sequence of space characters is called the white space in HTML. This white space is considered as a single space character in the HTML.</p>
+<p>White space helps the browser to merge multiple spaces into one single space, and so taking care of indentation becomes easier. White space helps in better organizing the content and tags, making them readable and easy to understand.</p>
+<h3>12. How do you create links to different sections within the same HTML web page?</h3>
+<p>We use the <code class="language-text">&lt;a></code> tag, along with referencing through the use of the # symbol, to create several links to different sections within the same web page.</p>
+<h3>13. How do you create a hyperlink in HTML?</h3>
+<p>We use the anchor tag <code class="language-text">&lt;a></code> to create a hyperlink in HTML that links one page to another page. The hyperlink can be added to images too.</p>
+<h3>14. Define an image map?</h3>
+<p>An image map in HTML helps in linking with the different kinds of web pages using a single image. It can be used for defining shapes in the images that are made part of the image mapping process.</p>
+<h3>15. Why do we use a style sheet in HTML?</h3>
+<p>A style sheet helps in creating a well-defined template for an HTML webpage that is both consistent as well as portable. We can link a single style sheet template to various web pages, which makes it easier to maintain and change the look of the website.</p>
+<h3>16. What is semantic HTML?</h3>
+<p>Semantic HTML is a coding style. It is the use of HTML markup to reinforce the semantics or meaning of the content.</p>
+<p>For example: In semantic HTML <code class="language-text">&lt;b> &lt;/b></code> tag is not used for bold statement as well as <code class="language-text">&lt;i> &lt;/i></code> tag is not used for italic. Instead of these we use <code class="language-text">&lt;strong>&lt;/strong></code> and <code class="language-text">&lt;em>&lt;/em></code> tags.</p>
+<h3>17. What is SVG in HTML?</h3>
+<p>HTML SVG is used to describe the vector or raster graphics. SVG images and their behaviors are defined in XML text files.</p>
+<p>We mostly use it for vector type diagrams like pie charts, 2-Dimensional graphs in an X, Y coordinate system.</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>svg</span> <span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>100<span class="token punctuation">"</span></span> <span class="token attr-name">height</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>100<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>circle</span> <span class="token attr-name">cx</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>50<span class="token punctuation">"</span></span> <span class="token attr-name">cy</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>50<span class="token punctuation">"</span></span> <span class="token attr-name">r</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>40<span class="token punctuation">"</span></span> <span class="token attr-name">stroke</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>yellow<span class="token punctuation">"</span></span> <span class="token attr-name">stroke-width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>4<span class="token punctuation">"</span></span> <span class="token attr-name">fill</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>red<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>svg</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>18. What would happen if there is no text between the HTML tags?</h3>
+<p>There would be nothing to format if there is no text present between the tags. Therefore, nothing will appear on the screen.</p>
+<p>Some tags, such as the tags without a closing tag like the <code class="language-text">&lt;img></code> tag, do not require any text between them.</p>
+<h3>19. How do you create nested web pages in HTML?</h3>
+<p>Nested web pages basically mean a webpage within a webpage. We can create nested web pages in HTML using the built-in iframe tag. The HTML <code class="language-text">&lt;iframe></code> tag defines an inline frame. For example:</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">DOCTYPE</span> <span class="token name">html</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h2</span><span class="token punctuation">></span></span>HTML Iframes example<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h2</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span><span class="token punctuation">></span></span>specify the size of the iframe using the height and width attributes:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>iframe</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://aguidehub.com/<span class="token punctuation">"</span></span> <span class="token attr-name">height</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>600<span class="token punctuation">"</span></span> <span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>800<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>iframe</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>20. How do you add buttons in HTML?</h3>
+<p>We can use the built-in Button tag in HTML to add buttons to an HTML web page.</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">DOCTYPE</span> <span class="token name">html</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h2</span><span class="token punctuation">></span></span>HTML Button Tag Example<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h2</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>button</span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>button<span class="token punctuation">"</span></span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>button<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>CLICK ME<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>button</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>21. What are the different types of headings in HTML?</h3>
+<p>There are six types of heading tags in HTML which are defined with the <code class="language-text">&lt;h1></code> to <code class="language-text">&lt;h6></code> tags. Each type of heading tag displays a different text size from another. <code class="language-text">&lt;h1></code> is the largest heading tag and <code class="language-text">&lt;h6></code> is the smallest. For example:</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">DOCTYPE</span> <span class="token name">html</span><span class="token punctuation">></span></span>
+
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h1</span><span class="token punctuation">></span></span>This is Heading 1<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h1</span><span class="token punctuation">></span></span>
+
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h2</span><span class="token punctuation">></span></span>This is Heading 2<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h2</span><span class="token punctuation">></span></span>
+
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h3</span><span class="token punctuation">></span></span>This is Heading 3<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h3</span><span class="token punctuation">></span></span>
+
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h4</span><span class="token punctuation">></span></span>This is Heading 4<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h4</span><span class="token punctuation">></span></span>
+
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h5</span><span class="token punctuation">></span></span>This is Heading 5<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h5</span><span class="token punctuation">></span></span>
+
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h6</span><span class="token punctuation">></span></span>This is Heading 6<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h6</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>22. How do you insert an image in the HTML webpage?</h3>
+<p>You can insert an image in the HTML webpage by using the <code class="language-text">&lt;img></code> tag check followinf code for example:</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">DOCTYPE</span> <span class="token name">html</span><span class="token punctuation">></span></span>
+
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h2</span><span class="token punctuation">></span></span>HTML Image Example<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h2</span><span class="token punctuation">></span></span>
+
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>img</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>tulip.jpeg<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>23. What is the alt attribute in HTML?</h3>
+<p>The alt attribute is used for displaying a text in place of an image whenever the image cannot be loaded due to any technical issue.</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">DOCTYPE</span> <span class="token name">html</span><span class="token punctuation">></span></span>
+
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h2</span><span class="token punctuation">></span></span>HTML Alt Example<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h2</span><span class="token punctuation">></span></span>
+
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>img</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>tulip.jpeg<span class="token punctuation">"</span></span> <span class="token attr-name">alt</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Tulip Garden<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>24. How are hyperlinks inserted in the HTML webpage?</h3>
+<p>You can insert a hyperlink in the HTML webpage by using the <code class="language-text">&lt;a></code> tag:</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">DOCTYPE</span> <span class="token name">html</span><span class="token punctuation">></span></span>
+
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h2</span><span class="token punctuation">></span></span>HTML Hyperlink Example<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h2</span><span class="token punctuation">></span></span>
+
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://aguidehub.com/<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>aGuideHub<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>25. How do you add color to the text in HTML?</h3>
+<p>You can add colour to the text in HTML by using the <code class="language-text">style</code> attribute:</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">DOCTYPE</span> <span class="token name">html</span><span class="token punctuation">></span></span>
+
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h2</span><span class="token punctuation">></span></span>HTML Color Text Example<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h2</span><span class="token punctuation">></span></span>
+
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h1</span> <span class="token special-attr"><span class="token attr-name">style</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span><span class="token value css language-css"><span class="token property">color</span><span class="token punctuation">:</span> Red</span><span class="token punctuation">"</span></span></span><span class="token punctuation">></span></span>Hello HTML<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h1</span><span class="token punctuation">></span></span>
+
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span> <span class="token special-attr"><span class="token attr-name">style</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span><span class="token value css language-css"><span class="token property">color</span><span class="token punctuation">:</span> Blue</span><span class="token punctuation">"</span></span></span><span class="token punctuation">></span></span>Line 1<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">></span></span>
+
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span> <span class="token special-attr"><span class="token attr-name">style</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span><span class="token value css language-css"><span class="token property">color</span><span class="token punctuation">:</span> Green</span><span class="token punctuation">"</span></span></span><span class="token punctuation">></span></span>Line 2<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>26. How do you add CSS styling in HTML?</h3>
+<p>There are three ways to include the CSS with HTML:</p>
+<ul>
+<li>Inline CSS: It is used when less amount of styling is needed or in cases where only a single element has to be styled. To use inline styles add the style attribute in the relevant tag.</li>
+<li>External Style Sheet: This is used when the style is applied to many elements or HTML pages. Each page must link to the style sheet using the <code class="language-text">&lt;link></code> tag:</li>
+</ul>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>head</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>link</span> <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>text/css<span class="token punctuation">"</span></span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>mystyle.css<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>head</span><span class="token punctuation">></span></span></code></pre></div>
+<ul>
+<li>Internal Style Sheet: It is used when a single HTML document has a unique style and several elements need to be styled to follow the format. Internal styles sheet is added in the head section of an HTML page, by using the <code class="language-text">&lt;style></code> tag:</li>
+</ul>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>head</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>style</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>text/css<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token style"><span class="token language-css">
+    <span class="token selector">hr</span> <span class="token punctuation">{</span>
+      <span class="token property">color</span><span class="token punctuation">:</span> sienna<span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+
+    <span class="token selector">p</span> <span class="token punctuation">{</span>
+      <span class="token property">margin-left</span><span class="token punctuation">:</span> 20px<span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+
+    <span class="token selector">body</span> <span class="token punctuation">{</span>
+      <span class="token property">background-image</span><span class="token punctuation">:</span> <span class="token url"><span class="token function">url</span><span class="token punctuation">(</span><span class="token string url">"images/back40.gif"</span><span class="token punctuation">)</span></span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+  </span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>style</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>head</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>27. What hierarchy do the style sheets follow?</h3>
+<p>If a single selector includes three different style definitions, the definition that is closest to the actual tag takes precedence. Inline style takes priority over embedded style sheets, which takes priority over external style sheets.</p>
+<h3>28. How do you add JavaScript to an HTML webpage?</h3>
+<p>JavaScript is used for making HTML web pages more interactive, and user-friendly. It is a scripting language that allows you to interact with certain elements on the page, based on user input. As with CSS, there are three major ways of including JavaScript:</p>
+<ul>
+<li>Inline:</li>
+</ul>
+<p>You can add JavaScript to your HTML elements directly whenever a certain event occurs. We can add the JavaScript code using attributes of the HTML tags that support it. Here is an example that shows an alert with a message when the user clicks on it:</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>button</span> <span class="token special-attr"><span class="token attr-name">onclick</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span><span class="token value javascript language-javascript"><span class="token function">alert</span><span class="token punctuation">(</span><span class="token string">'Click the Button!'</span><span class="token punctuation">)</span><span class="token punctuation">;</span></span><span class="token punctuation">"</span></span></span><span class="token punctuation">></span></span>Click!<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>button</span><span class="token punctuation">></span></span></code></pre></div>
+<ul>
+<li>Script block:</li>
+</ul>
+<p>You can define a script block anywhere on the HTML code, which will get executed as soon as the browser reaches that part of the document. This is why script blocks are usually added at the bottom of HTML documents.</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span><span class="token punctuation">></span></span><span class="token script"><span class="token language-javascript">
+    <span class="token keyword">var</span> x <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
+
+    <span class="token keyword">var</span> y <span class="token operator">=</span> <span class="token number">2</span><span class="token punctuation">;</span>
+
+    <span class="token keyword">var</span> result <span class="token operator">=</span> x <span class="token operator">+</span> y<span class="token punctuation">;</span>
+
+    <span class="token function">alert</span><span class="token punctuation">(</span><span class="token string">"X + Y is equal to "</span> <span class="token operator">+</span> result<span class="token punctuation">)</span><span class="token punctuation">;</span>
+  </span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
+<ul>
+<li>External JavaScript file:</li>
+</ul>
+<p>You can also import the JavaScript code from a separate file and keep your HTML code clutter-free. This is especially useful if there is a large amount of scripting added to an HTML webpage.</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>my-script.js<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token script"></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
+<p>As you get prepared for your job interview, we hope that these HTML Interview Questions have provided more insight into what types of questions you are likely to come across.</p>
+<h3>29. What is the difference between HTML elements and tags?</h3>
+<ul>
+<li>Elements</li>
+</ul>
+<p>The element is an individual component of the HTML web page or document. It represents semantics or meaning. For example, the title element represents the title of the document.</p>
+<ul>
+<li>Tags</li>
+</ul>
+<p>It is the root of the HTML document which is used to specify that the document is HTML. For example, the Head tag is used to contain all the head element in the HTML file.</p>
+<h3>30. Explain the layout of HTML.</h3>
+<p>HTML layout specifies a way in which the web page is arranged. Every website has a specific layout to display content in a specific manner. Following are different HTML elements which are used to define the different parts of a webpage:</p>
+<ul>
+<li><code class="language-text">&lt;header></code>: It is used to define a header for a document or a section.</li>
+<li><code class="language-text">&lt;nav></code>: This defines a container for navigation links</li>
+<li><code class="language-text">&lt;section></code>: It is used to define a section in a document</li>
+<li><code class="language-text">&lt;article></code>: This is used to define an independent, self-contained article</li>
+<li><code class="language-text">&lt;aside></code>: It is used to define content aside from the content</li>
+<li><code class="language-text">&lt;footer></code>: It is used to define a footer for a document or a section</li>
+</ul>
+<h3>31. Is the <code class="language-text">&lt;!DOCTYPE html></code> tag considered as a HTML tag?</h3>
+<p>No, the <code class="language-text">&lt;!DOCTYPE html></code> declaration is not an HTML tag.</p>
+<p>There are many type of HTML, such as, HTML 4.01 Strict, HTML 4.01 Transitional, HTML 4.01 Frameset, XHTML 1.0 Strict, XHTML 1.0 Transitional, XHTML 1.0 Frameset, XHTML 1.1 etc. So, <code class="language-text">&lt;!DOCTYPE html></code> is used to instruct the web browser about the HTML page.</p>
+<h3>32. Why is a URL encoded in HTML?</h3>
+<p>An URL is encoded to convert non-ASCII characters into a format that can be used over the Internet because a URL is sent over the Internet by using the ASCII character-set only. If a URL contains characters outside the ASCII set, the URL has to be converted. The non-ASCII characters are replaced with a “%” followed by hexadecimal digits.</p>
+<h3>33. What are the entities in HTML?</h3>
+<p>The HTML character entities are used as a replacement for reserved characters in HTML. You can also replace characters that are not present on your keyboard by entities. These characters are replaced because some characters are reserved in HTML.</p>
+<h3>34. Can you create a multi-colored text on a web page?</h3>
+<p>Yes, we can create a multi-colored text on a web page. To create a multicolor text, you can use <code class="language-text">&lt;font color="color"> &lt;/font></code> for the specific texts that you want to color.</p>
+<h3>35. What is the advantage of collapsing white space?</h3>
+<p>White spaces are a blank sequence of space characters, which is treated as a single space character in HTML. Because the browser collapses multiple spaces into a single space, you can indent lines of text without worrying about multiple spaces. This enables you to organize the HTML code into a much more readable format.</p>
+<h3>36. How do you create text on a webpage that allows you to send an email when clicked?</h3>
+<p>To change the text into a clickable link to send an email, you need to use the mailto command within the href tag. You can write it in the following way:</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>mailto:youremailaddress<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>text to be clicked<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>37. How are active links different from normal links?</h3>
+<p>The default color for normal and active links is blue. Some browsers recognize an active link when the mouse cursor is placed over that link. Whereas, others recognize active links when the link has the focus. Those that don’t have a mouse cursor over that link is considered a normal link.</p>
+<h3>38. Are there instances where the text will appear outside of the browser?</h3>
+<p>By default, the text is wrapped to appear within the browser window. However, if the text is part of a table cell with a defined width, the text could extend beyond the browser window.</p>
+<h3>39. What are the limits of the text field size?</h3>
+<p>The default size for a text field is around 13 characters. However, if you include the size attribute, you can set the size value to be as low as 1. The maximum size value will be determined by the browser width. Also, if the size attribute is set to 0, the size will be set to the default size of 13 characters.</p>
+<h3>40. What happens if there is no text between the tags? Does this affect the display of the HTML file?</h3>
+<p>If there is no text present between the tags, there is nothing to format. Therefore, no formatting will appear. Some tags, such as the tags without a closing tag like the <img> tag, do not require any text between them.</p>
+<h3>41. List the media types and formats supported by HTML.</h3>
+<p>HTML supports a wide range of media formats for sound, music, videos, movies, and animations. Some of the extensions supported by each media format are:</p>
+<ul>
+<li>Images– png, jpg, jpeg, gif, apng, svg, bmp, BMP ico, png ico</li>
+<li>Audio– MIDI, RealAudio, WMA, AAC, WAV, Ogg, MP3, MP4</li>
+<li>Video– MPEG, AVI, WMV, QuickTime, RealVideo, Flash, Ogg, WebM, MPEG-4 or MP4</li>
+</ul>
+<h3>42. What is Cell Spacing and Cell Padding?</h3>
+<p>Cell Spacing is referred to as the space or gap between the two cells of the same table. Whereas, Cell Padding is referred to as the gap or space between the content of the cell and cell wall or cell border.</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>table</span> <span class="token attr-name">border</span> <span class="token attr-name">cellspacing</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>3<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>table</span> <span class="token attr-name">border</span> <span class="token attr-name">cellpadding</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>3<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>table</span> <span class="token attr-name">border</span> <span class="token attr-name">cellspacing</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>3<span class="token punctuation">"</span></span> <span class="token attr-name">cellpadding</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>3<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>table</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>table</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>table</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>43. What is difference between HTML and XHTML?</h3>
+<p>The differences between HTML and XHTML are:</p>
+<ul>
+<li>HTML is an application of Standard Generalized Markup Language. Whereas, XML is an application of Extensible Markup Language.</li>
+<li>The first one is a static Web Page whereas the later one is a dynamic Web Page.</li>
+<li>HTML allows programmer to perform changes in the tags and use attribute minimization whereas XHTML when user need a new markup tag then user can define it in this.</li>
+<li>HTML is about displaying information whereas XHTML is about describing the information.</li>
+</ul>
+<h3>44. What are logical and physical tags in HTML?</h3>
+<ul>
+<li>Logical tags are used to tell the meaning of the enclosed text. The example of the logical tag is <code class="language-text">&lt;strong> &lt;/strong></code> tag. When we enclose the text in the strong tag, it tells the browser that enclosed text is more important than other texts.</li>
+<li>Physical tags are used to tell the browser how to display the text enclosed in the physical tag. Some of the examples of physical tags are <code class="language-text">&lt;b></code>, <code class="language-text">&lt;big></code>, <code class="language-text">&lt;i></code>.</li>
+</ul>
+<h3>45. What is a class? What is an ID?</h3>
+<p>A class is a style (i.e., a group of CSS attributes) that can be applied to one or more HTML elements. This means it can apply to instances of the same element or instances of different elements to which the same style can be attached. Classes are defined in CSS using a period followed by the class name. It is applied to an HTML element via the class attribute and the class name.</p>
+<p>The following snippet shows a class defined and its application to an HTML DIV element.</p>
+<div class="gatsby-highlight" data-language="css"><pre class="language-css"><code class="language-css"><span class="token selector">.test</span> <span class="token punctuation">{</span>
+  <span class="token property">font-family</span><span class="token punctuation">:</span> Helvetica<span class="token punctuation">;</span>
+  <span class="token property">font-size</span><span class="token punctuation">:</span> 20<span class="token punctuation">;</span>
+  <span class="token property">background</span><span class="token punctuation">:</span> black<span class="token punctuation">;</span>
+<span class="token punctuation">}</span></code></pre></div>
+<p>Also, you could define a style for all elements with a defined class. This is demonstrated with the following code that selects all P elements with specified column class.</p>
+<div class="gatsby-highlight" data-language="css"><pre class="language-css"><code class="language-css"><span class="token selector">p.column</span> <span class="token punctuation">{</span>
+  <span class="token property">font-color</span><span class="token punctuation">:</span> black<span class="token punctuation">;</span>
+<span class="token punctuation">}</span></code></pre></div>
+<p>An ID selector is a name assigned to a specific style. It can be associated with one HTML element with the assigned ID. Within CSS, ID selectors are defined with the # character followed by the selector name.</p>
+<p>The following snippet shows the CSS example1 defined followed by the use of an HTML element’s ID attribute, which pairs it with the CSS selector.</p>
+<div class="gatsby-highlight" data-language="css"><pre class="language-css"><code class="language-css"><span class="token selector">#example1</span> <span class="token punctuation">{</span>
+  <span class="token property">background</span><span class="token punctuation">:</span> blue<span class="token punctuation">;</span>
+<span class="token punctuation">}</span></code></pre></div>
+<h3>46. What is microdata in HTML5?</h3>
+<p>Microdata are a group of name-value pairs that extract data for search engines and site crawlers. Each name-value pair is called a property and a group of them is called an item. Most search engines follow schema.org vocabulary for the extraction of microdata.</p>
+<ul>
+<li>itemid – A unique, global identifier of an item</li>
+<li>itemprop – Adds properties to an item</li>
+<li>itemref – Provides a list of element IDs with additional properties</li>
+<li>itemtype – Specifies the vocabulary’s URL that will be used to define itemprop</li>
+<li>itemscope – Defines the itemtype’s scope that is associated with it</li>
+</ul>
+<h3>47. What is HTML5? What are some of its new features that were not present in HTML?</h3>
+<p>HTML5 is the latest version of the Hypertext Markup Language. Some of the new features of HTML5 are:</p>
+<ul>
+<li>HTML5 supports SVG, canvas, and other virtual vector graphics. In HTML, vector graphics could only be used in conjunction with Flash, VML (Vector Markup Language), or Silverlight.</li>
+<li>HTML5 allows JavaScript to run within a web browser. In the previous version, JavaScript was allowed to run in the browser interface thread.</li>
+<li>HTML5 is not based on SGML. It comes with enhanced parsing rules for improved compatibility.</li>
+<li>In HTML5, web SQL databases are used to store data temporarily. Previously, only browser cache was used.</li>
+<li>Some elements have been removed – applet, isindex, noframes, acronym, dir, font, frame, frameset, and big are removed.</li>
+<li>New elements have been added – time, summary, aside, audio, command, and data.</li>
+</ul>
+<h3>48. Will HTML5 work if I don’t use <!DOCTYPE html>?</h3>
+<p>No, the HTML 5 tags won’t work properly and the browser won’t be able to tell that it’s an HTML document.</p>
+<h3>49. What is datalist tag?</h3>
+<p>The HTML 5 datalist tag provides an autocomplete feature on the form element. It facilitates users to choose the predefined options to the users to select data.</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>
+  Enter your favorite cricket player: Press any character<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span> <span class="token punctuation">/></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>text<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>favCktPlayer<span class="token punctuation">"</span></span> <span class="token attr-name">list</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>CktPlayers<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>datalist</span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>CktPlayers<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>option</span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Sachin Tendulkar<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>option</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>option</span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Brian Lara<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>option</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>option</span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Jacques Kallis<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>option</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>option</span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Ricky Ponting<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>option</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>option</span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Rahul Dravid<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>option</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>option</span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Shane Warne<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>option</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>option</span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Rohit Sharma<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>option</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>option</span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Donald Bradman<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>option</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>option</span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Saurav Ganguly <span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>option</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>option</span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>AB diVilliers<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>option</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>option</span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Mahendra Singh Dhoni<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>option</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>option</span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Adam Gilchrist<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>option</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>datalist</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>50. What are void elements in HTML?</h3>
+<p>HTML elements which do not have closing tags or do not need to be closed are Void elements. For Example <code class="language-text">&lt;br /></code>, <code class="language-text">&lt;img /></code>, <code class="language-text">&lt;hr /></code>, etc.</p>
+<h3>51. Define multipart form data?</h3>
+<p>Multipart form data is one of the values of the enctype attribute. It is used to send the file data to the server-side for processing. The other valid values of the enctype attribute are <code class="language-text">text/plain</code> and <code class="language-text">application/x-www-form-urlencoded</code>.</p>
+<h3>52. How to optimize website assets loading?</h3>
+<p>To optimize website load time we need to optimize its asset loading and for that:</p>
+<ul>
+<li>CDN hosting - A CDN or content delivery network is geographically distributed servers to help reduce latency.</li>
+<li>File compression - This is a method that helps to reduce the size of an asset to reduce the data transfer</li>
+<li>File concatenation - This reduces the number of HTTP calls</li>
+<li>Minify scripts - This reduces the overall file size of js and CSS files</li>
+<li>Parallel downloads - Hosting assets in multiple subdomains can help to bypass the download limit of 6 assets per domain of all modern browsers. This can be configured but most general users never modify these settings.</li>
+<li>Lazy Loading - Instead of loading all the assets at once, the non-critical assets can be loaded on a need basis.</li>
+</ul>
+<h3>53. What are the various formatting tags in HTML?</h3>
+<p>HTML has various formatting tags:</p>
+<ul>
+<li><code class="language-text">&lt;b></code> - makes text bold</li>
+<li><code class="language-text">&lt;i></code> - makes text italic</li>
+<li><code class="language-text">&lt;em></code> - makes text italic but with added semantics importance</li>
+<li><code class="language-text">&lt;big></code> - increases the font size of the text by one unit</li>
+<li><code class="language-text">&lt;small></code> - decreases the font size of the text by one unit</li>
+<li><code class="language-text">&lt;sub></code> - makes the text a subscript</li>
+<li><code class="language-text">&lt;sup></code> - makes the text a superscript</li>
+<li><code class="language-text">&lt;del></code> - displays as strike out text</li>
+<li><code class="language-text">&lt;strong></code> - marks the text as important</li>
+<li><code class="language-text">&lt;mark></code> - highlights the text</li>
+<li><code class="language-text">&lt;ins></code> - displays as added text</li>
+</ul>
+<h3>54. How can we club two or more rows or columns into a single row or column in an HTML table?</h3>
+<p>HTML provides two table attributes <code class="language-text">rowspan</code> and <code class="language-text">colspan</code> to make a cell span to multiple rows and columns respectively.</p>
+<h3>55. Is it possible to change an inline element into a block level element?</h3>
+<p>Yes, it is possible using the <code class="language-text">display</code> property with its value as <code class="language-text">block</code>, to change the inline element into a block-level element.</p>
+<h3>56. In how many ways can we position an HTML element? Or what are the permissible values of the position attribute?</h3>
+<p>There are mainly 7 values of position attribute that can be used to position an HTML element:</p>
+<ul>
+<li>static: Default value. Here the element is positioned according to the normal flow of the document.</li>
+<li>absolute: Here the element is positioned relative to its parent element. The final position is determined by the values of left, right, top, bottom.</li>
+<li>fixed: This is similar to absolute except here the elements are positioned relative to the <html> element.</li>
+<li>relative: Here the element is positioned according to the normal flow of the document and positioned relative to its original/ normal position.</li>
+<li>initial: This resets the property to its default value.</li>
+<li>inherit: Here the element inherits or takes the property of its parent</li>
+</ul>
+<h3>57. What is the difference between <code class="language-text">display: none</code> and <code class="language-text">visibility: hidden</code>, when used as attributes to the HTML element.</h3>
+<p>When we use the attribute <code class="language-text">visibility: hidden</code> for an HTML element then that element will be hidden from the webpage but still takes up space. Whereas, if we use the <code class="language-text">display: none</code> attribute for an HTML element then the element will be hidden, and also it won’t take up any space on the webpage.</p>
+<h3>58. How to specify the link in HTML and explain the target attribute?</h3>
+<p>HTML provides a hyperlink - <code class="language-text">&lt;a></code> tag to specify the links in a webpage. The <code class="language-text">href</code> attribute is used to specify the link and the <code class="language-text">target</code> attribute is used to specify, where do we want to open the linked document. The ‘target’ attribute can have the following values:</p>
+<ul>
+<li>_self: This is a default value. It opens the document in the same window or tab as it was clicked.</li>
+<li>_blank: It opens the document in a new window or tab.</li>
+<li>_parent: It opens the document in a parent frame.</li>
+<li>_top: It opens the document in a full-body window.</li>
+</ul>
+<h3>59. Difference between link tag <code class="language-text">&lt;link></code> and anchor tag <code class="language-text">&lt;a></code>?</h3>
+<p>The anchor tag <code class="language-text">&lt;a></code> is used to create a hyperlink to another webpage or to a certain part of the webpage and these links are clickable, whereas, link tag <code class="language-text">&lt;link></code> defines a link between a document and an external resource and these are not clickable.</p>
+<h3>60. What are forms and how to create forms in HTML?</h3>
+<p>The HTML form is used to collect the user inputs. HTML provides a <code class="language-text">&lt;form></code> tag to create forms. To take input from the user we use the <code class="language-text">&lt;input></code> tag inside the form so that all collected user data can be sent to the server for processing. There are different input types like ‘button’, ‘checkbox’, ‘number’, ‘text’, ‘password’, ‘submit’ etc.</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>form</span> <span class="token attr-name">action</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>/submit_data.php<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>Enter your name: <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>text<span class="token punctuation">"</span></span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>name<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>Enter Mobile number <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>number<span class="token punctuation">"</span></span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>mobile_no<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>submit<span class="token punctuation">"</span></span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Submit<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>form</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>61. What is the difference between <figure> tag and <img> tag?</h3>
+<p>The <code class="language-text">&lt;figure></code> tag specifies the self-contained content, like diagrams, images, code snippets, etc. <code class="language-text">&lt;figure></code> tag is used to semantically organize the contents of an image like image, image caption, etc., whereas the <code class="language-text">&lt;img></code> tag is used to embed the picture in the HTML5 document.</p>
+<h3>62. Is the <code class="language-text">&lt;datalist></code> tag and <code class="language-text">&lt;select></code> tag same?</h3>
+<p>No. The <code class="language-text">&lt;datalist></code> tag and <code class="language-text">&lt;select></code> tag are different. In the case of <code class="language-text">&lt;select></code> tag a user will have to choose from a list of options, whereas <code class="language-text">&lt;datalist></code> when used along with the <code class="language-text">&lt;input></code> tag provides a suggestion that the user selects one of the options given or can enter some entirely different value.</p>
+<h3>63. What is the difference between <code class="language-text">&lt;meter></code> tag and <code class="language-text">&lt;progress></code> tag?</h3>
+<p><code class="language-text">&lt;progress></code> tag should be used when we want to show the completion progress of a task, whereas if we just want a scalar measurement within a known range or fraction value. Also, we can specify multiple extra attributes for <code class="language-text">&lt;meter></code> tags like ‘form’, ‘low’, ‘high’, ‘min’, etc.</p>
+<h3>64. Is drag and drop possible using HTML5 and how?</h3>
+<p>Yes, in HTML5 we can drag and drop an element. This can be achieved using the drag and drop-related events to be used with the element which we want to drag and drop.</p>
+<h3>65. Explain new input types provided by HTML5 for forms?</h3>
+<p>Following are the significant new data types offered by HTML5:</p>
+<ul>
+<li>Date - Only select date by using type = “date”</li>
+<li>Week - Pick a week by using type = “week”</li>
+<li>Month - Only select month by using type = “month”</li>
+<li>Time - Only select time by using type = “time”.</li>
+<li>Datetime - Combination of date and time by using type = “datetime”</li>
+<li>Datetime-local - Combination of date and time by using type = “datetime-local.” but ignoring the timezone</li>
+<li>Color - Accepts multiple colors using type = “color”</li>
+<li>Email - Accepts one or more email addresses using type = “email”</li>
+<li>Number - Accepts a numerical value with additional checks like min and max using type = “number”</li>
+<li>Search - Allows searching queries by inputting text using type = “search”</li>
+<li>Tel - Allows different phone numbers by using type = “tel”</li>
+<li>Placeholder - To display a short hint in the input fields before entering a value using type = “placeholder”</li>
+<li>Range - Accepts a numerical value within a specific range using type = “range”</li>
+<li>Url - Accepts a web address using type = “url”</li>
+</ul>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>form</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>Date:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>date<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>date<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>Week:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>week<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>week<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>Month:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>month<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>month<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>Time:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>time<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>time<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>Datetime:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>datetime<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>datetime<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>Datetime Local:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>datetime-local<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>datetime-local<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>Color:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>color<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>color<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>Email:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>email<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>email<span class="token punctuation">"</span></span> <span class="token attr-name">placeholder</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>email address<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>Number:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>number<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>number<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>Search:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>search<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>search<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>Phone:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>tel<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>phone<span class="token punctuation">"</span></span> <span class="token attr-name">placeholder</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Phone Number<span class="token punctuation">"</span></span> <span class="token attr-name">pattern</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>\d{10}$<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>Range:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>range<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>range<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span> <span class="token punctuation">/></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span><span class="token punctuation">></span></span>URL:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>url<span class="token punctuation">"</span></span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>url<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>form</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>66. Why do we need the MathML element in HTML5?</h3>
+<p>MathML stands for Mathematical Markup Language. It is used for displaying mathematical expressions on web pages. For this <code class="language-text">&lt;math></code> tag is used.</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">DOCTYPE</span> <span class="token name">HTML</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span><span class="token punctuation">></span></span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>head</span><span class="token punctuation">></span></span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>head</span><span class="token punctuation">></span></span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>body</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>math</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>mrow</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>mrow</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>msup</span><span class="token punctuation">></span></span>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>mi</span><span class="token punctuation">></span></span> a <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>mi</span><span class="token punctuation">></span></span>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>mn</span><span class="token punctuation">></span></span> 2 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>mn</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>msup</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>mo</span><span class="token punctuation">></span></span> + <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>mo</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>msup</span><span class="token punctuation">></span></span>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>mi</span><span class="token punctuation">></span></span> b <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>mi</span><span class="token punctuation">></span></span>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>mn</span><span class="token punctuation">></span></span> 2 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>mn</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>msup</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>mo</span><span class="token punctuation">></span></span> + <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>mo</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>mn</span><span class="token punctuation">></span></span> 2 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>mn</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>mn</span><span class="token punctuation">></span></span> a <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>mn</span><span class="token punctuation">></span></span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>mn</span><span class="token punctuation">></span></span> b <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>mn</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>mrow</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>mo</span><span class="token punctuation">></span></span> = <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>mo</span><span class="token punctuation">></span></span>
+    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>mn</span><span class="token punctuation">></span></span> 0 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>mn</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>mrow</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>math</span><span class="token punctuation">></span></span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>body</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
+<p>This displays the equation a2 + b2 + 2ab = 0.</p>
+<h3>67. What is the usage of a novalidate attribute for the form tag that is introduced in HTML5?</h3>
+<p>Its value is a boolean type that indicates whether or not the data being submitted by the form will be validated beforehand. By making this false, forms can be submitted without validation which helps users to resume later also.</p>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>form</span> <span class="token attr-name">action</span> <span class="token attr-value"><span class="token punctuation attr-equals">=</span> <span class="token punctuation">"</span><span class="token punctuation">"</span></span> <span class="token attr-name">method</span> <span class="token attr-value"><span class="token punctuation attr-equals">=</span> <span class="token punctuation">"</span>get<span class="token punctuation">"</span></span> <span class="token attr-name">novalidate</span><span class="token punctuation">></span></span>
+        Name:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>name<span class="token punctuation">"</span></span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>sname<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span><span class="token punctuation">></span></span>
+       Doubt:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>number<span class="token punctuation">"</span></span> <span class="token attr-name">name</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>doubt<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span><span class="token punctuation">></span></span>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>submit<span class="token punctuation">"</span></span> <span class="token attr-name">value</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>Submit<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>form</span><span class="token punctuation">></span></span></code></pre></div>
+<h3>68. What are raster images and vector images?</h3>
+<ul>
+<li>Raster Images - The raster image is defined by the arrangement of pixels in a grid with exactly what color the pixel should be. Few raster file formats include PNG(.png), JPEG(.jpg), etc.</li>
+<li>Vector Images - The vector image is defined using algorithms with shape and path definitions that can be used to render the image on-screen written in a similar markup fashion. The file extension is .svg</li>
+</ul>
+<h3>69. What are different approaches to make an image responsive?</h3>
+<ul>
+<li>Art direction - Using <code class="language-text">&lt;picture></code> element the landscape image fully shown in desktop layout can be zoomed in with the main subject in focus for a portrait layout.</li>
+</ul>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>picture</span><span class="token punctuation">></span></span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>source</span> <span class="token attr-name">media</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>(min-width: 650px)<span class="token punctuation">"</span></span> <span class="token attr-name">srcset</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>img_cup.jpg<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+ <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>img</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>img_marsh.jpg<span class="token punctuation">"</span></span> <span class="token special-attr"><span class="token attr-name">style</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span><span class="token value css language-css"><span class="token property">width</span><span class="token punctuation">:</span>auto<span class="token punctuation">;</span></span><span class="token punctuation">"</span></span></span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>picture</span><span class="token punctuation">></span></span></code></pre></div>
+<ul>
+<li>Resolution switching - Instead of zoom and crop the images can be scaled accordingly using vector graphics. Also, this can be further optimized to serve different pixel density screens as well.</li>
+</ul>
+<h3>70. What is a manifest file in HTML5?</h3>
+<p>The manifest file is used to list down resources that can be cached. Browsers use this information to make the web page load faster than the first time. There are 3 sections in the manifest file</p>
+<ul>
+<li>CACHE Manifest - Files needs to be cached</li>
+<li>Network - File never to be cached, always need a network connection.</li>
+<li>Fallback - Fallback files in case a page is inaccessible</li>
+</ul>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">CACHE MANIFEST
+# 2012-06-16 v1.0.0
+/style.css
+/logo.gif
+/main.js
+NETWORK:
+login.php
+FALLBACK:
+/html/ /offline.html</code></pre></div>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"><span class="token doctype"><span class="token punctuation">&lt;!</span><span class="token doctype-tag">DOCTYPE</span> <span class="token name">HTML</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>html</span> <span class="token attr-name">manifest</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>tutorial.appcache<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+...
+...
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>html</span><span class="token punctuation">></span></span></code></pre></div>
+<p>Hope, It’s help you.</p></section></article><section class="post-template__PostContent-sc-afk1br-7 kDxfMS"><h2>Premium Content</h2><p>You can get all the below premium content directly in your mail when you <a href="/subscription/" target="_BLANK" >subscribe us</a></p></section><section class="post-template__PostContent-sc-afk1br-7 kDxfMS"><h3>Books</h3></section><nav class="post-template__PostPagination-sc-afk1br-8 jBsrGp"><div><span>Discover the TypeScript Language</span><a target="_blank" href="/subscription/"> <!-- -->TypeScript GuideBook</a></div><div><span>Discover the Monorepo Concept</span><a target="_blank" href="/subscription/"> <!-- -->Monorepo GuideBook</a></div></nav><section class="post-template__PostContent-sc-afk1br-7 kDxfMS"><h3>Interview Questions</h3><p>Soon You will get CSS, JavaScript, React Js, and TypeScript So Subscribe to it.</p></section><nav class="post-template__PostPagination-sc-afk1br-8 jBsrGp"><div><span>Top 70 Questions &amp; Answers</span><a target="_blank" href="/subscription/"> <!-- -->Html Interview Questions</a></div></nav><section class="post-template__PostContent-sc-afk1br-7 kDxfMS"><h3>Portfolio Template</h3></section><nav class="post-template__PostPagination-sc-afk1br-8 jBsrGp"><div><span>Discover the minimal portfolio template</span><a target="_blank" href="/subscription/"> <!-- -->Portfolio Template</a></div></nav><p><a href="https://portfolio.aguidehub.com/" target="_BLANK">View</a> | <a href="/subscription/" target="_BLANK">Get Source Code</a></p><section class="post-template__PostContent-sc-afk1br-7 kDxfMS"><h3>Cheat Sheets</h3><p>Cheat Sheets Books are basically Important useful notes which we use in our day-to-day life.</p></section><nav class="post-template__PostPagination-sc-afk1br-8 jBsrGp"><div><span>Discover the HTML useful Topics</span><a target="_blank" href="/subscription/"> <!-- -->HTML CheatSheets Book</a></div><div><span>Discover the CSS useful Topics</span><a target="_blank" href="/subscription/"> <!-- -->CSS CheatSheets Book</a></div></nav><nav class="post-template__PostPagination-sc-afk1br-8 jBsrGp"><div><span>Discover the JavaScript useful Topics</span><a target="_blank" href="/subscription/"> <!-- -->JavaScript CheatSheets Book</a></div><div><span>Discover the React Js useful Topics</span><a target="_blank" href="/subscription/"> <!-- -->React Js CheatSheets Book</a></div></nav><section class="post-template__PostContent-sc-afk1br-7 kDxfMS"><h3>Related Posts</h3></section><nav class="post-template__PostPagination-sc-afk1br-8 jBsrGp"><div><span>next</span><a href="/blog/2023-04-14-how-to-install-and-use-chartjs-in-react-js/"> <!-- -->How to install and use chart.js in react js?</a></div></nav><div><span class="tags__Tag-sc-16itk8x-0 egVKge"><a href="/tags/html/">HTML</a></span></div></div></div><div class="post-template__RightContainer-sc-afk1br-3 evJXsZ"></div></div></div></main><footer class="footer__StyledFooter-sc-1d6x338-0 dxgnAr"><div class="container__Container-sc-g6pcgm-0 footer__FooterWrapper-sc-1d6x338-1 jyFezK fXZhdt"><ul class="social-links__SocialLinkList-sc-r9vd8i-0 ifQECM"><li class="social-links__SocialLinkItem-sc-r9vd8i-1 iKVzIm"><a target="_blank" rel="nofollow noopener" href="https://github.com/aguidehub">github</a></li><li class="social-links__SocialLinkItem-sc-r9vd8i-1 iKVzIm"><a target="_blank" rel="nofollow noopener" href="https://twitter.com/aguidehub">twitter</a></li></ul><ul class="footer__SocialLinkList-sc-1d6x338-2 jelTzB"><li class="footer__SocialLinkItem-sc-1d6x338-3 gfowZX"><a href="/disclaimer/">Disclaimer</a></li><li class="footer__SocialLinkItem-sc-1d6x338-3 gfowZX"><a href="/privacy-policy/">Privacy Policy</a></li><li class="footer__SocialLinkItem-sc-1d6x338-3 gfowZX"><a href="/terms-and-conditions/">Terms and conditions</a></li></ul></div></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div></body></html>
