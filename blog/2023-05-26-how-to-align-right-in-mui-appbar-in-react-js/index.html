@@ -114,7 +114,7 @@ data-styled.g58[id="post-template__PostPagination-sc-afk1br-8"]{content:"jBsrGp,
 <p>Table of contents</p>
 <ul>
 <li>Install MUI and create a new React app.</li>
-<li>Import Material-UI accordion.</li>
+<li>Import Material-UI AppBar.</li>
 <li>Customizing the AppBar.</li>
 </ul>
 <h3>Step 1: Install MUI and create a new React app.</h3>
@@ -122,12 +122,12 @@ data-styled.g58[id="post-template__PostPagination-sc-afk1br-8"]{content:"jBsrGp,
 <div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">npx create<span class="token operator">-</span>react<span class="token operator">-</span>app my<span class="token operator">-</span>app
 cd my<span class="token operator">-</span>app
 npm start</code></pre></div>
-<h3>Step 2: Import Material-UI accordion.</h3>
+<h3>Step 2: Import Material-UI AppBar.</h3>
 <p>After installing <code class="language-text">MUI</code>, you have to import your React component. To do this, add the following line to the top of your component file.</p>
 <div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">import</span> React <span class="token keyword">from</span> <span class="token string">'react'</span><span class="token punctuation">;</span>
 <span class="token keyword">import</span> <span class="token punctuation">{</span> AppBar<span class="token punctuation">,</span> Toolbar<span class="token punctuation">,</span> Typography <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">'@mui/material'</span><span class="token punctuation">;</span></code></pre></div>
 <h3>Step 3: Customizing the AppBar.</h3>
-<p>You can use the <code class="language-text">AppBar</code> component in your react js. For example, The AppBar component is used to create a top app bar that contains navigation. You can use this css <code class="language-text">sx={{ justifyContent: 'flex-end' }}</code>.</p>
+<p>You can use the <code class="language-text">AppBar</code> component in your react js. For example, The AppBar component is used to create a top app bar that contains navigation. You can use this css <code class="language-text">sx={{ justifyContent: 'flex-end' }}</code> and show you align right in mui appbar in react js.</p>
 <div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token operator">&lt;</span>AppBar position<span class="token operator">=</span><span class="token string">"static"</span><span class="token operator">></span>
     <span class="token operator">&lt;</span>Toolbar sx<span class="token operator">=</span><span class="token punctuation">{</span><span class="token punctuation">{</span> <span class="token literal-property property">justifyContent</span><span class="token operator">:</span> <span class="token string">'flex-end'</span> <span class="token punctuation">}</span><span class="token punctuation">}</span><span class="token operator">></span>
       <span class="token operator">&lt;</span>Typography variant<span class="token operator">=</span><span class="token string">"h6"</span><span class="token operator">></span>Right Aligned Content<span class="token operator">&lt;</span><span class="token operator">/</span>Typography<span class="token operator">></span>
