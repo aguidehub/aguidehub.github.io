@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-onecompiler-template-js",
     "path": "/onecompiler/",
-    "result": {"data":{"markdownRemark":{"html":"<p>OneCompiler is a free online compiler. It helps users to write, run and share code online for more than 60 programming languages &#x26; databases, Including all popular ones like Java, Python, MySQL, C, C++, NodeJS, Javascript, Groovy, Jshell &#x26; HTML.</p>","frontmatter":{"title":"Onecompiler Code Editor","profile_image":"..\\..\\static\\media\\profile-image.jpg"}}},"pageContext":{"slug":"/onecompiler/"}},
+    "result": {"data":{"markdownRemark":{"html":"<p>OneCompiler is a free online compiler. It helps users to write, run and share code online for more than 60 programming languages &#x26; databases, Including all popular ones like Java, Python, MySQL, C, C++, NodeJS, Javascript, Groovy, Jshell &#x26; HTML.</p>","frontmatter":{"title":"Onecompiler Code Editor","profile_image":"./media/profile-image.jpg"}}},"pageContext":{"slug":"/onecompiler/"}},
     "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
